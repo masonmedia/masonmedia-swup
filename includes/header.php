@@ -38,7 +38,7 @@
         <!-- Styles -->
         <link rel="stylesheet" href="/assets/css/aos.css">
         <link rel="stylesheet" href="/assets/css/normalize.css">
-        <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,900" rel="stylesheet">        <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">-->
         <link rel="stylesheet" href="/assets/css/html5-device-mockups/dist/device-mockups.min.css">
         <link rel="stylesheet" href="/assets/css/keyframes.css">
         <link rel="stylesheet" href="/assets/css/pageTransitions.css">
@@ -75,8 +75,8 @@
        
        <!--nav-->
         <nav id="menu" class="navbar fixed-top navbar-expand-lg down down-med">
-            <a class="navbar-brand" href="/index.php">
-                <img class="decentral-navbar-brand" src="/assets/img/decentralLogo.png" alt="Decentral Inc.">
+            <a class="navbar-brand knockout-gradient text-light" href="/index.php">
+                mason<span class="font-weight-bold">media</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
             
@@ -91,30 +91,25 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/about.php">About</a>
+                        <a class="nav-link" href="/about.php">about</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/jaxxliberty.php">Jaxx Liberty</a>
+                        <a class="nav-link" href="/jaxxliberty.php">design</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/history.php">History</a>
+                        <a class="nav-link" href="/history.php">development</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/partnerships.php">Partnerships</a>
+                        <a class="nav-link" href="/partnerships.php">writing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/team.php">Team</a>
+                        <a class="nav-link" href="/team.php">marketing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://blog.jaxx.io/" target="_blank">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/contact.php">Contact</a>
+                        <a class="nav-link" href="/contact.php">contact</a>
                     </li>
                 </ul>
             </div>
         </nav>
         <!--end nav--> 
-        
-<!--        <div id="swup" class="transition-fade">-->
-        
+                

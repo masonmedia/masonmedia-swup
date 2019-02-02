@@ -11,74 +11,22 @@ include 'includes/header.php';
 <!--banner-->
 
 <div id="home" role="banner" class="container-fluid p-0">
-
-<!--video banner
-    <div class="row d-flex min-100 min--100 relative z-1">
-       <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
-          <source src="/assets/img/video-people.mp4" type="video/mp4">
+   
+    <div class="row d-flex min-100 min--100 text-light py-5">
+<!--
+        <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
+          <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
           <source src="movie.ogg" type="video/ogg">
         Your browser does not support the video tag.
-        </video>
-        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
-            <h1 class="h4 scene_element scene_element--fadeindown">Canada's leading blockchain company</h1>
-            <h2 class="site-title knockout-gradient font-weight-bold scene_element scene_element--fadeinleft">Changing your world through decentralized technologies.</h2>
+        </video> 
+-->
+        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left p-5">
+            <h1 class="h4 relative z-1">Designer. Developer. Copywriter.</h1>
+            <h2 class="site-title-big knockout-gradient font-weight-bold absolute z-0">Andrew Mason</h2>
             <i href="#sec-1" class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i>
         </div>
         <div class="offset-lg-5"></div>
     </div>
--->
-  
-  <div class="row d-flex min-700-lg bg-black text-light relative py-5">
-        <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/decentral-home-banner.jpeg" alt="Decentral Inc.">
-        <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5 transition-fade">
-            <h1 class="h4 mt-3">Canada's leading blockchain company</h1>
-            <h2 class="site-title knockout-gradient text-light font-weight-bold">Changing the world through decentralized technologies.</h2>
-            <i href="#sec-1" class="fa fa-angle-down knockout-gradient p-0"></i>
-        </div>
-        <div class="offset-lg-3"></div>
-    </div>
-    
-</div>
-   
-<!--
-   <div class="row d-flex min-100 min--100 bg-black relative">
-        <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/decentral-black-fluorescents.jpeg" alt="">
-        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
-            <h1 class="h4 ts-title scene_element scene_element--fadeindown">Canada's leading blockchain company</h1>
-            <h2 class="site-title ts-title font-weight-bold scene_element scene_element--fadeinleft">Changing the world through decentralized technologies.</h2>
-            <a href="#sec-1"><i class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i></a>
-        </div>
-        <div class="offset-lg-5"></div>
-    </div>
--->
-    
-<!--
-    <div class="row d-flex min-100 min--100 bg--home-banner-2 lazy">
-        <div class="offset-lg-2"></div>
-        <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center text-light p-5">
-            <h1 class="h4 ts-title scene_element scene_element--fadeindown">Canada's leading blockchain company</h1>
-            <h2 class="site-title ts-title scene_element scene_element--fadeinleft">Changing the world through decentralized technologies.</h2>
-            <a href="#sec-1"><i class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i></a>
-        </div>
-        <div class="offset-lg-2"></div>
-    </div>
-       
-    <div class="row d-flex min-100 min--100 bg--home-banner-3">
-        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
-            <h1 class="h4 scene_element scene_element--fadeindown">Canada's leading blockchain company</h1>
-            <h2 class="site-title-big font-weight-bold scene_element scene_element--fadeinleft">Changing the world through decentralized technologies.</h2>
-            <a href="#sec-1"><i class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i></a>
-        </div>
-        <div class="offset-lg-5"></div>
-    </div>
--->
-    
-<!--
-    <div class="row d-flex min-700-lg bg--home-skyline" data-aos="fade" data-aos-easing="ease-in-out-quart" data-aos-duration="1000">
-       bg--home-anthony
-       bg--home-building
-    </div>
--->
 
    <!--main body-->
 
@@ -86,31 +34,30 @@ include 'includes/header.php';
    
     <div id="sec-1" class="row d-flex p-5 min-500 bg-white relative">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left right">
-            <h2 class="h4">About Decentral</h2>
-            <h3 class="section-title text-dark">Canada's leading blockchain company.</h3>
+            <h2 class="section-title text-dark">Original, modern, and functional web design.</h2>
+            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, copywriter and editor. I build modern, innovative, and original web & print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3">Decentral was founded in 2013 by Anthony Di Iorio with the goal of becoming an innovation hub for disruptive and decentralized technologies. In just six years, the organization has created a community of hundreds of partner projects, most notably spawning Ethereum and Jaxx Liberty. We build the tools to enable people to be in control of their digital lives.</p>
-            <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>  
+            <p class="p-big pt-3">I co-think with clients to create unique and innovative design and marketing solutions that balance beauty with function, scalability, and SEO. From interactive websites to copywriting, graphic design, and brand development, I create custom products with depth and originality.</p>
+            <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->
      
      <div class="row d-flex bg-white">
         <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-center">
-            <img data-src="/assets/img/jaxx-imac-white.jpg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">
-<!--            <img data-src="/assets/img/jaxx-macbook-air.png" class="w-75 absolute z-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">-->
+            <img data-src="/assets/img/jaxx-imac-white.jpg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">å
         </div>
     </div>
       
     <!--jaxx liberty-->
     
     <div class="row d-flex p-5 min-500 bg-white">
-        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="h4">Jaxx Liberty</h2>
-            <h3 class="section-title text-dark">The leading multi-platform digital asset wallet.</h3>
+        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
+            <h2 class="section-title text-dark">Innovative design for a homogenous internet.</h2>
+            <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I strive to bring beautiful, modern design solutions to every project.</p>
         </div>
-        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0 scene_element scene_element--fadeinright">Decentral's flagship product, <a class="font-weight-bold orange" href="https://jaxx.io" target="_blank">Jaxx Liberty</a> is an industry leading investment tool that is transforming the way people invest, learn about blockchain, and manage digital assets.</p>
+        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
+            <p class="p-big pt-3 m-0">In designing for both web and print, my process is intuitive and innovative. I collaborate with clients to help communicate their goals, brand identity, and aesthetics, while drawing on broad experience and constant research of current design trends and best practices.</p>
             <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
@@ -121,15 +68,16 @@ include 'includes/header.php';
         </div>
     </div>
     
-    <!--partnerships-->
+    <!--development-->
     
     <div class="row d-flex p-5 min-500 bg-white">
-        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="h4">Decentral partnerships</h2>
-            <h3 class="section-title text-dark">Connecting, informing, sharing.</h3>
+        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
+            <h2 class="section-title text-dark">Coding and development that works.</h2>
+            <p class="p-big pt-3">I design it. And I build it. I offer clients a range of options for their web needs that are unique, personalized, and functional.</p>
         </div>
-        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0 scene_element scene_element--fadeinright">The Decentral team is a critical node in the growing network of companies using decentralized technologies. This interconnected web is creating economic opportunity, empowering individuals worldwide with financial liberty, and building the trustless, censorship-resistant Internet of the future.</p>
+        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
+            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of 3rd party libraries and plugins to offer clients a range of options that are beautiful, innovative, and versatile. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
+            <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
     
@@ -143,12 +91,11 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="h4">Decentral team</h2>
-            <h3 class="section-title text-dark mb-0">Working together to unite blockchain projects around the globe.</h3>
+            <h2 class="section-title text-dark mb-0">Writing that doesn't suck.</h2>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
             <p class="p-big pt-3 m-0 scene_element scene_element--fadeinright">Decentral is an innovation hub for disruptive and decentralized technologies. Decentral is home to Canada’s first two-way Bitcoin ATM and host to community-driven events in the domains of fintech, blockchain, cryptocurrencies and decentralized technologies.</p>
-            <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>  
+            <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
     
