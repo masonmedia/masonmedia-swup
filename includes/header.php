@@ -75,7 +75,7 @@
        
        <!--nav-->
         <nav id="menu" class="navbar fixed-top navbar-expand-lg down down-med">
-            <a class="navbar-brand knockout-gradient text-light" href="/index.php">
+            <a class="navbar-brand knockout-blue text-light" href="/index.php">
                 mason<span class="font-weight-bold">media</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">

@@ -22,7 +22,7 @@ include 'includes/header.php';
 -->
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left p-5">
             <h1 class="h4 relative z-1">Designer. Developer. Copywriter.</h1>
-            <h2 class="site-title-big knockout-gradient font-weight-bold absolute z-0">Andrew Mason</h2>
+            <h2 class="site-title-big knockout-blue font-weight-bold absolute z-0">Andrew Mason</h2>
             <i href="#sec-1" class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i>
         </div>
         <div class="offset-lg-5"></div>
@@ -34,18 +34,18 @@ include 'includes/header.php';
    
     <div id="sec-1" class="row d-flex p-5 min-500 bg-white relative">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left right">
-            <h2 class="section-title text-dark">Original, modern, and functional web design.</h2>
-            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, copywriter and editor. I build modern, innovative, and original web & print experiences.</p>
+            <h2 class="section-title text-dark">Modern web design. With <span class="text-primary">edge.</span></h2>
+            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter that builds modern, innovative, and original web & print experiences. I offer clients a unique approach to web and print design.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3">I co-think with clients to create unique and innovative design and marketing solutions that balance beauty with function, scalability, and SEO. From interactive websites to copywriting, graphic design, and brand development, I create custom products with depth and originality.</p>
+            <p class="p-big pt-3">I fill the vacuum left by soulless, cookie cutter websites and premade template designs to offer something bold, different, and risky. I co-think with clients to create innovative design and marketing solutions that balance beauty with function. From interactive websites to copywriting, graphic design, and brand development, I think laterally to produce products with depth.</p>
             <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->
      
      <div class="row d-flex bg-white">
         <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-center">
-            <img data-src="/assets/img/jaxx-imac-white.jpg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">å
+            <img data-src="https://images.pexels.com/photos/928475/pexels-photo-928475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">
         </div>
     </div>
       
@@ -53,7 +53,7 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-            <h2 class="section-title text-dark">Innovative design for a homogenous internet.</h2>
+            <h2 class="section-title text-dark"><span class="text-primary">Innovative</span> design for a homogenous internet.</h2>
             <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I strive to bring beautiful, modern design solutions to every project.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
@@ -64,7 +64,7 @@ include 'includes/header.php';
 
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="/assets/img/jaxx-group-people.jpg" class="img-full absolute z-0 left-0 lazy" alt="Jaxx Liberty: the leading digital asset wallet by Decentral." title="Jaxx Liberty">
+            <img data-src="https://images.pexels.com/photos/164880/pexels-photo-164880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Jaxx Liberty: the leading digital asset wallet by Decentral." title="Jaxx Liberty">
         </div>
     </div>
     
@@ -72,18 +72,19 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-            <h2 class="section-title text-dark">Coding and development that works.</h2>
+            <h2 class="section-title text-dark">Coding and development that <span class="text-primary" data-aos="fade-up">works.</span></h2>
             <p class="p-big pt-3">I design it. And I build it. I offer clients a range of options for their web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of 3rd party libraries and plugins to offer clients a range of options that are beautiful, innovative, and versatile. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
+            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of third party libraries and plugins to offer clients a range of options that are beautiful, innovative, and versatile. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
             <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="/assets/img/decentral-toronto-flatiron.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is a critical node in a growing network of companies using decentralized technologies.">
+            <img data-src="https://images.pexels.com/photos/265631/pexels-photo-265631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral is a critical node in a growing network of companies using decentralized technologies.">
+<!--            <img data-src="/assets/img/decentral-toronto-flatiron.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is a critical node in a growing network of companies using decentralized technologies.">-->
         </div>
     </div>
     
@@ -91,17 +92,18 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="section-title text-dark mb-0">Writing that doesn't suck.</h2>
+            <h2 class="section-title text-dark mb-0">Writing that doesn't <span class="text-primary">suck.</span></h2>
+            <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be accessible on the modern web, it doesn't need to suck.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0 scene_element scene_element--fadeinright">Decentral is an innovation hub for disruptive and decentralized technologies. Decentral is home to Canada’s first two-way Bitcoin ATM and host to community-driven events in the domains of fintech, blockchain, cryptocurrencies and decentralized technologies.</p>
+            <p class="p-big pt-3 m-0">I have diverse experience writing and editing on topics from food and fashion, to music, tech, and the environment. I write and package text specifically for web consumption: which means it's entertaining, easy to read, engaging, spelled properly, and reads better than Moby Dick. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for better readability and SEO.</p>
             <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="/assets/img/jaxx-testimonials.jpeg" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
+            <img data-src="https://images.pexels.com/photos/159825/color-pencil-drawing-coloring-colored-pencils-159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
         </div>
     </div>
     
@@ -120,7 +122,7 @@ include 'includes/header.php';
     <!-- carousel-->
     
     <div id="testimonials" class="carousel slide carousel-fade relative" data-ride="carousel" data-aos="fade" data-aos-easing="ease-in-out-quart" data-aos-duration="1000">
-      <img data-src="https://images.unsplash.com/photo-1515462277126-2dd0c162007a?ixlib=rb-1.2.1&auto=format&fit=crop&w=635&q=80" class="img-full absolute z-0 lazy" alt="Decentral is an innovation hub for disruptive and decentralized technologies." title="Decentral testimonials">
+      <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
      
       <ol class="carousel-indicators">
         <li data-target="#testimonials" data-slide-to="0" class="active"></li>
@@ -245,7 +247,8 @@ include 'includes/header.php';
 
      <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img src="/assets/img/decentral-community-red.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">
+<!--            <img src="https://images.pexels.com/photos/510532/pexels-photo-510532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">-->
+            <img src="https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">
         </div>
     </div>
      
