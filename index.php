@@ -12,7 +12,7 @@ include 'includes/header.php';
 
 <div id="home" role="banner" class="container-fluid p-0">
    
-    <div class="row d-flex min-100 min--100 text-light py-5">
+    <div class="row d-flex min-100 min--100 bg-black text-light py-5">
 <!--
         <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
@@ -20,12 +20,13 @@ include 'includes/header.php';
         Your browser does not support the video tag.
         </video> 
 -->
-        <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left p-5">
-            <h1 class="h4 relative z-1">Designer. Developer. Copywriter.</h1>
-            <h2 class="site-title-big knockout-blue font-weight-bold absolute z-0">Andrew Mason</h2>
-            <i href="#sec-1" class="fa fa-angle-down p-0 scene_element scene_element--fadeinup"></i>
+<!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.pexels.com/photos/1449082/pexels-photo-1449082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">-->
+<!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1536411243582-2481fd5bc69b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">-->
+        <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <h1 class="site-title-big knockout-neon font-weight-bold">Mason</h1>
+            <h2 class="h4">Designer. Developer. Copywriter.</h2>
+            <i href="#sec-1" class="fa fa-angle-down knockout-neon p-0"></i>
         </div>
-        <div class="offset-lg-5"></div>
     </div>
 
    <!--main body-->
@@ -35,10 +36,10 @@ include 'includes/header.php';
     <div id="sec-1" class="row d-flex p-5 min-500 bg-white relative">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left right">
             <h2 class="section-title text-dark">Modern web design. With <span class="text-primary">edge.</span></h2>
-            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter that builds modern, innovative, and original web & print experiences. I offer clients a unique approach to web and print design.</p>
+            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter that builds modern, innovative, and original web & print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3">I fill the vacuum left by soulless, cookie cutter websites and premade template designs to offer something bold, different, and risky. I co-think with clients to create innovative design and marketing solutions that balance beauty with function. From interactive websites to copywriting, graphic design, and brand development, I think laterally to produce products with depth.</p>
+            <p class="p-big pt-3">I seek to offer something bold, different, and risky. I co-think with clients to create innovative design and marketing solutions that balance beauty with function. From interactive websites to copywriting, graphic design, and brand development, I think laterally, and always strive to learn, grow, and evolve.</p>
             <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -76,7 +77,7 @@ include 'includes/header.php';
             <p class="p-big pt-3">I design it. And I build it. I offer clients a range of options for their web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of third party libraries and plugins to offer clients a range of options that are beautiful, innovative, and versatile. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
+            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of third party libraries and plugins to offer a range of website design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
             <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
@@ -96,7 +97,7 @@ include 'includes/header.php';
             <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be accessible on the modern web, it doesn't need to suck.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0">I have diverse experience writing and editing on topics from food and fashion, to music, tech, and the environment. I write and package text specifically for web consumption: which means it's entertaining, easy to read, engaging, spelled properly, and reads better than Moby Dick. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for better readability and SEO.</p>
+            <p class="p-big pt-3 m-0">From food and fashion to music, tech, and the environment, I write and package text specifically for web consumption: it's entertaining, easy to read, engaging, spelled properly, and reads better than Moby Dick. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for better readability and SEO.</p>
             <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -107,137 +108,57 @@ include 'includes/header.php';
         </div>
     </div>
     
-    <!--testimonials-->
+     <!--testimonials-->
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="h4">Trusted by the best</h2>
-            <h3 class="section-title mb-0">You're in good company.</h3>
+            <h2 class="section-title text-dark mb-0">You're in <span class="text-primary">good company.</span></h2>
+            <p class="p-big pt-3 m-0">I've made websites and print media for a wide range of businesses, artists, real estate agents, bands, musicians, and more.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-             <p class="p-big pt-0 m-0">Decentral has diverse relationships with a variety of companies in a wide range of sectors, in addition to thousands of users of our products. See what industry leaders are saying.</p>
+            <p class="p-big pt-3 m-0">I have advised numerous small businesses on strategy, design, and marketing approaches to help their brands grow and develop. I also offer ongoing website mainenance and updates, site redesigns, content additions, and improvements to layout, copy, and imagery to keep websites fresh and consistently improving in search engine ranking.</p>
+            <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
-    </div>
+    </div><!--end row-->
     
-    <!-- carousel-->
+    <div class="row d-flex bg-light">
+        <div class="col-lg-12 min-700-lg">
+            <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
+        </div>
+    </div>  
     
-    <div id="testimonials" class="carousel slide carousel-fade relative" data-ride="carousel" data-aos="fade" data-aos-easing="ease-in-out-quart" data-aos-duration="1000">
-      <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
-     
-      <ol class="carousel-indicators">
-        <li data-target="#testimonials" data-slide-to="0" class="active"></li>
-        <li data-target="#testimonials" data-slide-to="1"></li>
-        <li data-target="#testimonials" data-slide-to="2"></li>
-        <li data-target="#testimonials" data-slide-to="3"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <div role="banner" class="container-fluid">
-            <div class="row d-flex min-700-lg p-0 scene_element scene_element--fadein">        
-                <div class="col-lg-9 banner-left p-5 o-12 scene_element scene_element--fadeindown">
-                    <h3 class="section-title text-light font-weight-light">"In Jaxx, Presearch has a popular, well-respected wallet to offer its exponentially growing user base of over 300,000 members. We join Decentral in the mission of putting users first.”</h3>
-                    <h3 class="font-weight-bold orange mt-3">Colin Paper</h3>
-                    <p class="p-big orange mb-3">&mdash; Founder, Presearch</p>
-                </div>
-                <div class="offset-lg-3"></div>
-            </div>
-        </div>
-        </div>
-        <div class="carousel-item">
-          <div role="banner" class="container-fluid">
-            <div class="row d-flex min-700-lg p-0 scene_element scene_element--fadein">        
-                <div class="col-lg-9 banner-left p-5 o-12 scene_element scene_element--fadeindown">
-                    <h3 class="section-title text-light font-weight-light">"I look forward to seeing the new Jaxx Liberty and how the broader DigiByte community will use it."</h3>
-                    <h3 class="font-weight-bold orange mt-3">Josiah Spackman</h3>
-                    <p class="p-big orange mb-3">&mdash; Ambassador, DigiByte Foundation</p>
-                </div>
-                <div class="offset-lg-3"></div>
-            </div>
-        </div>
-        </div>
-        <div class="carousel-item">
-          <div class="container-fluid">
-            <div class="row d-flex min-700-lg p-0 bg--slide-3 scene_element scene_element--fadein">
-                <div class="col-lg-9 banner-left p-5 o-12">
-                    <h3 class="section-title text-light font-weight-light">"Polymath welcomes the launch of Jaxx Liberty. We chose Jaxx Liberty as our go-to wallet for the POLY token community."</h3>
-                    <h3 class="font-weight-bold orange mt-3">Trevor Koverko</h3>
-                    <p class="p-big orange mb-3">&mdash; Co-Founder & CEO, Polymath</p>
-                </div>
-                <div class="offset-lg-3"></div>
-            </div>
-        </div>
-        </div><!--end slide-->
-        <div class="carousel-item">
-          <div class="container-fluid">
-            <div class="row d-flex min-700-lg p-0 bg--slide-3 scene_element scene_element--fadein">    <div class="col-lg-9 banner-left p-5 o-12">
-                    <h3 class="section-title text-light font-weight-light">"We’re very happy to partner with Jaxx, a highly-secure and easy-to-use wallet that is the first to support RSK"</h3>
-                    <h3 class="font-weight-bold orange mt-3">Diego Gutierrez Zaldivar</h3>
-                    <p class="p-big orange mb-3">&mdash; CEO & Co-Founder, RSK Labs</p>
-                </div>
-                <div class="offset-lg-3"></div>
-            </div>
-        </div>
-        </div><!--end slide-->
-        <div class="carousel-item">
-          <div class="container-fluid">
-            <div class="row d-flex min-700-lg p-0 bg--slide-3 scene_element scene_element--fadein">
-                <div class="col-lg-9 banner-left p-5 o-12">
-                    <h3 class="section-title text-light font-weight-light">“Jaxx is a partner we rely on. We can be sure Jaxx Liberty will serve and support our expanding ecosystem.”</h3>
-                    <h3 class="font-weight-bold orange mt-3">Malcolm CasSelle</h3>
-                    <p class="p-big orange mb-3">&mdash; President, WAX / CIO, OPSkins</p>
-                </div>
-                <div class="offset-lg-3"></div>
-            </div>
-        </div>
-        </div><!--end slide-->
-      </div>
-    </div>           
-    
-   <!--social-->
+   <!--quote-->
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="h4 scene_element scene_element--fadeinright">Stay connected</h2>
-            <h3 class="section-title m-0">Become a part of the Decentral ecosystem.</h3>
+            <h2 class="section-title">Get a quote.</h2>
+            <p class="p-big pt-3 m-0">While every site and project is different, my prices are consistent and competitive. Explore my range of pricing or get in touch to discuss your project specifics in person.</p>
+            <a href="/contact.php"><p class="p-btn mt-3">Find out more &#8594;</p></a>
         </div>
-        <div class="col-lg-6 d-flex justify-content-start align-items-center o-12 scene_element scene_element--fadeindown">
+        <div class="col-lg-6 d-flex justify-content-start align-items-center o-12">
            <div class="container-fluid">
                <div class="row">
-                    <div class="col-lg-12 d-flex justify-content-start align-items-start p-0">
-                        <p class="p-big pt-3 m-0">We consider ourselves part of extensive ecosystem, a large and growing network of people, friends, users, and <a href="/partnerships.php"><span class="orange">partners</span></a> around the world.</p>
-                    </div>
                    <div class="col-lg-12 d-flex justify-content-start align-items-start py-2 px-0">
                        <div class="col-xs-3">
-                            <a href="https://www.facebook.com/JaxxWallet/" target="_blank" onclick="googleAnalyticsTrigger('Facebook', 'Community_Page')">
-                            <i class="fa fa-facebook orange"></i>
+                            <a href="https://www.facebook.com/andrewmasonmedia/" target="_blank">
+                            <i class="fa fa-facebook text-primary"></i>
                             </a>
                         </div>
                         <div class="col-xs-3">
-                            <a href="https://twitter.com/jaxx_io?lang=en" target="_blank" onclick="googleAnalyticsTrigger('Twitter', 'Community_Page')">
-                            <i class="fa fa-twitter orange"></i>
+                            <a href="https://twitter.com/C_AndrewMason" target="_blank">
+                            <i class="fa fa-twitter text-primary"></i>
                             </a>
                         </div>
                         <div class="col-xs-3">
                             <a href="https://www.instagram.com/jaxx_io/" target="_blank" onclick="googleAnalyticsTrigger('Instagram', 'Community_Page')">
-                            <i class="fa fa-instagram orange"></i>
+                            <i class="fa fa-instagram text-primary"></i>
                             </a>
                         </div>
                         <div class="col-xs-3">
-                            <a href="https://www.youtube.com/user/decentralTV" target="_blank" onclick="googleAnalyticsTrigger('Youtube', 'Community_Page')">
-                            <i class="fa fa-youtube orange"></i>
+                            <a href="mailto:andrewmasonmedia.com">
+                            <i class="fa fa-envelope-o text-primary"></i>
                             </a>
                         </div>
-                        <div class="col-xs-3">
-                            <a href="https://t.me/jaxxliberty" target="_blank" onclick="googleAnalyticsTrigger('Telegram', 'Community_Page')">
-                            <i class="fa fa-telegram orange"></i>
-                            </a>
-                        </div>
-                        <div class="col-xs-3">
-                            <a href="https://www.reddit.com/r/jaxx/" target="_blank" onclick="googleAnalyticsTrigger('Reddit', 'Community_Page')">
-                            <i class="fa fa-reddit orange"></i>
-                            </a>
-                        </div>
-                       
                    </div>
                </div>
            </div>        
@@ -247,7 +168,6 @@ include 'includes/header.php';
 
      <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-<!--            <img src="https://images.pexels.com/photos/510532/pexels-photo-510532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">-->
             <img src="https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">
         </div>
     </div>

@@ -49,7 +49,7 @@ $(document).ready(function() {
 
 //change nav color on scroll
 $(document).scroll(function () {
-    $('#home nav, #home .navbar, #home .decentral-navbar-brand, #home .decentral-mobile-menu').toggleClass('scrolled', $(this).scrollTop() > 20);
+    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 20);
   });
 
 //lazy load

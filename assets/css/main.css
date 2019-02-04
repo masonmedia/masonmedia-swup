@@ -89,6 +89,7 @@ textarea {
 
 body {
     background: black;
+    color: black;
 	font-family: 'Helvetica Neue', Avenir, Helvetica, sans-serif;
 	overflow-x: hidden;
     max-width: 1500px;
@@ -233,7 +234,7 @@ p {
     letter-spacing: .011em;
 }
 .p-btn {
-    color: #ff6902;
+    color: #007bff!important;
     font-size: 24px;
     line-height: 1.38105;
     font-weight: 400;
@@ -258,15 +259,15 @@ p {
     font-size: 80px; /*apple app store text*/
     font-size: 11vmin; /*same in vmin*/
     font-weight: 900;
-    line-height: 100%;
+    line-height: 90%;
     letter-spacing: -2px;
     padding: 10px 0;
 /**/
     font-size: 28vmin;
     font-weight: 900;
-    line-height: 52%;
+/*    line-height: 52%;*/
     letter-spacing: -10px;
-    padding: 10px 50px 50px 0;
+    padding: 10px 50px 0;
     text-transform: lowercase;
 }
 .page-title {
@@ -304,16 +305,27 @@ p {
     background-size: cover;
      -webkit-background-clip: text;
 }
-.knockout-about {
+.knockout-neon {
     color: #000;
      -webkit-text-fill-color: transparent;
      background: -webkit-linear-gradient(transparent, transparent),
-                 url(https://images.pexels.com/photos/1292843/pexels-photo-1292843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) center;
+                 url(https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80) center;
      background: -o-linear-gradient(transparent, transparent);
     background-size: cover;
      -webkit-background-clip: text;
 }
-.knockout-jaxx {
+.knockout-rainbow {
+    color: #000;
+     -webkit-text-fill-color: transparent;
+     background: #40E0D0;  /* fallback for old browsers */
+     background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+     background: -o-linear-gradient(transparent, transparent);
+    background-size: cover;
+     -webkit-background-clip: text;
+}
+.knockout-ink {
     color: #000;
      -webkit-text-fill-color: transparent;
      background: -webkit-linear-gradient(transparent, transparent),
@@ -697,7 +709,7 @@ img.decentral-navbar-brand {
 }
 
 .bg--home-banner {
-    background: url(https://images.unsplash.com/photo-1485844254435-b7509760a25c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) center;
+    background: url(https://images.pexels.com/photos/1449082/pexels-photo-1449082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) center;
     background-size: cover;
 }
 .bg--home-banner-2 {
@@ -1111,14 +1123,6 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 }
 */
 
-
-/* partnerships ======================
-
-.bg--partnerships-love {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/assets/img/jaxx-support-welcome-redux.jpg) center;
-    background-size: cover;
-}
-
 /* team ======================*/
 
 .bg--team-banner {
@@ -1200,27 +1204,23 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 
 /* nav ======================*/
 
-nav,
-.navbar {
-	background: rgba(255,255,255,0.9);
-/*	background: transparent;*/
-/*	border-bottom: 1px solid lightgrey;*/
-	-webkit-transition: all .3s ease-in-out;
-	transition: all .3s ease-in-out;
-    padding: 1.5rem 1rem;
-    padding: 1rem;
+/*
+.navbar-brand {
+    color: #007bff!important;
 }
-
+*/
 .navbar, nav {
     background: rgba(255,255,255,0.9);
     background: #000;
+/*    background: #007bff!important;*/
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
     padding: 1.5rem 1rem;
     padding: 1rem;
 }
 
-/* mobile menu line animation */
+/* mobile menu animation */
+
 .wrapper-menu {
   width: 40px;
   height: 40px;
@@ -1237,8 +1237,8 @@ nav,
 
 .line-menu {
   background-color: #fff;
-  background-color: #ff6902;
-  background-color: linear-gradient(to right, #f5af19, #f12711);
+    background-color: #007bff!important;
+/*  background-color: linear-gradient(to right, #f5af19, #f12711);*/
   border-radius: 5px;
   width: 100%;
   height: 6px;
@@ -1272,9 +1272,10 @@ nav,
 .nav-link,
 .nav-item {
 	color: #fff;
-/*	color: #000;*/
+	color: #000;
+/*    color: #007bff!important;*/
 	font-size: 19px;
-	font-weight: 400;
+	font-weight: 900;
 	padding-left: 15px;
 	padding-right: 15px;
 }
@@ -1283,22 +1284,15 @@ nav,
 }
 /* for navbar change color on scroll */
 
-
-.navbar.scrolled {
-	/* background-color: rgba(0, 0, 0, 0.9) !important; */
-}
-.navbar.fixed-top.scrolled {
+.navbar.fixed-top.scrolled,
+.navbar-brand.scrolled {
 	border-bottom: none;
-	/* background-color: rgba(0, 0, 0, 0.9) !important; */
+    background-color: rgba(0, 0, 0, 0.9) !important; 
+    background-color: rgba(255, 255, 255, 0.9) !important; 
 	-webkit-transition: all 200ms ease-in-out;
 	transition: all 300ms ease-in-out;
 }
-.decentral-navbar-brand.scrolled,
-.decentral-mobile-menu.scrolled {
-	opacity: 1;
-	-webkit-transition: all 200ms ease-in-out;
-	transition: all 300ms ease-in-out;
-}
+
 /* mobile nav toggler rotate on hover */
 
 .jaxx-mobile-menu {
@@ -1550,7 +1544,7 @@ footer li a {
 		border-width: 1px;
 		width: 100%;
 	}
-     #main .fa {
+     .fa {
         font-size: 8vmin;
         padding: 20px 8px 0;
     }
