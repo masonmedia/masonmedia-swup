@@ -39,7 +39,7 @@ include 'includes/header.php';
             <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter that builds modern, innovative, and original web & print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3">I seek to offer something bold, different, and risky. I co-think with clients to create innovative design and marketing solutions that balance beauty with function. From interactive websites to copywriting, graphic design, and brand development, I think laterally, and always strive to learn, grow, and evolve.</p>
+            <p class="p-big pt-3">I create innovative design and marketing solutions that balance beauty with function. From interactive websites, to copywriting, graphic design, image sourcing, and brand development, I think laterally and strive to learn, grow, and evolve with each project.</p>
             <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -55,7 +55,7 @@ include 'includes/header.php';
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
             <h2 class="section-title text-dark"><span class="text-primary">Innovative</span> design for a homogenous internet.</h2>
-            <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I strive to bring beautiful, modern design solutions to every project.</p>
+            <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I aim to bring beautiful, modern design solutions to every project.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
             <p class="p-big pt-3 m-0">In designing for both web and print, my process is intuitive and innovative. I collaborate with clients to help communicate their goals, brand identity, and aesthetics, while drawing on broad experience and constant research of current design trends and best practices.</p>
@@ -74,7 +74,7 @@ include 'includes/header.php';
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
             <h2 class="section-title text-dark">Coding and development that <span class="text-primary" data-aos="fade-up">works.</span></h2>
-            <p class="p-big pt-3">I design it. And I build it. I offer clients a range of options for their web needs that are unique, personalized, and functional.</p>
+            <p class="p-big pt-3">I design it. And I build it. I provide a range of options for web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
             <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of third party libraries and plugins to offer a range of website design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
@@ -116,7 +116,7 @@ include 'includes/header.php';
             <p class="p-big pt-3 m-0">I've made websites and print media for a wide range of businesses, artists, real estate agents, bands, musicians, and more.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0">I have advised numerous small businesses on strategy, design, and marketing approaches to help their brands grow and develop. I also offer ongoing website mainenance and updates, site redesigns, content additions, and improvements to layout, copy, and imagery to keep websites fresh and consistently improving in search engine ranking.</p>
+            <p class="p-big pt-3 m-0">I've advised numerous small businesses on strategy, design, and marketing approaches to help their brands grow and develop. I also offer ongoing website mainenance and support, site redesigns, content additions, and improvements to layout, copy, and imagery to keep websites fresh and consistently improving.</p>
             <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -132,7 +132,7 @@ include 'includes/header.php';
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
             <h2 class="section-title">Get a quote.</h2>
-            <p class="p-big pt-3 m-0">While every site and project is different, my prices are consistent and competitive. Explore my range of pricing or get in touch to discuss your project specifics in person.</p>
+            <p class="p-big pt-3 m-0">Explore my range of pricing or get in touch to discuss your project specifics in person.</p>
             <a href="/contact.php"><p class="p-btn mt-3">Find out more &#8594;</p></a>
         </div>
         <div class="col-lg-6 d-flex justify-content-start align-items-center o-12">
