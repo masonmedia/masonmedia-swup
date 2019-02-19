@@ -66,14 +66,21 @@ include 'includes/header.php';
             </div>
         </div><!--end row-->
         
-        <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-5 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/ed-mortenson-driver-card.png" alt="About Decentral">
-            </div>
-            <div class="col-lg-7 d-flex flex-column justify-content-center align-items-start text-left p-5">
+        <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
                 <h2 class="h4 orange">Business cards + posters</h2>
                 <h3 class="section-title text-dark mb-0">Ed Mortenson.</h3>
-                <p class="p-big pt-3 m-0">For her music instructing business, Aimee required a more personal and relatable touch. We went with a more intimate image that lends itself well to building a roster of local piano and vocal students.</p>
+                <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
+            </div>
+            <div class="offest-lg-4"></div>
+        </div><!--end row-->
+        
+        <div class="row d-flex min-400 text-secondary bg-white">
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/ed-mortenson-driver-card.png" alt="About Decentral">
+            </div>
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full lazy" src="/assets/img/ed-mortenson-emo-2.png" alt="About Decentral">
             </div>
         </div><!--end row-->
         
