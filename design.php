@@ -14,7 +14,7 @@ include 'includes/header.php';
         <div class="row d-flex min-700-lg relative py-5">
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
-                <h1 class="h4 mt-3">design</h1>
+                <h1 class="h4 mt-3">Design</h1>
                 <h2 class="site-title knockout-neon font-weight-bold">Bold. Graphic. Asymmetrical.</h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
@@ -76,18 +76,26 @@ include 'includes/header.php';
         </div><!--end row-->
         
         <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/ed-mortenson-driver-card.png" alt="About Decentral">
-            </div>
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full lazy" src="/assets/img/ed-mortenson-emo-2.png" alt="About Decentral">
+            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full lazy" data-src="/assets/img/ed-mortenson-dual-card-2.png" alt="About Decentral">
             </div>
         </div><!--end row-->
         
+         <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
+                <h2 class="h4 orange">Workshops in Wild Places</h2>
+                <h3 class="section-title text-dark mb-0">Janice Mason Steeves.</h3>
+                <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
+            </div>
+            <div class="offest-lg-4"></div>
+        </div><!--end row-->
         
-        <div class="row d-flex bg-light relative">
-            <div class="col-lg-12 min-700-lg">
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" src="/assets/img/aimee-joni-poster.png" alt="About Decentral">
+        <div class="row d-flex bg-light p-4">
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="w-75 m-auto ds absolute right-0 lazy" data-src="/assets/img/jms-wiwp-card-front.png" alt="About Decentral">
+            </div>
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="w-75 m-auto ds absolute left-0 lazy" data-src="/assets/img/jms-wiwp-card-back.png" alt="About Decentral">
             </div>
         </div>
 
