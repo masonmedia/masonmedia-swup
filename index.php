@@ -23,8 +23,9 @@ include 'includes/header.php';
 <!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.pexels.com/photos/1449082/pexels-photo-1449082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">-->
 <!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1536411243582-2481fd5bc69b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">-->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h1 class="site-title-big knockout-neon font-weight-bold">Mason</h1>
-            <h2 class="h4">Designer. Developer. Copywriter.</h2>
+            <h1 class="h4">mason media</h1>
+            <h2 class="site-title-big knockout-neon font-weight-bold">Mason</h2>
+            <h3 class="h4">Crafting ideas into reality.</h3>
             <i href="#sec-1" class="fa fa-angle-down knockout-neon p-0"></i>
         </div>
     </div>

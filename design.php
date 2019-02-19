@@ -26,7 +26,7 @@ include 'includes/header.php';
 
         <div class="row d-flex p-5 min-500 text-secondary bg-white">
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                <h2 class="h4">mason media design</h2>
+                <h2 class="h4 text-primary">Mason Media</h2>
                 <h3 class="section-title text-dark mb-0">Design for web + print.</h3>
                 <p class="p-big pt-3 m-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum excepturi tempore possimus illum amet sed nihil ea aspernatur eveniet rem dignissimos, sequi, numquam iste suscipit commodi minima, assumenda quidem ducimus!</p>
             </div>
@@ -47,7 +47,7 @@ include 'includes/header.php';
        
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h2 class="h4 orange">Business cards + posters</h2>
+                <h2 class="h4 text-primary">Business cards + posters</h2>
                 <h3 class="section-title text-dark mb-0">Aimee Claxton.</h3>
                 <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
             </div>
@@ -59,16 +59,16 @@ include 'includes/header.php';
                 <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-card-mockup.png" alt="About Decentral">
             </div>
             <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card.png" alt="About Decentral">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster.png" alt="About Decentral">
             </div>
             <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster.png" alt="About Decentral">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card-2.png" alt="About Decentral">
             </div>
         </div><!--end row-->
         
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h2 class="h4 orange">Business cards + posters</h2>
+                <h2 class="h4 text-primary">Business cards + posters</h2>
                 <h3 class="section-title text-dark mb-0">Ed Mortenson.</h3>
                 <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
             </div>
@@ -83,7 +83,7 @@ include 'includes/header.php';
         
          <div class="row d-flex min-500 text-secondary bg-white">
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h2 class="h4 orange">Workshops in Wild Places</h2>
+                <h2 class="h4 text-primary">Workshops in Wild Places</h2>
                 <h3 class="section-title text-dark mb-0">Janice Mason Steeves.</h3>
                 <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
             </div>
@@ -92,17 +92,17 @@ include 'includes/header.php';
         
         <div class="row d-flex bg-light p-4">
             <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="w-75 m-auto ds absolute right-0 lazy" data-src="/assets/img/jms-wiwp-card-front.png" alt="About Decentral">
+                <img class="w-75 m-auto ds lazy" data-src="/assets/img/jms-wiwp-card-front.png" alt="About Decentral">
             </div>
             <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="w-75 m-auto ds absolute left-0 lazy" data-src="/assets/img/jms-wiwp-card-back.png" alt="About Decentral">
+                <img class="w-75 m-auto ds lazy" data-src="/assets/img/jms-wiwp-card-back.png" alt="About Decentral">
             </div>
         </div>
 
         <!--jaxx classic-->
         <div class="row d-flex p-5 min-500 bg-white">
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                <h2 class="h4 orange">Jaxx Classic</h2>
+                <h2 class="h4 text-primary">Jaxx Classic</h2>
                 <h3 class="section-title text-dark mb-0">Redefining.</h3>
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
