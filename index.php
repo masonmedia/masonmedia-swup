@@ -36,10 +36,10 @@ include 'includes/header.php';
     <div id="sec-1" class="row d-flex p-5 min-500 bg-white relative">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left right">
             <h2 class="section-title text-dark">Modern web design. With <span class="text-primary">edge.</span></h2>
-            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter that builds modern, innovative, and original web & print experiences.</p>
+            <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter. I create modern, engaging, and dynamic web and print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3">I create innovative design and marketing solutions that balance beauty with function. From interactive websites, to copywriting, graphic design, image sourcing, and brand development, I think laterally and strive to learn, grow, and evolve with each project.</p>
+            <p class="p-big pt-3 m-0">From interactive websites, to copywriting, graphic design, image sourcing, and brand development, I think laterally to create unique projects that blend form and function.</p>
             <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -97,7 +97,7 @@ include 'includes/header.php';
             <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be accessible on the modern web, it doesn't need to suck.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
-            <p class="p-big pt-3 m-0">From food and fashion to music, tech, and the environment, I write and package text specifically for web consumption: it's entertaining, easy to read, engaging, spelled properly, and reads better than Moby Dick. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for better readability and SEO.</p>
+            <p class="p-big pt-3 m-0">From food and fashion to music, tech, and the environment, I write, edit, and parse text specifically for web consumption. I strive to make every topic entertaining, easy to read, and engaging, all the while focusing on SEO, grammar, and clarity. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for improved readability and SEO.</p>
             <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
@@ -132,7 +132,7 @@ include 'includes/header.php';
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
             <h2 class="section-title">Get a quote.</h2>
-            <p class="p-big pt-3 m-0">Explore my range of pricing or get in touch to discuss your project specifics in person.</p>
+            <p class="p-big pt-3 m-0">Explore my range of pricing options or get in touch to discuss your project specifics in person.</p>
             <a href="/contact.php"><p class="p-btn mt-3">Find out more &#8594;</p></a>
         </div>
         <div class="col-lg-6 d-flex justify-content-start align-items-center o-12">

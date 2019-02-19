@@ -89,10 +89,7 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="/about.php">about</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/jaxxliberty.php">design</a>
+                        <a class="nav-link" href="/design.php">design</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/history.php">development</a>
