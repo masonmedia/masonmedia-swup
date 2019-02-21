@@ -20,11 +20,10 @@ include 'includes/header.php';
         Your browser does not support the video tag.
         </video> 
 -->
-<!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.pexels.com/photos/1449082/pexels-photo-1449082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">-->
+<!--        <img class="img-full absolute z-0 left-0 filter-dark lazy" data-src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80" alt="">-->
 <!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1536411243582-2481fd5bc69b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">-->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h1 class="h4">mason media</h1>
-            <h2 class="site-title-big knockout-neon font-weight-bold">Mason</h2>
+            <h2 class="site-title-big knockout-neon font-weight-bold">mason<span class="font-weight-light">media</span></h2>
             <h3 class="h4">Crafting ideas into reality.</h3>
             <i href="#sec-1" class="fa fa-angle-down knockout-neon p-0"></i>
         </div>
@@ -78,7 +77,7 @@ include 'includes/header.php';
             <p class="p-big pt-3">I design it. And I build it. I provide a range of options for web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, and a host of third party libraries and plugins to offer a range of website design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
+            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, Github, Bitbucket, and a host of third party animation libraries to offer a wide range of design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
             <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->

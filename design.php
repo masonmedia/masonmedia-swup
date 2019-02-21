@@ -41,7 +41,6 @@ include 'includes/header.php';
                 <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1501856777435-29877ed80a3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
             </div>
         </div>
-        
                
 <!--https://images.unsplash.com/photo-1464798429116-8e26f96b2e60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80-->
        
@@ -70,14 +69,14 @@ include 'includes/header.php';
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
                 <h2 class="h4 text-primary">Business cards + posters</h2>
                 <h3 class="section-title text-dark mb-0">Ed Mortenson.</h3>
-                <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
+                <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required a card for his second business: driving for uber. He requested a design that was part rock, part trustworthy driving service, and I came up with a layout equal parts simple, unique, bold, and professional. I designed a similar layout for his EMO productions video editing and sound engineering business</p>
             </div>
             <div class="offest-lg-4"></div>
         </div><!--end row-->
         
         <div class="row d-flex min-400 text-secondary bg-white">
             <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full lazy" data-src="/assets/img/ed-mortenson-dual-card-2.png" alt="About Decentral">
+                <img class="img-full lazy" data-src="/assets/img/ed-mortenson-driver-card-wood.png" alt="About Decentral">
             </div>
         </div><!--end row-->
         

@@ -300,7 +300,8 @@ p {
     color: #000;
      -webkit-text-fill-color: transparent;
      background: -webkit-linear-gradient(transparent, transparent),
-                 url(https://images.unsplash.com/photo-1518656291-ba160b5554e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80) center;
+                 url(https://images.unsplash.com/photo-1518656291-ba160b5554e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80) center;background: -webkit-linear-gradient(transparent, transparent),
+                 url(https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80) center;
      background: -o-linear-gradient(transparent, transparent);
     background-size: cover;
      -webkit-background-clip: text;
