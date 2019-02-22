@@ -9,18 +9,28 @@ $(document).ready(function() {
     });
 });
 
+$(document).ready(function() {
+    $('.slider').slick({
+      dots: true,
+      infinite: true,
+      speed: 500,
+      fade: true,
+      cssEase: 'linear'
+    });
+});
+
 //init BS carousel and pass speed option
 $(document).ready(function() {
     $('.carousel').carousel({
       interval: 2000
     });
-});
 
+});
 //init AOS library
 $(document).ready(function() {
     AOS.init();
-});
 
+});
 //mobile menu animation
 $(document).ready(function() {
     var wrapperMenu = document.querySelector('.wrapper-menu');
@@ -45,15 +55,14 @@ $(document).ready(function() {
 		  scrollTop: $($(this).attr('href')).offset().top
 	   }, 500, 'linear');
     });
+
+});
+//change nav color on scroll
+$(document).ready(function() {
+    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 20);
 });
 
-//change nav color on scroll
-$(document).scroll(function () {
-    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 20);
-  });
-
 //lazy load
-
 $(document).ready(function() {
     $(".lazy").recliner({
         attrib: "data-src", // selector for attribute containing the media src

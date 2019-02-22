@@ -38,7 +38,8 @@
         <!-- Styles -->
         <link rel="stylesheet" href="/assets/css/aos.css">
         <link rel="stylesheet" href="/assets/css/normalize.css">
-<!--        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,900" rel="stylesheet">        -->
+        <!-- Add the slick-theme.css if you want default styling -->
+<!--<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>-->
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="/assets/css/main.min.css">

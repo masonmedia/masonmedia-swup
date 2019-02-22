@@ -39,7 +39,7 @@ include 'includes/header.php';
             <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter. I create modern, engaging, and dynamic web and print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
-            <p class="p-big pt-3 m-0">From interactive websites, to copywriting, graphic design, image sourcing, and brand development, I think laterally to create unique projects that blend form and function.</p>
+            <p class="p-big pt-3 m-0">From interactive websites, to graphic design, copywriting, and brand development, I think laterally to create unique projects that blend form and function.</p>
             <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
         </div>
     </div><!--end row-->

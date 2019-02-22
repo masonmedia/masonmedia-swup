@@ -44,14 +44,27 @@ include 'includes/header.php';
                
 <!--https://images.unsplash.com/photo-1464798429116-8e26f96b2e60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80-->
        
-        <div class="row d-flex min-500 text-secondary bg-white">
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h2 class="h4 text-primary">Business cards + posters</h2>
-                <h3 class="section-title text-dark mb-0">Aimee Claxton.</h3>
-                <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
+        <section>
+            <div class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Business cards + posters</h2>
+                    <h3 class="section-title text-dark mb-0">Aimee Claxton.</h3>
+                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
+                </div>
+                <div class="offset-lg-2"></div>
             </div>
-            <div class="offest-lg-4"></div>
-        </div><!--end row-->
+        </section>
+        
+<!--
+        <section>
+            <div class="row d-flex min-400 text-secondary bg-white">
+                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" src="/assets/img/aimee-performance-card.jpg" alt="Ed Mortenson business card">
+                </div>
+            </div>
+        </section>
+-->
         
         <div class="row d-flex min-400 text-secondary bg-white">
             <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
@@ -66,37 +79,61 @@ include 'includes/header.php';
         </div><!--end row-->
         
         <div class="row d-flex min-500 text-secondary bg-white">
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
+            <div class="offset-lg-2"></div>
+            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Business cards + posters</h2>
                 <h3 class="section-title text-dark mb-0">Ed Mortenson.</h3>
-                <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required a card for his second business: driving for uber. He requested a design that was part rock, part trustworthy driving service, and I came up with a layout equal parts simple, unique, bold, and professional. I designed a similar layout for his EMO productions video editing and sound engineering business</p>
+                <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required business card designs for his music business, as well as for his services driving for uber. He requested a design that blended part edgy, rock personality, with the clean, trustworthiness of a professional service. I came up with a layout equal parts simple, unique, bold, and rock.</p>
             </div>
-            <div class="offest-lg-4"></div>
+            <div class="offset-lg-2"></div>
         </div><!--end row-->
         
-        <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full lazy" data-src="/assets/img/ed-mortenson-driver-card-wood.png" alt="About Decentral">
+        <section>
+            <div class="row d-flex min-400 text-secondary bg-white">
+                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">
+                </div>
             </div>
-        </div><!--end row-->
+        </section>
         
-         <div class="row d-flex min-500 text-secondary bg-white">
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h2 class="h4 text-primary">Workshops in Wild Places</h2>
-                <h3 class="section-title text-dark mb-0">Janice Mason Steeves.</h3>
-                <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. To right is the design for her performing needs.</p>
-            </div>
-            <div class="offest-lg-4"></div>
-        </div><!--end row-->
+        <section>
+            <div class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Workshops in Wild Places</h2>
+                    <h3 class="section-title text-dark mb-0">Janice Mason Steeves.</h3>
+                    <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->
+        </section>
         
-        <div class="row d-flex bg-light p-4">
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="w-75 m-auto ds lazy" data-src="/assets/img/jms-wiwp-card-front.png" alt="About Decentral">
+        <!-- wiwp images-->
+        
+        <section>
+            <div class="row d-flex min-400 text-secondary bg-white">
+                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" data-src="/assets/img/jms-wiwp-flyer-mockup.jpg" alt="Mason Media Workshops in Wild Places flyer design">
+                </div>
             </div>
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="w-75 m-auto ds lazy" data-src="/assets/img/jms-wiwp-card-back.png" alt="About Decentral">
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light px-4 bg-light">
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left pt-4 o-12">
+                    <img class="w-100 ds lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-forest.jpg" alt="About Decentral">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left pt-4 o-12">
+                    <img class="w-100 ds lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-beach.jpg" alt="About Decentral">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left pt-4 o-12">
+                    <img class="w-100 ds lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-mountains.jpg" alt="About Decentral">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left pt-4 o-12">
+                    <img class="w-100 ds lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-ocean.jpg" alt="About Decentral">
+                </div>
             </div>
-        </div>
+        </section>
 
         <!--jaxx classic-->
         <div class="row d-flex p-5 min-500 bg-white">

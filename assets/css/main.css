@@ -663,8 +663,7 @@ img.lazy-loaded {
     opacity: 1;
 } 
 
-footer img,
-img.decentral-navbar-brand {
+.opacity {
     opacity: 1;
 }
 
