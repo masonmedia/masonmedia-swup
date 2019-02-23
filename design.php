@@ -55,26 +55,19 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
             </div>
         </section>
-        
-<!--
-        <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/aimee-performance-card.jpg" alt="Ed Mortenson business card">
-                </div>
-            </div>
-        </section>
--->
+    
         
         <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-card-mockup.png" alt="About Decentral">
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-teaching-card-closeup.jpg" alt="Business card design for Aimee Claxton">
             </div>
-            <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster.png" alt="About Decentral">
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card.jpg" alt="Business card design for Aimee Claxton">
             </div>
-            <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card-2.png" alt="About Decentral">
+        </div><!--end row-->
+        <div class="row d-flex min-400 text-secondary bg-white">
+            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster.jpg" alt="Business card design for Aimee Claxton">
             </div>
         </div><!--end row-->
         
@@ -135,58 +128,45 @@ include 'includes/header.php';
             </div>
         </section>
 
-        <!--jaxx classic-->
-        <div class="row d-flex p-5 min-500 bg-white">
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                <h2 class="h4 text-primary">Jaxx Classic</h2>
-                <h3 class="section-title text-dark mb-0">Redefining.</h3>
-            </div>
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-                <p class="p-big pt-3 m-0">Jaxx Classic, a leading multi-platform digital wallet with over a million downloads, was developed in 2015 by Anthony Di Iorio, co-founder of Ethereum, and founder and CEO of Decentral Inc. Jaxx Classic was created to give people an easy way to manage their digital assets and virtual lives.</p>
-            </div>
-        </div><!--end row-->
-            
-        <div class="row d-flex bg-light relative">
-            <div class="col-lg-12 min-700-lg">
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" src="/assets/img/aimee-card-mockup.png" alt="About Decentral">
-            </div>
-        </div>
+        <section>
+            <div class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Posters</h2>
+                    <h3 class="section-title text-dark mb-0">Big Horn Sheep.</h3>
+                    <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->
+        </section>
         
-        <!--Built on success-->
-        <div class="row d-flex p-5 min-500 text-secondary bg-white">
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                <h2 class="h4 orange">Jaxx Liberty</h2>
-                <h3 class="section-title text-dark mb-0">Built on Success.</h3>
-                <p class="p-big pt-3 m-0">In September 2018, the company launched Jaxx Liberty, the new Jaxx and the future of blockchain interface. Extending beyond the cryptocurrency wallet, Jaxx Liberty is packed with the tools most requested by our users around the world.</p>
-            </div>
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                <p class="p-big pt-3 m-0">With the wallet at its core, Jaxx Liberty is a module-based platform integrating a personalized portfolio, exchange, blockchain news feed, market data tracking, and block explorers for reviewing transaction data across a wide range of blockchain platforms. In the pursuit of unprecedented transparency and trustworthiness, Decentral intends for its new platform to empower the general public to take control of their digital lives.</p>
-                <a href="https://jaxx.io"><p class="p-btn mt-3">Find out more &#8594;</p></a>
-            </div>
-        </div><!--end row-->
+        <!-- bhs images-->
         
-        <div class="row d-flex bg-light relative">
-            <div class="col-lg-12 min-700-lg">
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-multi-device-2-pair.jpg" alt="Jaxx Classic">
+        <section>
+            <div class="row d-flex min-400 text-secondary bg-white">
+                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+<!--                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
+                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup-black.jpg" alt="Big Horn Sheep Facebook cover design">
+                </div>
             </div>
-        </div>
+        </section>
         
-        <!--Innovation-->
-        <div class="row d-flex p-5 min-500 bg-white">
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                <h2 class="h4 orange">Innovation</h2>
-                <h3 class="section-title text-dark mb-0">Made with love in Canada.</h3>
+        <section>
+            <div class="row d-flex bg-light bg-light p-0">
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
+                </div>
             </div>
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-                <p class="p-big pt-3 m-0">Located in downtown Toronto, Decentral is an innovation hub for disruptive and decentralized technologies. Decentral is home to Canada’s first two-way Bitcoin ATM and host to community-driven events in the domains of fintech, blockchain, cryptocurrencies and decentralized technologies.</p>
-            </div>
-        </div><!--end row-->
-        
-        <div class="row d-flex bg-light relative">
-            <div class="col-lg-12 min-700-lg">
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/decentral-buildings-sky.jpeg" alt="Jaxx Classic">
-            </div>
-        </div>
+        </section>
         
         
     </div>
