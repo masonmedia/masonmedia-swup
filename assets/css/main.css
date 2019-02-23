@@ -321,7 +321,6 @@ p {
      background: #40E0D0;  /* fallback for old browsers */
      background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
      background: -o-linear-gradient(transparent, transparent);
     background-size: cover;
      -webkit-background-clip: text;
@@ -353,17 +352,6 @@ p {
      -webkit-background-clip: text;
 }
 
-.knockout-heart {
-    color: grey;
-    -webkit-text-fill-color: transparent;
-    background: -webkit-linear-gradient(transparent, transparent),
-                 url(/assets/img/Jaxx_Primary_Icon.png) center 30% repeat;
-    background: -o-linear-gradient(transparent, transparent);
-    background-size: 200%;
-    -webkit-background-clip: text;
-    padding: 5px 0 10px;
-/*    background: url(/assets/img/Jaxx_Primary_Icon.png);*/
-}
 
 .line-height {
 	line-height: 80%;
@@ -1211,7 +1199,13 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 */
 .navbar, nav {
     background: rgba(255,255,255,0.9);
-    background: #000;
+/*    background: #000;*/
+    background: url(https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
+    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
+    
+/*    linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);*/
+
+    
 /*    background: #007bff!important;*/
     -webkit-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
@@ -1272,7 +1266,7 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 .nav-link,
 .nav-item {
 	color: #fff;
-	color: #000;
+/*	color: #000;*/
 /*    color: #007bff!important;*/
 	font-size: 19px;
 	font-weight: 900;

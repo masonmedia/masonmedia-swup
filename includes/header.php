@@ -42,7 +42,7 @@
 <!--<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>-->
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/assets/css/main.min.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
         <!--cookies banner-->
         <link rel="stylesheet" href="/assets/css/cookieconsent.min.css">
         <script>            
