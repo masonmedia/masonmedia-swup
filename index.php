@@ -167,7 +167,7 @@ include 'includes/header.php';
 
      <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img src="https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral" title="Decentral Inc.">
+            <img src="https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Andrew Mason Media">
         </div>
     </div>
      

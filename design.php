@@ -18,7 +18,7 @@ include 'includes/header.php';
                 <h2 class="site-title knockout-rainbow font-weight-bold">
                     <span class="d-table">Bold.</span>
                     <span class="d-table">Graphic.</span>
-                    <span class="d-table">Asymmetrical.</span>
+                    <span class="d-table">Daring.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
@@ -41,7 +41,7 @@ include 'includes/header.php';
         
         <div class="row d-flex bg-light relative">
             <div class="col-lg-12 min-700-lg">
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1501856777435-29877ed80a3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
+                <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1501856777435-29877ed80a3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
             </div>
         </div>
                
@@ -85,9 +85,9 @@ include 'includes/header.php';
         </div><!--end row-->
         
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">
                 </div>
             </div>
         </section>
@@ -107,9 +107,9 @@ include 'includes/header.php';
         <!-- wiwp images-->
         
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/jms-wiwp-flyer-mockup.jpg" alt="Mason Media Workshops in Wild Places flyer design">
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/jms-wiwp-flyer-mockup.jpg" alt="Mason Media Workshops in Wild Places flyer design">
                 </div>
             </div>
         </section>
@@ -162,7 +162,7 @@ include 'includes/header.php';
         </section>
         
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
+            <div class="row d-flex min-400 bg-white relative">
                 <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
 <!--                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
                     <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup-black.jpg" alt="Big Horn Sheep Facebook cover design">

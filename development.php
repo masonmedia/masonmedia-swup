@@ -39,7 +39,7 @@ include 'includes/header.php';
             </div>
         </div><!--end row-->  
         
-        <div class="row d-flex bg-light relative">
+        <div class="row d-flex bg-white relative">
             <div class="col-lg-12 min-700-lg">                
                 <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="https://images.pexels.com/photos/1639949/pexels-photo-1639949.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
             </div>
@@ -57,9 +57,9 @@ include 'includes/header.php';
             </div>
         </section>
         
-        <div class="row d-flex text-secondary bg-white">
-            <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Business card design for Aimee Claxton">
+        <div class="row d-flex bg-white relative">
+            <div class="col-lg-12 min-700-lg p-0">
+                <img class="img-full absolute z-0 lazy" data-src="https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
             </div>
         </div><!--end row-->
         
@@ -74,10 +74,10 @@ include 'includes/header.php';
         </div><!--end row-->
         
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
 <!--                    <img class="img-full lazy" data-src="https://images.pexels.com/photos/1520145/pexels-photo-1520145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Ed Mortenson business card">-->
-                    <img class="img-full lazy" data-src="https://images.unsplash.com/photo-1508854710579-5cecc3a9ff17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Ed Mortenson business card">
+                    <img class="img-full absolute z-0 lazy" data-src="https://images.unsplash.com/photo-1508854710579-5cecc3a9ff17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Ed Mortenson business card">
                 </div>
             </div>
         </section>
