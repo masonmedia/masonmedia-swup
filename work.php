@@ -17,10 +17,10 @@ include 'includes/header.php';
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
                 <h1 class="h4 mt-3">Portfolio</h1>
                 <h2 class="site-title font-weight-bold">
-                    <span class="d-table">Some.</span>
-                    <span class="d-table">Of.</span>
-                    <span class="d-table">My.</span>
-                    <span class="d-table">Work.</span>
+                    <span class="d-table">Some</span>
+                    <span class="d-table">of</span>
+                    <span class="d-table">my</span>
+                    <span class="d-table">work.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
@@ -57,9 +57,9 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Advance Therapy</h2>
-                    <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
-                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
-                    <a href="/advancetherapy.php"><p class="p-btn mt-3">Read more &#8594;</p></a>
+                    <h3 class="section-title text-dark mb-0">Specializing in rehabilitation services for people with an acquired brain injury.</h3>
+                    <p class="p-big pt-3 m-0">This project required a complete overhaul and redesign of the firm's previous site. Requirements included a simple, intuitive user interface, a low amount of scrolling while still presenting a large amount of content, a specific typeface, and the firm's previous logo.</p>
+                    <a href="/at.php"><p class="p-btn mt-3">Read more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  

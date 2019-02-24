@@ -2,7 +2,7 @@
 
 $title = "Mason Media | Development";
 
-$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media..";
+$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
 
 include 'includes/header.php';
 
@@ -35,7 +35,7 @@ include 'includes/header.php';
                 <p class="p-big pt-3 m-0">I hoped to have a great quote here about coding. Truth is I'm a coder as a practical function of being a designer. I love design. I love making things move. I love elegance blended with grotesquely radical boldness. I code to execute the designs and movements I want to see.</p>
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser, through code. Making stuff live and seeing it immediately is both super functional and immediately rewarding. Plus it has the edge of actually working. A sweet photoshop mockup is great, but it's worthless if you don't know a) how to make it live on the web, or b) if it will actually <span class="font-italic font-weight-bold">work</span> on the web. Coding and design work together to create a harmony of function.</p>
+                <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser, through code. Making stuff live and seeing it immediately is both super functional and immediately rewarding. Plus it has the advantage of actually working. A sweet photoshop mockup is great, but it's worthless if it doesn't translate into living, breathing code. Knowing what designs will work, on all devices, and all screens sizes allows for maximum efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
             </div>
         </div><!--end row-->  
         
@@ -50,8 +50,8 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Living by code</h2>
-                    <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries</h3>
-                    <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, and Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, and <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a> for a combination of timeline and scroll-based animations.</p>
+                    <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries.</h3>
+                    <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, a small amount of PHP, jQuery, Javascript, and Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, and <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a> for a combination of timeline and scroll-based animations.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -68,7 +68,7 @@ include 'includes/header.php';
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Approach</h2>
                 <h3 class="section-title text-dark mb-0">Coding style and approach.</h3>
-                <p class="p-big pt-3 m-0">I currently use <a href="https://getbootstrap.com/" target="_blank"><span class="text-primary">Bootstrap 4</span></a> as my main front-end framework. It's one of the most widely used systems for web design and makes use of atomic or functional css, with pre-made classes for the most common styling needs to keep stylesheets minimal, fast-loading, and reusable. While I create wireframes and photoshop/canva mockups, my favourite coding approach is to get my hands dirty designing in the browser, and playing with animation libraries in real time.  I am also currently exploring Angular 7 and Vue.js front-end frameworks for creating websites and PWAs. Please check out my <a href="https://github.com/masonmedia" target="_blank"><span class="text-primary">Github</span></a> for code samples.</p>
+                <p class="p-big pt-3 m-0">I use <a href="https://getbootstrap.com/" target="_blank"><span class="text-primary">Bootstrap 4</span></a>, one of the most widely used systems for web development, to quickly scaffold and mockup modular designs that can be easily scaled. While I create wireframes and photoshop/canva mockups, my favourite coding approach is to get my hands dirty designing, experimenting, and playing with animation libraries live in the browser.  I spend a lot of time in the inspector checking out others' code and debugging, and am always researching trends, methods, and best practices in coding and design. I am also currently exploring Angular 7 and Vue.js front-end frameworks for creating websites and PWAs. Please check out my <a href="https://github.com/masonmedia" target="_blank"><span class="text-primary">Github</span></a> for code samples.</p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->

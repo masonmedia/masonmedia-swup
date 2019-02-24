@@ -22,7 +22,7 @@ include 'includes/header.php';
 -->
 <!--        <img class="img-full absolute z-0 left-0 filter-dark lazy" data-src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80" alt="">-->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h2 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">mason<span class="font-weight-light">media</span></h2>
+            <h2 style="font-family: futura; font-size: 35vmin" class="site-title-big knockout-neon knockout-rainbow font-weight-bold">m.</h2>
             <h3 class="h4">Crafting ideas into reality.</h3>
             <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0"></i>
         </div>

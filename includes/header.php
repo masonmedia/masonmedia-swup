@@ -18,7 +18,9 @@
         <link rel="manifest" href="site.webmanifest">
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
-        <link rel="shortcut icon" href="/favicon.png">
+        <link rel="shortcut icon" href="/mason%20media%20favicon.png">
+<!--        <link rel="shortcut icon" href="/mm-favicon-pink.png">-->
+<!--        <link rel="shortcut icon" href="/9.png">-->
         <!-- Place favicon.ico in the root directory -->
         <!-- Open Graph Meta Data -->
         <meta property="og:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">

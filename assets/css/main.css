@@ -1305,16 +1305,30 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 .icon {
 	font-size: 50px;
 }
+/*
 #swup .fa {
 	font-size: 10vmin;
     font-size: 6vmin;
 	padding: 30px 20px;
+}
+*/
+.fa {
+    font-size: 10vmin;
+    font-size: 6vmin;
+    font-size: 35px;
+    padding: 30px 20px;
+}
+.fa-btn {
+    font-size: 25px;
+    padding: 0 5px;
 }
 #testimonials .fa {
     font-size: 6vmin;
     font-size: 40px;
     padding: 10px 40px 10px 0;
 }
+
+
 .fa--stroke {
     color: transparent;
 }
