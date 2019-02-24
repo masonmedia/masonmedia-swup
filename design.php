@@ -2,7 +2,7 @@
 
 $title = "Mason Media | Design";
 
-$metaD = "Partner with Decentral to capitalize on the knowledge, experience, and network of Canada's leading blockchain company.";
+$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media..";
 
 include 'includes/header.php';
 
@@ -32,10 +32,10 @@ include 'includes/header.php';
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
                 <h2 class="h4 text-primary">Mason Media</h2>
                 <h3 class="section-title text-dark mb-0">Design for web + print.</h3>
-                <p class="p-big pt-3 m-0">I believe in the power of design to inspire, shift mindsets, create positivity, and unleash joy. Every day, I work to improve, grow, take risks, and outdo what I did the previous day.</p>
+                <p class="p-big pt-3 m-0">I believe in the power of design to inspire, shift mindsets, create positivity, and unleash joy. Every day, I work to improve, grow, take risks, and outdo what I did the day before.</p>
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                <p class="p-big pt-3 m-0">I use photoshop, canva, crello, wireframe.cc, mockflow and other tools to design for web and print media, websites and user interfaces, user experience design, social media content, logos, posters, album/track artwork for bands, and more. I experiment ceaselessly and strive for bold, creative, lateral thinking in all I do. Explore some of my work below.</p>
+                <p class="p-big pt-3 m-0">I use photoshop, canva, crello, wireframe.cc, mockflow and other tools to craft designs for web and print media, websites and user interfaces, user experience design, social media content, logos, posters, and album/track artwork for bands. I also source the perfect images for websites, backgrounds, social media, and marketing materials. I experiment ceaselessly and strive for bold, creative, lateral thinking in all I do. Explore some of my work below.</p>
             </div>
         </div><!--end row-->  
         

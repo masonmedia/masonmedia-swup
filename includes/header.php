@@ -74,18 +74,15 @@
        
        <!--nav-->
         <nav id="menu" class="navbar fixed-top navbar-expand-lg down down-med">
-            <a class="navbar-brand" href="/index.php">
+            <a class="navbar-brand" href="/">
                 mason<span class="font-weight-bold">media</span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-            
-<!--            <img class="decentral-mobile-menu" src="/assets/img/jaxx-menu-orange.png" alt="Jaxx Liberty Menu">-->
                 <div class="wrapper-menu">
                   <div class="line-menu half start"></div>
                   <div class="line-menu"></div>
                   <div class="line-menu half end"></div>
                 </div>
-                
             </button>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
@@ -93,13 +90,13 @@
                         <a class="nav-link" href="/design.php">design</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/history.php">development</a>
+                        <a class="nav-link" href="/development.php">development</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/partnerships.php">writing</a>
+                        <a class="nav-link" href="/writing.php">writing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/team.php">marketing</a>
+                        <a class="nav-link" href="/work.php">work</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact.php">contact</a>

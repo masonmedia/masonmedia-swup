@@ -1,8 +1,8 @@
 <?php
 
-$title = "Decentral | Home";
+$title = "Mason Media | Home";
 
-$metaD = "Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.";
+$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
 
 include 'includes/header.php';
 
@@ -21,11 +21,10 @@ include 'includes/header.php';
         </video> 
 -->
 <!--        <img class="img-full absolute z-0 left-0 filter-dark lazy" data-src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80" alt="">-->
-<!--        <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1536411243582-2481fd5bc69b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="">-->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h2 class="site-title-big knockout-neon font-weight-bold">mason<span class="font-weight-light">media</span></h2>
+            <h2 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">mason<span class="font-weight-light">media</span></h2>
             <h3 class="h4">Crafting ideas into reality.</h3>
-            <i href="#sec-1" class="fa fa-angle-down knockout-neon p-0"></i>
+            <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0"></i>
         </div>
     </div>
 
@@ -35,7 +34,7 @@ include 'includes/header.php';
    
     <div id="sec-1" class="row d-flex p-5 min-500 bg-white relative">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left right">
-            <h2 class="section-title text-dark">Modern web design. With <span class="text-primary">edge.</span></h2>
+            <h2 class="section-title text-dark">Modern web design. With <span class="knockout-rainbow">edge.</span></h2>
             <p class="p-big pt-3">I am a Toronto web designer, front-end developer, graphic designer, and copywriter. I create modern, engaging, and dynamic web and print experiences.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
@@ -54,12 +53,12 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-            <h2 class="section-title text-dark"><span class="text-primary">Innovative</span> design for a homogenous internet.</h2>
+            <h2 class="section-title text-dark">Innovative <span class="knockout-rainbow">design</span> for a homogenous internet.</h2>
             <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I aim to bring beautiful, modern design solutions to every project.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
             <p class="p-big pt-3 m-0">In designing for both web and print, my process is intuitive and innovative. I collaborate with clients to help communicate their goals, brand identity, and aesthetics, while drawing on broad experience and constant research of current design trends and best practices.</p>
-            <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
+            <a href="/design.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
 
@@ -77,8 +76,8 @@ include 'includes/header.php';
             <p class="p-big pt-3">I design it. And I build it. I provide a range of options for web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
-            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, WordPress, Github, Bitbucket, and a host of third party animation libraries to offer a wide range of design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
-            <a href="/jaxxliberty.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
+            <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, Wordpress, Github, Bitbucket, and a host of animation libraries to offer a wide range of design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
+            <a href="/development.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
         </div>
     </div><!--end row-->
     
@@ -94,11 +93,11 @@ include 'includes/header.php';
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
             <h2 class="section-title text-dark mb-0">Writing that doesn't <span class="text-primary">suck.</span></h2>
-            <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be accessible on the modern web, it doesn't need to suck.</p>
+            <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be relatable on the modern web, it doesn't need to suck.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
             <p class="p-big pt-3 m-0">From food and fashion to music, tech, and the environment, I write, edit, and parse text specifically for web consumption. I strive to make every topic entertaining, easy to read, and engaging, all the while focusing on SEO, grammar, and clarity. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for improved readability and SEO.</p>
-            <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
+            <a href="/writing.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
         </div>
     </div><!--end row-->
     
