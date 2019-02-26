@@ -18,7 +18,6 @@
         <link rel="manifest" href="site.webmanifest">
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
-<!--        <link rel="shortcut icon" href="/mason%20media%20favicon.png">-->
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
 <!--        <link rel="shortcut icon" href="/9.png">-->
         <!-- Place favicon.ico in the root directory -->
@@ -36,12 +35,9 @@
         <meta name="twitter:title" content="Jaxx Liberty: Your trusted all-in-one multi-asset digital wallet.">
         <meta name="twitter:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">
         <meta name="twitter:image" content="https://www.jaxx.io/img/jaxx-banner-ss.jpg">
-
         <!-- Styles -->
         <link rel="stylesheet" href="/assets/css/aos.css">
         <link rel="stylesheet" href="/assets/css/normalize.css">
-        <!-- Add the slick-theme.css if you want default styling -->
-<!--<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>-->
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="/assets/css/main.css">
@@ -73,7 +69,7 @@
   </head>
   <body>
     <div id="swup" class="transition-fade">
-       
+       <div class="transition-wipe overlay"></div>
        <!--nav-->
         <nav id="menu" class="navbar fixed-top navbar-expand-lg down down-med">
             <a class="navbar-brand" href="/">

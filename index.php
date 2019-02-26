@@ -20,10 +20,20 @@ include 'includes/header.php';
         Your browser does not support the video tag.
         </video> 
 -->
-<!--        <img class="img-full absolute z-0 left-0 filter-dark lazy" data-src="https://images.unsplash.com/photo-1496843916299-590492c751f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80" alt="">-->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h2 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">mason<span class="font-weight-light">media</span></h2>
-            <h3 class="h4">Crafting ideas into reality.</h3>
+            <h2 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
+                <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h2>
+            <h3 class="h4 right right-slow">Crafting ideas into reality.</h3>
+            
+<!--
+                <h1 class="h4 mt-3">Mason Media</h1>
+                <h2 class="site-title-big knockout-rainbow font-weight-bold">
+                    <span class="d-table">Crafting</span>
+                    <span class="d-table">ideas</span>
+                    <span class="d-table">into</span>
+                    <span class="d-table">reality.</span>
+                </h2>
+-->
             <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0"></i>
         </div>
     </div>
