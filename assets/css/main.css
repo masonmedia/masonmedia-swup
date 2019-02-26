@@ -467,12 +467,12 @@ p {
 
 .overlay {
     position: absolute;
-    background: #007bff;
-/*    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);*/
+    background: #ff6902;
+    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);
     top: 0;
     width: 2000px; 
     z-index: 2000;
-    transform: scale(0);
+/*    transform: scale(0);*/
     transform-origin: left;
 }
 

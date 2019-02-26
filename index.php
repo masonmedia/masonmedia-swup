@@ -10,6 +10,8 @@ include 'includes/header.php';
 
 <!--banner-->
 
+<div class="transition-wipe overlay"></div>
+
 <div id="home" role="banner" class="container-fluid p-0">
    
     <div class="row d-flex min-100 min--100 bg-black text-light py-5">
@@ -21,9 +23,9 @@ include 'includes/header.php';
         </video> 
 -->
         <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h2 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
-                <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h2>
-            <h3 class="h4 right right-slow">Crafting ideas into reality.</h3>
+            <h1 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
+                <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h1>
+            <h2 class="h4 right right-slow">Crafting ideas into reality.</h2>
             
 <!--
                 <h1 class="h4 mt-3">Mason Media</h1>

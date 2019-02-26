@@ -32,10 +32,10 @@ include 'includes/header.php';
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
                 <h2 class="h4 text-primary">Mason Media</h2>
                 <h3 class="section-title text-dark mb-0">Code + design = harmony.</h3>
-                <p class="p-big pt-3 m-0">I hoped to have a great quote here about coding. Truth is I'm a coder as a practical function of being a designer. I love design. I love making things move. I love elegance blended with grotesquely radical boldness. I code to execute the designs and movements I want to see.</p>
+                <p class="p-big pt-3 m-0">I'm a coder as a practical function of being a designer. I love design. I love making things move. I love seeing a few lines of code turn something into magic on screen. I love elegance blended with grotesquely radical boldness. I code to execute the designs, functions, and movements I dream up.</p>
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser, through code. Making stuff live and seeing it immediately is both super functional and immediately rewarding. Plus it has the advantage of actually working. A sweet photoshop mockup is great, but it's worthless if it doesn't translate into living, breathing code. Knowing what designs will work, on all devices, and all screens sizes allows for maximum efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
+                <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser. Coding things and seeing them instantly come to life is both super functional, and immediately rewarding. It has the advantage of actually working. A sweet photoshop mockup is great, but it's worthless if it doesn't translate into living, breathing code. Knowing what designs will work, on all devices, and all screens sizes allows for maximum efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
             </div>
         </div><!--end row-->  
         
