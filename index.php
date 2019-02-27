@@ -13,7 +13,7 @@ include 'includes/header.php';
 <div id="home" role="banner" class="container-fluid p-0">
    
     <div class="row d-flex min-100 min--100 bg-black text-light py-5">
-<!--
+       <!--
         <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
           <source src="movie.ogg" type="video/ogg">
@@ -24,19 +24,10 @@ include 'includes/header.php';
             <h1 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
                 <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h1>
             <h2 class="h4 right right-slow">Crafting ideas into reality.</h2>
-            
-<!--
-                <h1 class="h4 mt-3">Mason Media</h1>
-                <h2 class="site-title-big knockout-rainbow font-weight-bold">
-                    <span class="d-table">Crafting</span>
-                    <span class="d-table">ideas</span>
-                    <span class="d-table">into</span>
-                    <span class="d-table">reality.</span>
-                </h2>
--->
-            <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0"></i>
+            <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0 up up-slow"></i>
         </div>
     </div>
+</div>
 
    <!--main body-->
 

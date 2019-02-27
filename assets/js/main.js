@@ -1,10 +1,10 @@
 //onload fade in
-//TweenMax.to($("body"), 1.3, {autoAlpha:1, ease: Power3.easeInOut});
-TweenMax.staggerFrom($(".navbar-brand, .nav-item"), 1, {autoAlpha:0, x: -50, ease: Back.easeInOut.config(1.7)}, 0.1);
+TweenMax.to($("html, body"), 1.3, {autoAlpha:1, ease: Power3.easeInOut});
 
 
 //swup init
 $(document).ready(function() {
+    
     const swup = new Swup({
         doScrollingRightAway: false,
         animateScroll: false,
@@ -12,8 +12,12 @@ $(document).ready(function() {
         scrollAcceleration: .04
     //    scrollAcceleration: 0
     });
+    
+    //GSAP menu timeline
+    
+    TweenMax.staggerFrom($(".navbar-brand, .nav-item"), 1, {autoAlpha:0, x: -50, ease: Back.easeInOut.config(1.7)}, 0.1);
 
-//init BS carousel and pass speed option
+    //init BS carousel and pass speed option
 
     $('.carousel').carousel({
       interval: 2000
@@ -22,16 +26,21 @@ $(document).ready(function() {
 
 ////mobile menu animation
 
-    var wrapperMenu = document.querySelector('.wrapper-menu');
-        wrapperMenu.addEventListener('click', function(){
-        wrapperMenu.classList.toggle('open');  
-        });
+//    var wrapperMenu = document.querySelector('.wrapper-menu');
+//        wrapperMenu.addEventListener('click', function(){
+//        wrapperMenu.classList.toggle('open');  
+//        });
 
 //close mobile nav on click
 
     $('.nav-link, body').on('click',function() {
       $('.navbar-collapse').collapse('hide');
     });
+    
+     //toggle mobile menu animation
+       $('.navbar-toggler, .nav-item').on('click',function() {
+           $('.wrapper-menu').toggleClass('open');
+        });
 
 
 //smooth scroll https://www.taniarascia.com/smooth-scroll-to-id-with-jquery/
@@ -144,11 +153,15 @@ document.addEventListener('swup:contentReplaced', function () {
 
     //mobile menu animation
 
-    var wrapperMenu = document.querySelector('.wrapper-menu, .nav-item');
-        wrapperMenu.addEventListener('click', function(){
-        wrapperMenu.classList.toggle('open');  
-        })
-
+//    var wrapperMenu = document.querySelector('.wrapper-menu, .nav-item');
+//        wrapperMenu.addEventListener('click', function(){
+//        wrapperMenu.classList.toggle('open');  
+//        })
+    
+        //toggle mobile menu animation
+       $('.navbar-toggler, .nav-item').on('click',function() {
+           $('.wrapper-menu').toggleClass('open');
+        }); 
 
     //close mobile nav on click
     $('.nav-link, body').on('click',function() {
@@ -165,11 +178,6 @@ document.addEventListener('swup:contentReplaced', function () {
 	   }, 500, 'linear');
     });
 
-
-//change nav color on scroll
-    $('#home nav, #home .navbar, #home .decentral-navbar-brand, #home .decentral-mobile-menu').toggleClass('scrolled', $(this).scrollTop() > 20);
-
-
 //lazy load
     $(".lazy").recliner({
         attrib: "data-src", // selector for attribute containing the media src
@@ -183,6 +191,4 @@ document.addEventListener('swup:contentReplaced', function () {
         
 });
 //end swup reinit
-
-
 // API js display jaxx blog --> https://www.youtube.com/watch?v=rGObWtjxGBc

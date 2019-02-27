@@ -95,6 +95,7 @@ body {
     max-width: 1500px;
     margin: auto;
 	width: 100%;
+    opacity: 0;
 }
 /* links */
 
@@ -553,13 +554,11 @@ html.is-animating .transition-wipe {
 .down {
     -webkit-transform: translateY(0);
     transform: translateY(0);
-    opacity: 1;
 }
 
 .is-animating .down {
     -webkit-transform: translateY(-150px);
     transform: translateY(-150px);
-    opacity: 0;
 }
 
 /*fade right*/

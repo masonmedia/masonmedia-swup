@@ -12,14 +12,21 @@
            echo "Default title tag"; 
         } ?></title>
         <!--core meta data-->
-        <meta name="description" content="Decentral Inc. is Canada's leading blockchain startup. Decentral is the maker of the Jaxx Liberty, the leading digital asset wallet, and hosted Toronto's first Bitcoin ATM.">
+<!--        <meta name="description" content="Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.">-->
+        <meta name="description" content="<?php
+
+        if(isset($metaD) && !empty($metaD)) { 
+           echo $metaD; 
+        } 
+        else { 
+           echo "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media."; 
+        } ?>" />
         <meta name="keywords" content="Decentral,Jaxx Liberty,Blockchain,Cryptocurrency,Decentral Inc.,Anthony Di Iorio">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="manifest" href="site.webmanifest">
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
-<!--        <link rel="shortcut icon" href="/9.png">-->
         <!-- Place favicon.ico in the root directory -->
         <!-- Open Graph Meta Data -->
         <meta property="og:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">
@@ -36,7 +43,7 @@
         <meta name="twitter:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">
         <meta name="twitter:image" content="https://www.jaxx.io/img/jaxx-banner-ss.jpg">
         <!-- Styles -->
-        <link rel="stylesheet" href="/assets/css/aos.css">
+        <!--<link rel="stylesheet" href="/assets/css/aos.css">-->
         <link rel="stylesheet" href="/assets/css/normalize.css">
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">

@@ -12,7 +12,6 @@ include 'includes/header.php';
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-<!--            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1545153468-156d3b13d488?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Andrew Mason Copywriting">-->
             <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1495431299232-7a1177bc4178?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" alt="Andrew Mason Copywriting">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Writing</h1>
