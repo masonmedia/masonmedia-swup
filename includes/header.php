@@ -69,7 +69,6 @@
   </head>
   <body>
     <div id="swup" class="transition-fade">
-<!--       <div class="transition-wipe overlay"></div>-->
        <!--nav-->
         <nav id="menu" class="navbar fixed-top navbar-expand-lg down down-med">
             <a class="navbar-brand" href="/">

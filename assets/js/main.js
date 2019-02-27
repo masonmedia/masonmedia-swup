@@ -1,3 +1,8 @@
+//onload fade in
+//TweenMax.to($("body"), 1.3, {autoAlpha:1, ease: Power3.easeInOut});
+TweenMax.staggerFrom($(".navbar-brand, .nav-item"), 1, {autoAlpha:0, x: -50, ease: Back.easeInOut.config(1.7)}, 0.1);
+
+
 //swup init
 $(document).ready(function() {
     const swup = new Swup({
@@ -7,47 +12,30 @@ $(document).ready(function() {
         scrollAcceleration: .04
     //    scrollAcceleration: 0
     });
-});
-
-$(document).ready(function() {
-    $('.slider').slick({
-      dots: true,
-      infinite: true,
-      speed: 500,
-      fade: true,
-      cssEase: 'linear'
-    });
-});
 
 //init BS carousel and pass speed option
-$(document).ready(function() {
+
     $('.carousel').carousel({
       interval: 2000
     });
 
-});
-//init AOS library
-$(document).ready(function() {
-    AOS.init();
 
-});
-//mobile menu animation
-$(document).ready(function() {
+////mobile menu animation
+
     var wrapperMenu = document.querySelector('.wrapper-menu');
         wrapperMenu.addEventListener('click', function(){
         wrapperMenu.classList.toggle('open');  
-        })
-});
+        });
 
 //close mobile nav on click
-$(document).ready(function() {
+
     $('.nav-link, body').on('click',function() {
       $('.navbar-collapse').collapse('hide');
     });
-});
+
 
 //smooth scroll https://www.taniarascia.com/smooth-scroll-to-id-with-jquery/
-$(document).ready(function() {
+
     $('a[href*="#"]').on('click', function (e) {
 	   e.preventDefault();
 
@@ -56,14 +44,8 @@ $(document).ready(function() {
 	   }, 500, 'linear');
     });
 
-});
-//change nav color on scroll
-$(document).ready(function() {
-    $('.navbar').toggleClass('scrolled', $(this).scrollTop() > 20);
-});
-
 //lazy load
-$(document).ready(function() {
+
     $(".lazy").recliner({
         attrib: "data-src", // selector for attribute containing the media src
         throttle: 0,      // millisecond interval at which to process events
@@ -71,14 +53,80 @@ $(document).ready(function() {
         printable: true    // be printer friendly and show all elements on document print
     //    live: true          // auto bind lazy loading to ajax loaded elements
     });
-});
+    
+     //GSAP + Scroll Magic
+    // init
+    var controller = new ScrollMagic.Controller();
+    
+    // assign trigger class
+    $(".stagger-up").each(function() {
+
+      var stagger = TweenMax.staggerFrom($(this).find(".slide-up"), 1, {
+          opacity:0,    
+          delay:0,
+          y: 50,
+          ease: Back.easeInOut.config(1.7)
+      },
+      0.1);
+
+        var fadeUp = new ScrollMagic.Scene({
+                triggerElement: this,
+                triggerHook: 'onEnter',
+                reverse:true
+            })
+            .setTween(stagger)
+            .addTo(controller);
+    }); 
+    
+    $(".stagger-right").each(function() {
+
+      var stagger2 = TweenMax.staggerFrom($(this).find(".slide-right"), 1, {
+          opacity:0,    
+          delay:0,
+          x: -50,
+          ease: Back.easeInOut.config(1.7)
+      },
+      0.1);
+
+        var fadeRight = new ScrollMagic.Scene({
+                triggerElement: this,
+                triggerHook: 'onEnter',
+                reverse: true
+            })
+            .setTween(stagger2)
+            .addTo(controller);
+    }); 
+    
+    $(".stagger-down").each(function() {
+
+      var stagger3 = TweenMax.staggerFrom($(this).find(".slide-down"), 1, {
+          opacity:0,    
+          delay:0,
+          y: -50,
+          ease: Back.easeInOut.config(1.7)
+      },
+      0.1);
+
+        var fadeDown = new ScrollMagic.Scene({
+                triggerElement: this,
+                triggerHook: 'onEnter',
+                reverse: true
+            })
+            .setTween(stagger3)
+            .addTo(controller);
+    }); 
+    
+    
+    
+});//end main js
 
 
 //swup reinit plugins
 
 document.addEventListener('swup:contentReplaced', function () {
-    //aos reinit
-    AOS.init();
+    
+    //gsap
+    TweenMax.staggerFrom($(".navbar-brand, .nav-item"), 1, {autoAlpha:0, x: -50, ease: Back.easeInOut.config(1.7)}, 0.1);
 
     //lazyload reinit
     $(".lazy").recliner({

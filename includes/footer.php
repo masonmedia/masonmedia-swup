@@ -63,7 +63,8 @@
     <script src="/assets/js/bootstrap.min.js"></script>
     <!--aos js-->
     <script src="/assets/js/aos.js"></script>
-<!--    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>-->
+    <script type="text/javascript" src="/assets/js/TweenMax.min.js"></script>
+    <script type="text/javascript" src="/assets/js/TimelineMax.min.js"></script>
 
     <!-- recliner lazy load js-->
     <script src="/assets/js/recliner.js"></script>

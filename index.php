@@ -10,8 +10,6 @@ include 'includes/header.php';
 
 <!--banner-->
 
-<div class="transition-wipe overlay"></div>
-
 <div id="home" role="banner" class="container-fluid p-0">
    
     <div class="row d-flex min-100 min--100 bg-black text-light py-5">
