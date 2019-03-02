@@ -103,6 +103,9 @@
                         <a class="nav-link" href="/work.php">work</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="/pricing.php">pricing</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/contact.php">contact</a>
                     </li>
                 </ul>

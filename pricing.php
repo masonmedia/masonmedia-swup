@@ -1,6 +1,6 @@
 <?php
 
-$title = "Mason Media | Writing";
+$title = "Mason Media | Pricing";
 
 $metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
 
@@ -12,14 +12,13 @@ include 'includes/header.php';
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" data-src="/assets/img/pink-writing-paper.jpeg" alt="Andrew Mason Copywriting">
-<!--            <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1495431299232-7a1177bc4178?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" alt="Andrew Mason Copywriting">-->
-            <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
-                <h1 class="h4 mt-3">Writing</h1>
+            <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" src="/assets/img/jaxx-bike-3.jpeg" alt="Andrew Mason Copywriting">
+            <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
+                <h1 class="h4 mt-3">Pricing</h1>
                 <h2 class="site-title font-weight-bold">
-                    <span class="d-table">Fast.</span>
-                    <span class="d-table">Funny.</span>
-                    <span class="d-table">Spelled correctly.</span>
+                    <span class="d-table">Plans</span>
+                    <span class="d-table">and</span>
+                    <span class="d-table">options.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
@@ -33,10 +32,10 @@ include 'includes/header.php';
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center">
-                    <h2 class="h4 text-primary">Copywriting</h2>
-                    <h3 class="section-title text-dark mb-0">Entertaining, easy-reading copy for all occasions. Almost.</h3>
-                    <!--<p class="p-big pt-3 m-0">I believe in the power of design to inspire, shift mindsets, create positivity, and unleash joy. Every day, I work to improve, grow, take risks, and outdo what I did the day before.</p>-->
-                    <p class="p-big pt-3 m-0">I stive to write engaging, fast-paced content that's creative and entertaining, with a focus on humour and originality. I have broad experience with short and long form writing, in a range of topics from music, to fashion, fitness, food/cooking, lifestyle, design, real estate, and business. While I tailor content to each project's specific needs, I try to inject a sense of humour, lightness, creativity, and as always, grammatical correctness in everything I do.</p>
+                    <h2 class="h4 text-primary">Base plans</h2>
+                    <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
+                    <p class="p-big pt-3 m-0">Base rates start at 2000$, with an addional per-page cost of 150$ for a template option, and 300$ for a bespoke design plan*. This includes a mockup of the homepage (homepage design will serve as the design foundation for the rest of the site), as well as social media and contact information integration. Other optional features include blog integration, google maps, animation, contact forms, mailchimp sign up forms, as well as graphic design and copywriting services (see below for more).</p>
+                    <p class="p-big pt-3 m-0">*Inquire for more information.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
@@ -45,7 +44,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">
-                    <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1519755886879-4e3381fe0cb7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1697&q=80" alt="About Decentral">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/yellow-triangle.jpeg" alt="About Decentral">
                 </div>
             </div>
         </section>
@@ -54,9 +53,11 @@ include 'includes/header.php';
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Content</h2>
-                    <h3 class="section-title text-dark mb-0">Taglines, blogs, reviews, and bios.</h3>
-                    <p class="p-big pt-3 m-0">I create a range of different content types, from articles, to reviews, blog posts, magazine features, bios, and album/track descriptions. Most important in all my writing is an effort to be genuine and authentic, be it about a product, service, concert, or app. I try to make reading fluid, fast, and fun.</p>
+                    <h2 class="h4 text-primary">Writing + graphic design</h2>
+                    <h3 class="section-title text-dark mb-0">Logos, copywriting, and image sourcing/creation.</h3>
+                    <p class="p-big pt-3 m-0">
+                        Graphic design and copywriting/editing services are available at an hourly rate of 50$. Get custom logos, favicons, branded imagery, or the perfect photos to convey your brand or product's energy. You'll also get the perfect SEO prioritized taglines, descriptions, and content that's jam packed with fast-paced, easy-reading authenticity. I work with clients to achieve visual and print assets that are unique, bold, and modern. 
+                    </p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -73,9 +74,11 @@ include 'includes/header.php';
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">Editing</h2>
-                <h3 class="section-title text-dark mb-0">Cats. dogs, and babies: it's Tuesday!</h3>
-                <p class="p-big pt-3 m-0">From corrections to grammar and spelling, to improved style, readability and user experience, I specialize in editing, parsing, and revitalizing existing written content. I aim for text that's fast-moving, easy to read, and grammatically correct. I also focus on packaging and preparing copy for online/web presentation.</p>
+                <h2 class="h4 text-primary">Project scope</h2>
+                <h3 class="section-title text-dark mb-0">Schedule, deadline, edits, and scope</h3>
+                <p class="p-big pt-3 m-0">
+                    
+                </p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
