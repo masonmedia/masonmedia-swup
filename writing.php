@@ -29,6 +29,8 @@ include 'includes/header.php';
     
     <div class="container-fluid p-0 relative">
 
+       <!-- intro: copywriting -->
+       
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
@@ -50,6 +52,8 @@ include 'includes/header.php';
             </div>
         </section>
        
+       <!-- content writing-->
+       
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
@@ -70,6 +74,8 @@ include 'includes/header.php';
             </div>
         </section>
         
+        <!-- editing-->
+        
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
@@ -88,6 +94,8 @@ include 'includes/header.php';
             </div>
         </section>
         
+        <!-- SEO-->
+        
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
@@ -100,8 +108,6 @@ include 'includes/header.php';
             </div><!--end row-->
         </section>
         
-        <!-- wiwp images-->
-        
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
@@ -109,103 +115,25 @@ include 'includes/header.php';
                 </div>
             </div>
         </section>
-        
-        <section>
-            <div class="row d-flex bg-light bg-light">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-forest.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-beach.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-mountains.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-ocean.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
-                </div>
-            </div>
-        </section>
 
-        <!--big horn sheep-->
+        <!--writing portfolio-->
         
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Big Horn Sheep</h2>
+                    <h2 class="h4 text-primary">Work</h2>
                     <h3 class="section-title text-dark mb-0">Logo + posters + social media.</h3>
-                    <p class="p-big pt-3 m-0"><a href="http://bighornsheepband.com" target="_blank"><span class="text-primary">Big Horn Sheep</span></a> are a Toronto based instrumental trio with an original repertoire that uniquely blends jazz, funk, EDM, and rock-pop. They play regularly throughout Toronto and required a complete design mockup including logo, website, concert posters, album cover art, and social media content. The resulting design incorporates an atari-influenced, 8-bit video game theme including bold neon colors, a playful take on a sheep's head for the logo, simple yet bold sans-serif fonts, and myriad variations on the theme for social media content.</p>
+                    <p class="p-big pt-3 m-0">are a Toronto based instrumental trio with an original repertoire that uniquely blends jazz, funk, EDM, and rock-pop. They play regularly throughout Toronto and required a complete design mockup including logo, website, concert posters, album cover art, and social media content. The resulting design incorporates an atari-influenced, 8-bit video game theme including bold neon colors, a playful take on a sheep's head for the logo, simple yet bold sans-serif fonts, and myriad variations on the theme for social media content.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->
         </section>
         
-        <!-- bhs images-->
-        
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-blue.jpg" alt="Big Horn Sheep Facebook cover design">
-                </div>
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-green.jpg" alt="Big Horn Sheep Facebook cover design">
-                </div>
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-red.jpg" alt="Big Horn Sheep Facebook cover design">
-                </div>
-            </div>
-        </section>
-        
-        <section>
-            <div class="row d-flex min-400 bg-white relative">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-<!--                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
-                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup-black.jpg" alt="Big Horn Sheep Facebook cover design">
-                </div>
-            </div>
-        </section>
-        
-        <section>
-            <div class="row d-flex bg-light bg-light p-0">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
-                </div>
-            </div>
-        </section>
-        
-        <!--jen mason-->
-        
-        <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
-                <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Jen Mason, PhD.</h2>
-                    <h3 class="section-title text-dark mb-0">Flyers + posters + website.</h3>
-                    <p class="p-big pt-3 m-0">For <a href="http://jenmason.ca" target="_blank"><span class="text-primary">Jen Mason</span></a> PhD's dissertation research project, she conducted a joint workshop on the role of mindfulness in promoting dialogue among people with diverse and varied perspectives. The goal was to facilitate and foster an improvement in the ability to communicate in multi-stakeholder situations, specifically with regard to topics including sustainability and the environment. Mrs. Mason required a design workup including a website, poster, and (below) a flyer for advertising.</p>
-                </div>
-                <div class="offset-lg-2"></div>
-            </div><!--end row-->
-        </section>
-        
-        <!-- jen mason images-->
-
-        <section>
-            <div class="row d-flex bg-light bg-light p-0">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Big Horn Sheep poster design">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Big Horn Sheep poster design">
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/jms-wiwp-flyer-mockup.jpg" alt="Mason Media Workshops in Wild Places flyer design">
                 </div>
             </div>
         </section>
