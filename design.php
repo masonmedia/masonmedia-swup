@@ -46,91 +46,48 @@ include 'includes/header.php';
         </div>
                
 <!--https://images.unsplash.com/photo-1464798429116-8e26f96b2e60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80-->
+        
+        <!--wake n bake coffee-->
        
-        <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
-                <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Aimee Claxton</h2>
-                    <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
-                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
-                </div>
-                <div class="offset-lg-2"></div>
-            </div>
-        </section>
-        
-        <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-teaching-card-closeup.jpg" alt="Business card design for Aimee Claxton">
-            </div>
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card.jpg" alt="Business card design for Aimee Claxton">
-            </div>
-        </div><!--end row-->
-        <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-<!--                <img class="img-full relative left-0 lazy" src="/assets/img/aimee-joni-poster.jpg" alt="Business card design for Aimee Claxton">-->
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster-2.jpg" alt="Business card design for Aimee Claxton">
-            </div>
-        </div><!--end row-->
-        
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">Ed Mortenson</h2>
-                <h3 class="section-title text-dark mb-0">Business cards.</h3>
-                <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required business card designs for his performing and teaching businesses, as well as for his services driving for uber. He requested a design that blended part edgy, rock personality, with the clean, trustworthiness of a professional service. I came up with a layout equal parts simple, unique, bold, and rock.</p>
+                <h2 class="h4 text-primary">Wake 'n Bake Coffee Co.</h2>
+                <h3 class="section-title text-dark mb-0">Logo, packaging, business cards.</h3>
+                <p class="p-big pt-3 m-0">Toronto based coffee roaster Wake 'n Bake required a full design workup including logo, color scheme, and packaging mockups for their new coffee company. The design focused on a fresh, 80s-inspired palette of pastels and neon primaries which offer a bright, exciting feel, while hinting at established brands such as David's Tea, rock band The Strokes, Google, Microsoft, and NBC.</p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
         
         <section>
-            <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">
-                </div>
-            </div>
-        </section>
-        
-        <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
-                <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Janice Mason Steeves</h2>
-                    <h3 class="section-title text-dark mb-0">Workshops in Wild Places.</h3>
-                    <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
-                </div>
-                <div class="offset-lg-2"></div>
-            </div><!--end row-->
-        </section>
-        
-        <!-- wiwp images-->
-        
-        <section>
-            <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/jms-wiwp-flyer-mockup.jpg" alt="Mason Media Workshops in Wild Places flyer design">
-                </div>
-            </div>
-        </section>
-        
-        <section>
             <div class="row d-flex bg-light bg-light">
+                
+                <!--coffee bags-->
+                <div class="col-lg-12 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-yellow.jpg" alt="">
+                </div>
+                <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-green.jpg" alt="">
+                </div>
+                <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-pink.jpg" alt="">
+                </div>
+                <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-turq.jpg" alt="">
+                </div>
+                <!--business cards-->
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-forest.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-buiness-card-mockup-turq.jpg" alt="">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-beach.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-buiness-card-mockup-green.jpg" alt="">
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-mountains.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-ocean.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full absolute z-0 lazy" src="/assets/img/wake-n-bake-box-mockup-pink.jpg" alt="">
                 </div>
             </div>
         </section>
-
+        
         <!--big horn sheep-->
         
         <section>
@@ -164,7 +121,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex min-400 bg-white relative">
                 <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-<!--                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
+                    <!--<img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
                     <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup-black.jpg" alt="Big Horn Sheep Facebook cover design">
                 </div>
             </div>
@@ -183,6 +140,95 @@ include 'includes/header.php';
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
                     <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
+                </div>
+            </div>
+        </section>
+        
+        <section>
+            <div class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Aimee Claxton</h2>
+                    <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
+                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div>
+        </section>
+        
+        <div class="row d-flex min-400 text-secondary bg-white">
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-teaching-card-closeup.jpg" alt="Business card design for Aimee Claxton">
+            </div>
+            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card.jpg" alt="Business card design for Aimee Claxton">
+            </div>
+        </div><!--end row-->
+        <div class="row d-flex min-400 text-secondary bg-white">
+            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <!--<img class="img-full relative left-0 lazy" src="/assets/img/aimee-joni-poster.jpg" alt="Business card design for Aimee Claxton">-->
+                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster-2.jpg" alt="Business card design for Aimee Claxton">
+            </div>
+        </div><!--end row-->
+        
+        <!--ed mortenson-->
+       
+        <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="offset-lg-2"></div>
+            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <h2 class="h4 text-primary">Ed Mortenson</h2>
+                <h3 class="section-title text-dark mb-0">Business cards.</h3>
+                <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required business card designs for his performing and teaching businesses, as well as for his services driving for uber. He requested a design that blended part edgy, rock personality, with the clean, trustworthiness of a professional service. I came up with a layout equal parts simple, unique, bold, and rock.</p>
+            </div>
+            <div class="offset-lg-2"></div>
+        </div><!--end row-->
+        
+        <section>
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <!--<img class="img-full absolute z-0 lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">-->
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/ed-mortenson-driver-card-gold.jpg" alt="Ed Mortenson business card">
+                </div>
+            </div>
+        </section>
+        
+        <!--wiwp-->
+        
+        <section>
+            <div class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Janice Mason Steeves</h2>
+                    <h3 class="section-title text-dark mb-0">Workshops in Wild Places.</h3>
+                    <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->
+        </section>
+        
+        <!-- wiwp images-->
+        
+        <section>
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/jms-wiwp-flyer-mockup-pink.jpg" alt="Mason Media Workshops in Wild Places flyer design">
+                </div>
+            </div>
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light bg-light">
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-forest.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-beach.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-mountains.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
+                </div>
+                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="w-100 lazy" data-src="/assets/img/wiwp-facebook-cover-mockup-ocean.jpg" alt="Janice Mason Steeves Workshops in Wild Places.">
                 </div>
             </div>
         </section>
