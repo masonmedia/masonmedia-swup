@@ -48,6 +48,42 @@
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="/assets/css/main.css">
+        <!--schema structural data-->
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Mason Media",
+              "@id":"http://andrewmasonmedia.com",
+              "knowsAbout": "Web Development",
+              "url": "http://andrewmasonmedia.com",
+              "sameAs": [
+                "https://www.facebook.com/decentralca/",
+                "https://twitter.com/decentralca",
+                "https://www.youtube.com/channel/UCbRTp8VBYPvNF039IXO2dsg?view_as=subscriber",
+                "https://www.instagram.com/decentralproject/",
+                "https://www.linkedin.com/company/decentral/"
+              ],
+              "logo": "",
+              "image": [
+                "https://decentral.ca/assets/img/jaxx-apple-multi-device-min.jpg",
+                "https://decentral.ca/assets/img/jaxx-iphone-here-look.jpg",
+                "https://decentral.ca/assets/img/jaxx-desk-paraphernalia.jpg",
+                "https://decentral.ca/assets/img/decentral-anthony-1.jpg",
+                "https://decentral.ca/assets/img/jaxx-pc-coffee.png",
+                "https://decentral.ca/assets/img/decentral-toronto-flatiron.jpeg"
+               ],
+              "address":{
+                "@type": "PostalAddress",
+                "addressLocality": "Toronto",
+                "addressRegion": "ON",
+                "addressCountry": "CA"
+              },
+              "founder": "Andrew Mason",
+              "brand": "Mason Media",
+              "email": "andrewmasonmedia@gmail.com"
+              }
+        </script>
         <!--cookies banner-->
         <link rel="stylesheet" href="/assets/css/cookieconsent.min.css">
         <script>            
@@ -66,10 +102,10 @@
               },
               "position": "bottom-left",
                 "content": {
-                "message": "Like most websites, we use analytics cookies to understand how this site is used — as long as your browser is set to accept them.",
+                "message": "This site uses analytics cookies to improve performance and understand how the site is used.",
                 "dismiss": "Start exploring",
                 "link": "Find out more.",
-                "href": "https://jaxx.io/thirdparties-current.html"
+                "href": "https://en.wikipedia.org/wiki/HTTP_cookie"
               },
             })});
         </script>
