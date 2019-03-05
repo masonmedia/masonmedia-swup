@@ -1,11 +1,9 @@
-<?php
-
-$title = "Mason Media | Advance Therapy";
-
-$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
-
-include 'includes/header.php';
-
+<?php 
+    $title = "Mason Media | Advance Therapy";
+    $metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/includes/header.php";
+    include_once($path);
 ?>
 
     <!--jumbotron-->
@@ -118,8 +116,8 @@ include 'includes/header.php';
     </div>
     <!--end container-->   
     
-<?php
-
-include 'includes/footer.php';
-
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/includes/footer.php";
+   include_once($path);
 ?>

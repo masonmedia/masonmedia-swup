@@ -6,7 +6,7 @@ $metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking desi
 
 include 'includes/header.php';
 
-?>
+?>     
 
     <!--jumbotron-->
     
@@ -30,22 +30,21 @@ include 'includes/header.php';
     <div class="container-fluid p-0 relative">
 
         <section>
-            <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-                    <h2 class="h4 text-primary">Mason Media</h2>
-                    <h3 class="section-title text-dark mb-0">Code + design = harmony.</h3>
-                    <p class="p-big pt-3 m-0">I hoped to have a great quote here about coding. Truth is I'm a coder as a practical function of being a designer. I love design. I love making things move. I love elegance blended with grotesquely radical boldness. I code to execute the designs and movements I want to see.</p>
+            <div id="sec-1" class="row d-flex p-3 min-500 text-secondary bg-white">
+               <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Mason Media portfolio</h2>
+                    <h3 class="section-title text-dark mb-0">Samples of work.</h3>
+                    <p class="p-big pt-3 m-0">I design and code custom sites from scratch, use stock HTML5 templates, design and build Wordpress themes, customize prebuilt themes, redesign and update existing websites, and design for User Experience. I've done work for a range of clients and industries including real estate agents, healthcare services providers, artists, musicians, travel companies, graduate students, and small businesses. Explore the projects for more information.</p>
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                    <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser, through code. Making stuff live and seeing it immediately is both super functional and immediately rewarding. Plus it has the edge of actually working. A sweet photoshop mockup is great, but it's worthless if you don't know a) how to make it live on the web, or b) if it will actually work on the web. Coding and design work together to create a harmony of function.</p>
-                </div>
+               <div class="offset-lg-2"></div>
             </div><!--end row-->  
         </section>
         
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/atherapy-banner.jpg" alt="">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/atherapy-banner.jpg" alt="Healthcare services provider Advance Therapy">
                 </div>
             </div>
         </section>
@@ -53,10 +52,56 @@ include 'includes/header.php';
         <!--advance therapy-->
        
         <section>
-            <div class="row d-flex p-5 min-500 text-secondary bg-white">
+            <div class="row d-flex p-3 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Advance Therapy</h2>
+                    <h3 class="section-title text-dark mb-0">Specializing in rehabilitation services for people with an acquired brain injury.</h3>
+                    <p class="p-big pt-3 m-0">This project required a complete overhaul and redesign of the firm's previous site. Requirements included a simple, intuitive user interface, a low amount of scrolling while still presenting a large amount of content, a specific typeface, and the firm's previous logo.</p>
+                    <a href="/work/at.php"><p class="p-btn mt-3">Read more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">                
+                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-green-lights.jpg" alt="Janice Mason Seeves Workshops in Wild Places">
+                </div>
+            </div>
+        </section>
+        
+        <!--big horn sheep-->
+       
+        <section>
+            <div class="row d-flex p-3 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Big Horn Sheep</h2>
+                    <h3 class="section-title text-dark mb-0">Toronto based instrumental trio Big Horn Sheep blend elements of funk, jazz, electronica, and contemporary improvisation.</h3>
+                    <p class="p-big pt-3 m-0">Big Horn Sheep draws on influences from Rudder to Pomo, Wayne Krantz, Nerve, Tycho, and Boards of Canada. The band required a logo, website, soundcloud page design, album cover art, and ongoing poster designs for their live shows.</p>
+                    <a href="/work/bhs.php"><p class="p-btn mt-3">Find out more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">                
+                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-ss-multi-device.jpg" alt="Toronto jazz-funk trio Big Horn Sheep.">
+                </div>
+            </div>
+        </section>
+        
+        <!--dj mycorrhiza-->
+       
+        <section>
+            <div class="row d-flex p-5 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                     <h3 class="section-title text-dark mb-0">Specializing in rehabilitation services for people with an acquired brain injury.</h3>
                     <p class="p-big pt-3 m-0">This project required a complete overhaul and redesign of the firm's previous site. Requirements included a simple, intuitive user interface, a low amount of scrolling while still presenting a large amount of content, a specific typeface, and the firm's previous logo.</p>
                     <a href="/at.php"><p class="p-btn mt-3">Read more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
@@ -68,8 +113,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">                
-<!--                    <img class="w-100 absolute z-0 left-0 lazy" src="https://images.unsplash.com/photo-1535219241072-7d3c28a49a5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1648&q=80" alt="Janice Mason Seeves Workshops in Wild Places">-->
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/jms-ss-multi-device.jpg" alt="Janice Mason Seeves Workshops in Wild Places">
+                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/djms-ss-iphone.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
         </section>
