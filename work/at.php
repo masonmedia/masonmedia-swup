@@ -64,7 +64,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg p-0">
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/at-iphone-2.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/at-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
                 </div>
             </div><!--end row-->
         </section>

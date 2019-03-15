@@ -12,8 +12,8 @@
         <div class="row d-flex min-700-lg relative py-5">
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/bhs-ss-laptop.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
-                <h1 class="h4 mt-3">Big Horn Sheep</h1>
-                <h2 class="site-title font-weight-bold knockout-rainbow">
+                <h1 class="h4 mt-3 ds-black">Big Horn Sheep</h1>
+                <h2 class="site-title font-weight-bold ds-black">
                     <span class="d-table">Music</span>
                     <span class="d-table">made</span>
                     <span class="d-table">by</span>
@@ -44,7 +44,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/bhs-black-macbook.jpg" alt="Big Horn Sheep">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/bhs-ss-multi-device.jpg" alt="Big Horn Sheep">
                 </div>
             </div>
         </section>
@@ -66,7 +66,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg p-0">
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/at-iphone-2.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/bhs-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
                 </div>
             </div><!--end row-->
         </section>
@@ -79,30 +79,7 @@
                 <h2 class="h4 text-primary">A vision</h2>
                 <h3 class="section-title text-dark mb-0">Frameworks, libraries, and specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Flexbox, Bootstrap 3, jQuery, and included UI/UX design, copywriting and editing, color palette development, photo sourcing, installation, as well as ongoing maintenance and tech support.</p>
-                <!-- Button trigger modal -->
-                <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
-				<!-- Modal -->
-				<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="advanceTherapyModal" aria-hidden="true">
-				  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-					<div class="modal-content">
-					  <div class="modal-header">
-						<h5 class="modal-title" id="at-modal">Advance Therapy</h5>
-						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-						  <span aria-hidden="true">X</span>
-						</button>
-					  </div>
-					  <div class="modal-body">
-						<img class="img ds mb-5 opacity" src="/assets/img/atherapy-ss-4.jpg" alt="Advance Therapy full website">
-						<a href="http://www.atherapy.ca" target="_blank">
-							<h2 class="border-top pt-3 font-weight-bold text-right">atherapy.ca</h2>
-						</a>
-					  </div>
-					  <div class="modal-footer">
-						<button type="button" class="btn btn-outline-dark" data-dismiss="modal">Close</button>
-					  </div>
-					</div>
-				  </div>
-				</div><!--end modal-->
+                <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">Find out more</a>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
@@ -110,7 +87,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/at-iphone.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
+                    <img class="img-full absolute z-0 lazy" src="/assets/img/bhs-logo-green.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
                 </div>
             </div>
         </section>
