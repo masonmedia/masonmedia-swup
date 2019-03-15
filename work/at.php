@@ -10,7 +10,7 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" src="/assets/img/at-banner-flower.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" src="/assets/img/at-macbook-3D-angle.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left p-5">
                 <h1 class="h4 mt-3">Portfolio</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
