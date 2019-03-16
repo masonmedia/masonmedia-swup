@@ -10,10 +10,10 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/bhs-ss-laptop.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/bhs-macbook-3D-angle.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Big Horn Sheep</h1>
-                <h2 class="site-title font-weight-bold ds-black">
+                <h2 class="site-title font-weight-bold knockout-rainbow">
                     <span class="d-table">Music</span>
                     <span class="d-table">made</span>
                     <span class="d-table">by</span>
@@ -31,13 +31,13 @@
        
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
                     <h2 class="h4 text-primary">A band</h2>
-                    <h3 class="section-title text-dark mb-0">Specializing in rehabilitation services for people with an acquired brain injury.</h3>
+                    <h3 class="section-title text-dark mb-0">Approach.</h3>
+                    <p class="p-big pt-3 m-0">A website for Toronto instrumental trio Big Horn Sheep, this project required bold imagery and graphic design, unique typography, the presentation of band audio tracks and images, as well as performance dates and contact information.</p>
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                    <p class="p-big pt-3 m-0">Advance Therapy provides clients with customized support for activities of daily living, educational or vocational pursuits, and community reintegration activities. This project required a complete overhaul and redesign of the firm's previous site. Requirements included a simple, intuitive user interface, a low amount of scrolling while still presenting a large amount of content, a specific typeface, and the firm's previous logo.</p>
-                </div>
+                <div class="offset-lg-2"></div>
             </div>
         </section>
         
@@ -57,7 +57,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">A sound</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
-                    <p class="p-big pt-3 m-0">The design solution consisted of a one-page layout with animated dropdown sections that hide and reveal textual content. It features a side-canvas animated menu, smooth-scrolling navigation between sections, a reworked and expanded color palette, updated, modernized branding, and image sourcing based on industry-related themes.</p>
+                    <p class="p-big pt-3 m-0">The design solution consisted of a Single Page Application (SPA) approach using AngularJS and Bootstrap 4. It features animated page transitions, embedded soundcloud audio tracks, a pinterest-style image lightbox gallery, Bootstrap modals to showcase performance dates and band posters (also of Mason Media design), with unique banner images and branding. The site was also an exercise in Atomic CSS, with an effort to limit styles to native Bootstrap 4 classes.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -77,8 +77,8 @@
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">A vision</h2>
-                <h3 class="section-title text-dark mb-0">Frameworks, libraries, and specs.</h3>
-                <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Flexbox, Bootstrap 3, jQuery, and included UI/UX design, copywriting and editing, color palette development, photo sourcing, installation, as well as ongoing maintenance and tech support.</p>
+                <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
+                <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 4, and AngularJS. It also required UX/UI design, copywriting, graphic design, color palette development, image/logo creation, and a Facebook band page design.</p>
                 <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">Find out more</a>
             </div>
             <div class="offset-lg-2"></div>

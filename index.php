@@ -40,7 +40,7 @@ include 'includes/header.php';
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 left">
             <p class="p-big pt-3 m-0">From interactive websites, to graphic design, copywriting, and brand development, I think laterally to create unique projects that blend form and function.</p>
-            <a href="/about.php"><p class="p-btn mt-3">Discover &#8594;</p></a>
+            <a href="#design"><p class="p-btn mt-3 border-0 p-0">Discover <i class="fa fa-angle-right fa-btn"></i></p></a>
         </div>
     </div><!--end row-->
      
@@ -52,14 +52,14 @@ include 'includes/header.php';
       
     <!--jaxx liberty-->
     
-    <div class="row d-flex p-5 min-500 bg-white">
+    <div id="design" class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
             <h2 class="section-title text-dark">Innovative <span class="knockout-rainbow">design</span> for a homogenous internet.</h2>
             <p class="p-big pt-3">Generic is easy. Unique is hard. From UI and UX design, to image creation and photo sourcing, logos, color palette development, and typography selection, I aim to bring beautiful, modern design solutions to every project.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
             <p class="p-big pt-3 m-0">In designing for both web and print, my process is intuitive and innovative. I collaborate with clients to help communicate their goals, brand identity, and aesthetics, while drawing on broad experience and constant research of current design trends and best practices.</p>
-            <a href="/design.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
+            <a href="/design.php"><p class="p-btn mt-3 border-0 p-0">Find out more <i class="fa fa-angle-right fa-btn"></i></p></a> 
         </div>
     </div><!--end row-->
 
@@ -78,7 +78,7 @@ include 'includes/header.php';
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
             <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, Angular, Wordpress, Github, Bitbucket, and a host of animation libraries to offer a wide range of design and functionality options. From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.</p>
-            <a href="/development.php"><p class="p-btn mt-3">Explore &#8594;</p></a>  
+            <a href="/development.php"><p class="p-btn mt-3 border-0 p-0">Explore <i class="fa fa-angle-right fa-btn"></i></p></a> 
         </div>
     </div><!--end row-->
     
@@ -98,7 +98,7 @@ include 'includes/header.php';
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
             <p class="p-big pt-3 m-0">From food and fashion to music, tech, and the environment, I write, edit, and parse text specifically for web consumption. I strive to make every topic entertaining, easy to read, and engaging, all the while focusing on SEO, grammar, and clarity. I write for websites, blogs, biographies, event promotion, social media, marketing, and more. I also edit existing content for improved readability and SEO.</p>
-            <a href="/writing.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
+            <a href="/writing.php"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
         </div>
     </div><!--end row-->
     
@@ -117,7 +117,7 @@ include 'includes/header.php';
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
             <p class="p-big pt-3 m-0">I've advised numerous small businesses on strategy, design, and marketing approaches to help their brands grow and develop. I also offer ongoing website mainenance and support, site redesigns, content additions, and improvements to layout, copy, and imagery to keep websites fresh and consistently improving.</p>
-            <a href="/team.php"><p class="p-btn mt-3">Learn more &#8594;</p></a>
+            <a href="/work.php"><p class="p-btn mt-3 border-0 p-0">Find out <i class="fa fa-angle-right fa-btn"></i></p></a> 
         </div>
     </div><!--end row-->
     

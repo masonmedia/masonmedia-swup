@@ -38,7 +38,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Copywriting</h2>
                     <h3 class="section-title text-dark mb-0">Entertaining, easy-reading copy for all occasions. Almost.</h3>
                     <!--<p class="p-big pt-3 m-0">I believe in the power of design to inspire, shift mindsets, create positivity, and unleash joy. Every day, I work to improve, grow, take risks, and outdo what I did the day before.</p>-->
-                    <p class="p-big pt-3 m-0">I stive to write engaging, fast-paced content that's creative and entertaining, with a focus on humour and originality. I have broad experience with short and long form writing, in a range of topics from music, to fashion, fitness, food/cooking, lifestyle, design, real estate, and business. While I tailor content to each project's specific needs, I try to inject a sense of humour, lightness, creativity, and as always, grammatical correctness in everything I do.</p>
+                    <p class="p-big pt-3 m-0">I stive to write engaging, fast-paced content that's creative and entertaining, with a focus on humour and originality. I have broad experience with short and long form writing on a range of topics from music, to fashion, fitness, food/cooking, lifestyle, design, real estate, and business. While I tailor content to each project's specific needs, I try to inject a sense of humour, lightness, creativity, and as always, SEO and grammatical correctness in everything I do.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
@@ -80,8 +80,8 @@ include 'includes/header.php';
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Editing</h2>
-                <h3 class="section-title text-dark mb-0">Cats. dogs, and babies: it's Tuesday!</h3>
-                <p class="p-big pt-3 m-0">From corrections to grammar and spelling, to improved style, readability and user experience, I specialize in editing, parsing, and revitalizing existing written content. I aim for text that's fast-moving, easy to read, and grammatically correct. I also focus on packaging and preparing copy for online/web presentation.</p>
+                <h3 class="section-title text-dark mb-0">Cats. dogs, and babies: its Tuesday!</h3>
+                <p class="p-big pt-3 m-0">From corrections to grammar and spelling, to improved style, readability, SEO, and user experience, I specialize in editing, parsing, and revitalizing existing written content. I aim for text that's fast-moving, easy to read and grammatically correct. I also focus on packaging and preparing copy for online/web presentation.</p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
