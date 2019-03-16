@@ -77,7 +77,7 @@ include 'includes/header.php';
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Project scope</h2>
                 <h3 class="section-title text-dark mb-0">Schedule, deadline, edits, and scope</h3>
-                <p class="p-big pt-3 m-0">All projects begin with a discovery phase which includes goals, taking stock of design influences, an outline of estimated deadline, and establishing an positive expectation of the end result. Together these create a project's scope, which is managed through consistent communication over the course of completion. Time is budgeted for client reviews and edits as work progresses and before final completion. A detailed outline is presented to each client at the commencement of a project. Please <a href="mailto:andrewmasonmedia@gmail.com"><span class="text-primary">inquire for more details.</span></a></p>
+                <p class="p-big pt-3 m-0">All projects begin with a discovery phase which includes goals, taking stock of design influences, an outline of estimated deadline, and establishing a positive expectation of the end result. Together these create a project's scope, which is managed through consistent communication over the course of completion. Time is budgeted for client reviews and edits as work progresses and before final completion. A detailed outline is presented at the commencement of each project. Please <a href="mailto:andrewmasonmedia@gmail.com"><span class="text-primary">inquire for more details.</span></a></p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
