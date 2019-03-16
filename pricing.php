@@ -57,7 +57,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Writing + graphic design</h2>
                     <h3 class="section-title text-dark mb-0">Logos, copywriting, and image sourcing/creation.</h3>
                     <p class="p-big pt-3 m-0">
-                        Graphic design and copywriting/editing services are available at an hourly rate of 50$ (project-specific estimates available). Get custom logos, favicons, branded imagery, and the perfect images/photos to convey your brand or product's energy. You'll also get SEO prioritized taglines, descriptions, and easy-reading, fast-paced content that's engaging and packed with humour and authenticity. I work with clients to achieve visual and print assets that are unique, bold, and modern. 
+                        Graphic design and copywriting/editing services are available at an hourly rate of 50$ (project-specific estimates available). Get custom logos, favicons, branded imagery, and the perfect images/photos to convey your brand or product's energy. You'll also get SEO prioritized taglines, descriptions, and easy-reading, fast-paced content that's engaging, authentic, and positive. I work with clients to achieve visual and print assets that are unique, bold, and modern. 
                     </p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -77,7 +77,7 @@ include 'includes/header.php';
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Project scope</h2>
                 <h3 class="section-title text-dark mb-0">Schedule, deadline, edits, and scope</h3>
-                <p class="p-big pt-3 m-0">All projects begin with a discovery phase which includes goals, taking stock of design influences, an outline of estimated deadline, and establishing an positive expectation of the end result. Together this creates a project's scope, which is managed through consistent communication over the course of completion. Client reviews and edits are taken into account as work progresses and before final completion. A detailed outline is presented to each client at the commencement of a project. Please <a href="mailto:andrewmasonmedia@gmail.com"><span class="text-primary">inquire for more details.</span></a></p>
+                <p class="p-big pt-3 m-0">All projects begin with a discovery phase which includes goals, taking stock of design influences, an outline of estimated deadline, and establishing an positive expectation of the end result. Together these create a project's scope, which is managed through consistent communication over the course of completion. Time is budgeted for client reviews and edits as work progresses and before final completion. A detailed outline is presented to each client at the commencement of a project. Please <a href="mailto:andrewmasonmedia@gmail.com"><span class="text-primary">inquire for more details.</span></a></p>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
@@ -95,7 +95,7 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">SEO</h2>
-                    <h3 class="section-title text-dark mb-0">Workshops in Wild Places.</h3>
+                    <h3 class="section-title text-dark mb-0">Optimized copy, meta information, and google structured data.</h3>
                     <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -118,8 +118,8 @@ include 'includes/header.php';
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Jen Mason, PhD.</h2>
-                    <h3 class="section-title text-dark mb-0">Flyers + posters + website.</h3>
+                    <h2 class="h4 text-primary">Delivery</h2>
+                    <h3 class="section-title text-dark mb-0">Installation and deployment.</h3>
                     <p class="p-big pt-3 m-0">For <a href="http://jenmason.ca" target="_blank"><span class="text-primary">Jen Mason</span></a> PhD's dissertation research project, she conducted a joint workshop on the role of mindfulness in promoting dialogue among people with diverse and varied perspectives. The goal was to facilitate and foster an improvement in the ability to communicate in multi-stakeholder situations, specifically with regard to topics including sustainability and the environment. Mrs. Mason required a design workup including a website, poster, and (below) a flyer for advertising.</p>
                 </div>
                 <div class="offset-lg-2"></div>
