@@ -321,6 +321,7 @@ p {
      background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
      background: -o-linear-gradient(transparent, transparent);
+     /* background: url(https://media.giphy.com/media/l0HlCBfFfLqwS5AC4/giphy.gif) center; */
     background-size: cover;
      -webkit-background-clip: text;
 }

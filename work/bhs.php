@@ -35,7 +35,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
                     <h2 class="h4 text-primary">A band</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
-                    <p class="p-big pt-3 m-0">A website for Toronto instrumental trio Big Horn Sheep, this project required bold imagery and graphic design, unique typography, the presentation of band audio tracks and images, as well as performance dates and contact information.</p>
+                    <p class="p-big pt-3 m-0">A website for Toronto instrumental trio Big Horn Sheep, this project required bold imagery and graphic design, unique typography, showcasing of band audio tracks and images, as well as performance dates and contact information.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -57,7 +57,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">A sound</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
-                    <p class="p-big pt-3 m-0">The design solution consisted of a Single Page Application (SPA) approach using AngularJS and Bootstrap 4. It features animated page transitions, embedded soundcloud audio tracks, a pinterest-style image lightbox gallery, Bootstrap modals to showcase performance dates and band posters (also of Mason Media design), with unique banner images and branding. The site was also an exercise in Atomic CSS, with an effort to limit styles to native Bootstrap 4 classes.</p>
+                    <p class="p-big pt-3 m-0">The design solution consisted of a Single Page Application (SPA) approach using AngularJS and Bootstrap 4. It features animated page transitions, embedded soundcloud audio tracks, a pinterest-style image lightbox gallery, Bootstrap modals to showcase performance dates and band posters (also Mason Media design), with unique banner images and branding. The site was also an exercise in Atomic CSS, with an effort to limit styles to native Bootstrap 4 classes.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -73,13 +73,23 @@
         
         <!--specs-->
         
-        <div class="row d-flex min-500 text-secondary bg-white">
+        <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">A vision</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 4, and AngularJS. It also required UX/UI design, copywriting, graphic design, color palette development, image/logo creation, and a Facebook band page design.</p>
-                <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">Find out more</a>
+                <!--button container-->
+                <div class="container-fluid pt-3">
+                    <div class="row d-flex justify-content-center align-items-center text-center">
+                        <div class="col-xs-6 pr-3 zoom zoom-slow">
+                            <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">Find out more <i class="fa fa-angle-right fa-btn py-0"></i></a>
+                        </div>
+                        <div class="col-xs-6 zoom zoom-slow">
+                            <a href="/work/djm.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->

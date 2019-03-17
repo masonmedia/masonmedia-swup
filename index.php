@@ -24,7 +24,7 @@ include 'includes/header.php';
             <h1 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
                 <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h1>
             <h2 class="h4 right right-slow">Crafting ideas into reality.</h2>
-            <i href="#sec-1" class="fa fa-angle-down knockout-rainbow p-0 up up-slow"></i>
+            <a href="#sec-1"><i class="fa fa-angle-down knockout-rainbow p-0 up up-slow"></i></a>
         </div>
     </div>
 </div>
@@ -73,7 +73,7 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
-            <h2 class="section-title text-dark">Coding and development that <span class="text-primary" data-aos="fade-up">works.</span></h2>
+            <h2 class="section-title text-dark">Coding and development that <span class="knockout-rainbow" data-aos="fade-up">works.</span></h2>
             <p class="p-big pt-3">I design it. And I build it. I provide a range of options for web needs that are unique, personalized, and functional.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12">
@@ -84,8 +84,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/265631/pexels-photo-265631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral is a critical node in a growing network of companies using decentralized technologies.">
-<!--            <img data-src="/assets/img/decentral-toronto-flatiron.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Decentral is a critical node in a growing network of companies using decentralized technologies.">-->
+            <img data-src="https://images.pexels.com/photos/265631/pexels-photo-265631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="">
         </div>
     </div>
     
@@ -93,7 +92,7 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="section-title text-dark mb-0">Writing that doesn't <span class="text-primary">suck.</span></h2>
+            <h2 class="section-title text-dark mb-0">Writing that doesn't <span class="knockout-rainbow">suck.</span></h2>
             <p class="p-big pt-3 m-0">Disruptive? No thanks. Frictionless? Sorry. Brain dump? Not gonna happen. The web is chock-a-block with regurgitated drivel. While copy needs to be relatable on the modern web, it doesn't need to suck.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
@@ -104,7 +103,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/159825/color-pencil-drawing-coloring-colored-pencils-159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
+            <img data-src="https://images.pexels.com/photos/159825/color-pencil-drawing-coloring-colored-pencils-159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Andrew Mason copywriting services">
         </div>
     </div>
     
@@ -112,7 +111,7 @@ include 'includes/header.php';
     
     <div class="row d-flex p-5 min-500 bg-white">
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
-            <h2 class="section-title text-dark mb-0">You're in <span class="text-primary">good company.</span></h2>
+            <h2 class="section-title text-dark mb-0">You're in <span class="knockout-rainbow">good company.</span></h2>
             <p class="p-big pt-3 m-0">I've made websites and print media for a wide range of businesses, artists, real estate agents, bands, musicians, and more.</p>
         </div>
         <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-secondary o-12 scene_element scene_element--fadeindown">
@@ -123,7 +122,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="See what industry leaders are saying about Decentral and Jaxx Liberty." title="Decentral Team">
+            <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Mason Media clients">
         </div>
     </div>  
     

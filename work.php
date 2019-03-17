@@ -102,9 +102,9 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
-                    <h3 class="section-title text-dark mb-0">Specializing in rehabilitation services for people with an acquired brain injury.</h3>
-                    <p class="p-big pt-3 m-0">This project required a complete overhaul and redesign of the firm's previous site. Requirements included a simple, intuitive user interface, a low amount of scrolling while still presenting a large amount of content, a specific typeface, and the firm's previous logo.</p>
-                    <a href="/at.php"><p class="p-btn mt-3">Read more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
+                    <h3 class="section-title text-dark mb-0">Improving the world through sound.</h3>
+                    <p class="p-big pt-3 m-0">A website for Toronto/Lisbon based DJ Mycorrhiza, this project required an innovative design to match the client's inimitable style and personality. The site included bold graphics, a multi-hue neon color palette, music-themed imagery, a showcase of audio tracks, and artist blog.</p>
+                    <a href="/work/djm.php"><p class="p-btn mt-3">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
