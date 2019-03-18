@@ -294,6 +294,10 @@ p {
 	word-break: break-all;
 }
 
+.break-word {
+    word-wrap: break-word;
+  }
+
 /* fonts + text effects */
 
 .knockout-site-title {
@@ -655,6 +659,9 @@ html.is-animating .transition-wipe {
 }
 /* bg colors ======================*/
 
+.bg-trans {
+    background: transparent !important;
+}
 .bg-orange {
 	background-color: #ff6902 !important;
 }
@@ -794,6 +801,13 @@ img.lazy-loaded {
 .banner-center {
     display: flex;
     flex-flow: column;
+    justify-content: center;
+    align-items: flex-center;
+    text-align: center;
+}
+.banner-center-row {
+    display: flex;
+    flex-flow: row;
     justify-content: center;
     align-items: flex-center;
     text-align: center;
@@ -1615,9 +1629,9 @@ footer li a {
         font-size: 19px;
         font-weight: bold;
     }
-    .banner-center {
+    .banner-center, 
+    .banner-center-row {
         display: flex;
-        flex-flow: column;
         justify-content: center;
         align-items: flex-start;
         text-align: left;

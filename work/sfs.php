@@ -13,7 +13,12 @@
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/sfs-macbook-black-3D-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Surefire Sweat</h1>
-                <h2 class="site-title font-weight-bold knockout-rainbow">Funk, Jazz, Brass Band and Afrobeat.</h2>
+                <h2 class="site-title font-weight-bold knockout-rainbow">
+                    <span class="knockout-rainbow">Funk</span><br> 
+                    <span class="knockout-rainbow">Jazz</span><br>
+                    <span class="knockout-rainbow">Brass Band</span><br>
+                    <span class="knockout-rainbow">and Afrobeat.</span>
+                </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
             <div class="offset-lg-6"></div>
@@ -61,7 +66,7 @@
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg p-0">
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/sfs-3-screens-mockup.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                    <img class="w-100 up up-med lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div><!--end row-->
         </section>
@@ -75,7 +80,7 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site was coded from scratch using HTML5, CSS3, Bootstrap 4, jQuery and Javascript, and included UI/UX design, copy editing, color palette development, a hosting tutorial, and ongoing tech support.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3">
+                <div class="container-fluid pt-3 pl-0">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
@@ -92,7 +97,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                    <img class="img-full absolute z-0 lazy" src="/assets/img/sfs-3-screens-mockup.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div>
         </section>

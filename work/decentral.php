@@ -78,9 +78,9 @@
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Decentral</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">Decentral's multiple web properties are built with a range of languages: decentral.ca and jaxx.io (HTML5, CSS3, PHP, JS, jQuery, GSAP, SWUP/Ajax, Zendesk help plugin, Cookie Consent plugin by Insites), support.decentral.ca (handlebars.js and curlybars.js, HTML5, CSS3, JS), blog.jaxx.io (Wordpress). All sites include custom images created with photoshop, google gtags for analytics, as well as JSON-LD schema/google structured data for improved SEO and rich-media search results.</p>
+                <p class="p-big pt-3 m-0">Decentral's multiple web properties are built with a range of languages: <a class="font-weight-bold text-primary" href="https://decentral.ca" target="_blank">decentral.ca</a> and <a class="font-weight-bold text-primary" href="https://jaxx.io" target="_blank">jaxx.io</a> (HTML5, CSS3, PHP, JS, jQuery, GSAP, SWUP/Ajax, Zendesk help plugin, Cookie Consent plugin by Insites); <a class="font-weight-bold text-primary" href="https://support.decentral.ca" target="_blank">support.decentral.ca</a> (handlebars.js and curlybars.js, HTML5, CSS3, JS), <a class="font-weight-bold text-primary" href="https://blog.jaxx.io" target="_blank">blog.jaxx.io</a> (Wordpress). All sites include custom images created with photoshop, google gtags for analytics, as well as JSON-LD schema/google structured data for improved SEO and rich-media search results.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3">
+                <div class="container-fluid pt-3 pl-0">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
                         <!-- <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>

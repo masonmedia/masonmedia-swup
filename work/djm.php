@@ -14,10 +14,10 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">The Mycorrhiza</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="d-table">DJ.</span>
-                    <span class="d-table">Producer.</span>
-                    <span class="d-table">Composer.</span>
-                    <span class="d-table">The Mycorrhiza.</span>
+                    <span class="knockout-rainbow">DJ.</span><br>
+                    <span class="knockout-rainbow">Producer.</span><br>
+                    <span class="knockout-rainbow">Composer.</span><br>
+                    <span class="knockout-rainbow">The Mycorrhiza.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
@@ -81,7 +81,7 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3">
+                <div class="container-fluid pt-3 pl-0">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
