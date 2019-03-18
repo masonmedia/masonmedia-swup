@@ -67,7 +67,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-green-lights.jpg" alt="Janice Mason Seeves Workshops in Wild Places">
+                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-green-lights.jpg" alt="Big Horn Sheep">
                 </div>
             </div>
         </section>
@@ -90,7 +90,31 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-ss-multi-device.jpg" alt="Toronto jazz-funk trio Big Horn Sheep.">
+                    <img class="img-full absolute z-0 left-0 lazy" src="assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
+                </div>
+            </div>
+        </section>
+
+        <!--n2-->
+       
+        <section>
+            <div class="row d-flex p-5 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">N2 Speech Therapy</h2>
+                    <h3 class="section-title text-dark mb-0">Changing the world through speech & learning.</h3>
+                    <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options ranging from autism spectrum disorders to aphasia and post-stroke and brain injury rehabilitation. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting.
+                    </p>
+                    <a href="/work/n2.php"><p class="p-btn mt-3">Find out more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">                
+                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/djms-ss-iphone.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
         </section>
