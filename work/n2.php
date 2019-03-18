@@ -10,16 +10,18 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 filter-dark up up-med lazy" data-src="/assets/img/n2-banner.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
-            <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center text-light p-5">
+            <img class="img-full absolute z-0 left-0 filter-dark up up-med lazy" data-src="/assets/img/n2-macbook-black.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
+            <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">N2 Speech Therapy</h1>
-                <h2 class="site-title font-weight-bold ds-black">
-                    <span class="d-table">Assessment, therapy, strategies, and consultation.</span>
+                <h2 class="site-title font-weight-bold">
+                    <span class="knockout-rainbow">Assessment,</span><br>
+                    <span class="knockout-rainbow">therapy,</span><br>
+                    <span class="knockout-rainbow">strategies,</span><br>
+                    <span class="knockout-rainbow">and consultation.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down ds-black p-0"></i></a>
             </div>
-            <div class="offset-lg-2"></div>
+            <div class="offset-lg-7"></div>
         </div>
     </div>
     

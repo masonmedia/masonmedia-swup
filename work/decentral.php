@@ -14,10 +14,10 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left p-5">
                 <h1 class="h4 mt-3">Decentral Inc.</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="d-table">Canada's</span>
-                    <span class="d-table">leading</span>
-                    <span class="d-table">blockchain</span>
-                    <span class="d-table">company.</span>
+                    <span class="knockout-rainbow">Canada's</span><br>
+                    <span class="knockout-rainbow">leading</span><br>
+                    <span class="knockout-rainbow">blockchain</span><br>
+                    <span class="knockout-rainbow">company.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
