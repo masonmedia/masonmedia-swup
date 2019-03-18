@@ -96,7 +96,7 @@ include 'includes/header.php';
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Big Horn Sheep</h2>
                     <h3 class="section-title text-dark mb-0">Logo + posters + social media.</h3>
-                    <p class="p-big pt-3 m-0"><a href="http://bighornsheepband.com" target="_blank"><span class="text-primary">Big Horn Sheep</span></a> are a Toronto based instrumental trio with an original repertoire that uniquely blends jazz, funk, EDM, and rock-pop. They play regularly throughout Toronto and required a complete design mockup including logo, website, concert posters, album cover art, and social media content. The resulting design incorporates an atari-influenced, 8-bit video game theme including bold neon colors, a playful take on a sheep's head for the logo, simple yet bold sans-serif fonts, and myriad variations on the theme for social media content.</p>
+                    <p class="p-big pt-3 m-0"><a href="http://bighornsheepband.com" target="_blank"><span class="text-primary">Big Horn Sheep</span></a> are a Toronto based instrumental trio with an original repertoire that uniquely blends jazz, funk, EDM, and rock-pop. They play regularly throughout Toronto and required a complete design mockup including logo, website, concert posters, album cover art, and social media content. The resulting design incorporates an atari-influenced, 8-bit video game theme including bold neon colors, an atari-inspired take on a ram's head for the logo, simple yet bold sans-serif fonts, and myriad variations on the theme for social media content.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->
@@ -150,7 +150,7 @@ include 'includes/header.php';
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Aimee Claxton</h2>
                     <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
-                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
+                    <p class="p-big pt-3 m-0">Toronto vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>

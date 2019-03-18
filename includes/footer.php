@@ -1,52 +1,52 @@
  <!--footer-->
         <footer>
             <div class="container-fluid p-0">
-                <div class="row d-flex d-flex justify-content-center align-items-end text-secondary bg-light text-secondary px-3 pt-5">
+                <div class="row d-flex d-flex justify-content-center align-items-start text-secondary bg-light text-secondary px-3 pt-5">
                    <div class="col-lg-3 col-md-6 px-4 py-3 skew">
                         <ul class="list-unstyled w-100">
                             <li class="h4 font-weight-bold">Company</li>
                             <hr class="hr-big border-0 bg-secondary">
-                            <li><a href="/about.php">About</a></li>
-                            <li><a href="/about.php">Partnerships</a></li>
-                            <li><a href="/community.php">Team</a></li>
-                            <li><a href="/history.php">History</a></li>
+                            <li><a href="/design.php">Design</a></li>
+                            <li><a href="/development.php">Development</a></li>
+                            <li><a href="/writing.php">Writing</a></li>
+                            <li><a href="/work.php">Work</a></li>
                         </ul>
                     </div>
                     
                     <div class="col-lg-3 col-md-6 px-4 py-3 skew">
                         <ul class="list-unstyled w-100">
-                            <li class="h4 font-weight-bold">Jaxx Liberty</li>
+                            <li class="h4 font-weight-bold">Work</li>
                             <hr class="hr-big border-0 bg-secondary">
-                            <li><a href="/features.php">Features</a></li>
-                            <li><a href="/community.php">Community</a></li>
-                            <li><a href="/legal/terms-current.php">Terms of Service</a></li>
-                            <li><a href="https://blog.jaxx.io">Blog</a></li>
+                            <li><a href="/work/at.php">Advance Therapy</a></li>
+                            <li><a href="/work/bhs.php">Big Horn Sheep</a></li>
+                            <li><a href="/work/n2.php">N2 Speech Therapy</a></li>
+                            <li><a href="/work/djm.php">DJ Mycorrhiza</a></li>
                         </ul>
                     </div>
                     
                     <div class="col-lg-3 col-md-6 px-4 py-3 skew">
                         <ul class="list-unstyled w-100">
-                            <li class="h4 font-weight-bold">Download</li>
+                            <li class="h4 font-weight-bold">More</li>
                             <hr class="hr-big border-0 bg-secondary">
-                            <li><a href="https://play.google.com/store/apps/details?id=com.liberty.jaxx">Android</a></li>
-                            <li><a href="https://itunes.apple.com/us/app/jaxx-liberty/id1435383184?ls=1&mt=8">iOS</a></li>
-                            <li><a href="https://chrome.google.com/webstore/detail/jaxx-liberty/cjelfplplebdjjenllpjcblmjkfcffne">Chrome</a></li>
-                            <li><a href="/downloads.php">Desktop</a></li>
+                            <li><a href="https://github.com/masonmedia/" target="_blank">Github</a></li>
+                            <li><a href="https://bitbucket.org/masonmedia/" target="_blank">Bitbucket</a></li>
+                            <li><a href="http://copy.andrewmasonmedia.com" target="_blank">Copywriting</a></li>
+                            <li><a href="/pricing.php">Pricing</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-6 px-4 py-3 skew">
                         <ul class="list-unstyled w-100">
                             <li class="h4 font-weight-bold">Connect</li>
                             <hr class="hr-big border-0 bg-secondary">
-                            <li><a href="https://support.decentral.ca/hc/en-us" target="_blank">Jaxx Support</a></li>
-                            <li><a href="https://www.facebook.com/JaxxWallet" target="_blank">Facebook</a></li>
-                            <li><a href="https://twitter.com/jaxx_io" target="_blank">Twitter</a> / <a href="https://twitter.com/Jaxx_Support" target="_blank">Twitter Support</a></li>
-                            <li><a href="https://www.reddit.com/r/jaxx/" target="_blank">Reddit</a></li>
+                            <li><a href="https://www.facebook.com/andrewmasonmedia/" target="_blank">Facebook</a></li>
+                            <li><a href="https://twitter.com/C_AndrewMason" target="_blank">Twitter</a></li>
+                            <li><a href="https://www.instagram.com/andrewmasonmedia/" target="_blank">Instagram</a></li>
+                            <li><a href="mailto:andrewmasonmedia@gmail.com">Email</a></li>
                         </ul>
                     </div>
                     
                     <div class="col-sm-12 d-flex justify-content-center text-center py-4 navy">
-                        <p class="font-weight-light m-0"><a href="https://decentral.ca/" target="_blank" onclick="googleAnalyticsTrigger('decentral.ca', 'Legal_Footer')">&copy; Decentral Inc.</a> <img class="footer-leaf mx-1" src="/assets/img/jaxx-maple-leaf-navy-2.png" alt="Decentral inc."> Made with love in Canada</p>
+                        <p class="font-weight-light m-0"><a href="/">&copy; Mason Media <?php echo date("Y"); ?></a> | Made in Canada</p>
                     </div>
                 </div><!--end row-->
             </div><!--end container-->

@@ -10,7 +10,7 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/n2-banner.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
+            <img class="img-full absolute z-0 left-0 filter-dark up up-med lazy" data-src="/assets/img/n2-banner.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center text-light p-5">
                 <h1 class="h4 mt-3 ds-black">N2 Speech Therapy</h1>
@@ -31,8 +31,8 @@
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
-                    <h2 class="h4 text-primary">Approach</h2>
-                    <h3 class="section-title text-dark mb-0">Clean, modern, minimal.</h3>
+                    <h2 class="h4 text-primary">N2 Speech Therapy</h2>
+                    <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options ranging from autism spectrum disorders to aphasia and post-stroke and brain injury rehabilitation. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting. Requirements included a bold, professional layout, clean presentation of company information, as well a blog for updatable content and SEO.</p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -53,8 +53,8 @@
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Solution</h2>
-                    <h3 class="section-title text-dark mb-0">Customized wordpress CMS.</h3>
+                    <h2 class="h4 text-primary">N2 Speech Therapy</h2>
+                    <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">With the need to access to the site for blog writing and image updates, the solution consisted of a Wordpress CMS site design. Beginning with a stock template, customizations were added including custom banner images, overall color scheme, icons and bullets, sub-page header and footer images, and the implementation of a custom logo design.</p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -74,8 +74,8 @@
         <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">Tech Specs</h2>
-                <h3 class="section-title text-dark mb-0">Wordpress, HTML5, and CSS3.</h3>
+                <h2 class="h4 text-primary">N2 Speech Therapy</h2>
+                <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3, and features parallaxing background images, smooth pop-up animations, social media icons, and a blog. It also required copywriting, branding and logo design, color palette development, as well as image sourcing and creation.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
