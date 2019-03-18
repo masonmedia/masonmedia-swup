@@ -35,11 +35,36 @@ include 'includes/header.php';
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Mason Media portfolio</h2>
                     <h3 class="section-title text-dark mb-0">Samples of work.</h3>
-                    <p class="p-big pt-3 m-0">I design and code custom sites from scratch, use stock HTML5 templates, design and build Wordpress themes, customize prebuilt themes, redesign and update existing websites, and design for User Experience. I've done work for a range of clients and industries including real estate agents, healthcare services providers, artists, musicians, travel companies, graduate students, and small businesses. Explore the projects for more information.</p>
+                    <p class="p-big pt-3 m-0">I design and code custom sites from scratch, use stock HTML5 templates, design and build Wordpress themes, customize prebuilt themes, redesign and update existing websites, and design for User Experience. I've done work for a range of clients and industries including software companies, real estate agents, healthcare services providers, artists, musicians, travel companies, graduate students, and small businesses. Explore the projects below for more information.</p>
                 </div>
                <div class="offset-lg-2"></div>
             </div><!--end row-->  
         </section>
+
+        <!--decentral inc-->
+
+         <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">                
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-macbook-coffee-notebook.jpg" alt="Blockchain software company Decentral Inc.">
+                </div>
+            </div>
+        </section>
+       
+        <section>
+            <div class="row d-flex p-3 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Decentral Inc.</h2>
+                    <h3 class="section-title text-dark mb-0">Canada's leading blockchain company.</h3>
+                    <p class="p-big pt-3 m-0">I currently work as the lead web designer & developer for Decentral Inc, the maker of Jaxx Liberty, a cryptocurrency finance app. I am responsible for all company web properties including the main company site, product site, blog, and customer support website. I also create image assets for all the above as well as company social media properties.</p>
+                    <a href="/work/decentral.php"><p class="p-btn mt-3">Find out more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+
+        <!-- advance -->
         
         <section>
             <div class="row d-flex bg-light relative">
@@ -48,8 +73,6 @@ include 'includes/header.php';
                 </div>
             </div>
         </section>
-        
-        <!--advance therapy-->
        
         <section>
             <div class="row d-flex p-3 min-500 text-secondary bg-white">

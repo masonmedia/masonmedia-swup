@@ -16,13 +16,13 @@ include 'includes/header.php';
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://media3.giphy.com/media/35AEeub0Guw8w/giphy.gif" alt="Mason Media Website Development">
             
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
-                <h1 class="h4 mt-3 text-primary">Development</h1>
+                <h1 class="h4 mt-3">Development</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
-                    <span class="d-table">Live.</span>
-                    <span class="d-table">By.</span>
-                    <span class="d-table">A code.</span>
+                    <span class="d-table">Live</span>
+                    <span class="d-table">by</span>
+                    <span class="d-table">a code.</span>
                 </h2>
-                <a href="#sec-1"><i class="fa fa-angle-down p-0 text-primary"></i></a>
+                <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
             <div class="offset-lg-3"></div>
         </div>
@@ -37,7 +37,7 @@ include 'includes/header.php';
                 <p class="p-big pt-3 m-0">My coding and design go hand in hand. I love design. I love making things move and seeing a few lines of code turn into magic on the screen. I love modern elegance blended with radical, messy boldness. I code in an effort to execute the designs, functions, and movements I dream.</p>
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
-                <p class="p-big pt-3 m-0">Most of my desiging takes place in the browser. Coding things and seeing them instantly come to life is both functional and immediately rewarding. While a tasty photoshop mockup is impressive, it's worthless if it can't be translated into living, breathing code. Knowing what designs will work, on all devices, screens sizes, and browsers, allows me to maximize efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
+                <p class="p-big pt-3 m-0">Most of my designing takes place in the browser. Coding things and seeing them instantly come to life is both functional and immediately rewarding. While a tasty photoshop mockup is impressive, it's worthless if it can't be translated into living, breathing code. Knowing what designs will work, on all devices, screens sizes, and browsers, allows me to maximize efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
             </div>
         </div><!--end row-->  
         
@@ -53,7 +53,7 @@ include 'includes/header.php';
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Living by code</h2>
                     <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries.</h3>
-                    <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, and <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a> for a combination of timeline and scroll-based animations.</p>
+                    <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a>, and CSS3 keyframe animations for a combination of timeline and scroll-based animations. I also use schema.org and google structured data json-ld formats for improving SEO and rich-media search capability.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -78,7 +78,6 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-<!--                    <img class="img-full lazy" data-src="https://images.pexels.com/photos/1520145/pexels-photo-1520145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Ed Mortenson business card">-->
                     <img class="img-full absolute z-0 lazy" data-src="https://images.unsplash.com/photo-1508854710579-5cecc3a9ff17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Ed Mortenson business card">
                 </div>
             </div>

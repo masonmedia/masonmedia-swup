@@ -261,9 +261,10 @@ p {
     font-size: 11vmin; /*same in vmin*/
     font-weight: 900;
     line-height: 90%;
-    padding: 10px 0;
+    padding: 10px 0 20px;
 /**/
     font-size: 26vmin;
+    font-size: 120px;
     letter-spacing: -13px;
     /* padding: 10px 50px 0; */
     text-transform: lowercase;
@@ -413,6 +414,7 @@ p {
 	-webkit-text-stroke: 0.5px #000;
 	-webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.5);
 }
+/* from https://codepen.io/sethjenks/pen/KpNJZp */
 .stroke-gradient {
     background: -webkit-linear-gradient(-86deg, #FF0080 5%, #FF8C00 53%, #40E0D0 91%);
   -webkit-background-clip: text;
@@ -1704,8 +1706,8 @@ footer li a {
 @media (max-width: 601px) {
 	.site-title-big {
         font-size: 62px;
-        font-size: 100px;
-        letter-spacing: -6px;
+        font-size: 90px;
+        line-height: 65%;
         }
 }
 

@@ -59,7 +59,7 @@ include 'includes/header.php';
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Content</h2>
                     <h3 class="section-title text-dark mb-0">Taglines, blogs, reviews, and bios.</h3>
-                    <p class="p-big pt-3 m-0">I create a range of different content types, from articles, to reviews, blog and social media posts, poster/flyer copy, bios, and album/track descriptions. Most important in all my writing is an effort to be genuine and authentic, be it about a product, service, concert, or app. I try to make reading fluid, fast, and fun, with a constant focus on SEO, grammar, and readability.</p>
+                    <p class="p-big pt-3 m-0">I create a range of different content types, from articles, to reviews, blog and social media posts, poster/flyer copy, bios, and album/track descriptions. Most important in all my writing is an effort to be genuine and authentic, be it about a product, service, concert, or app. I try to make reading fluid, fast, and fun, with a constant focus on SEO, grammar, and relatability.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
