@@ -33,7 +33,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
                     <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
-                    <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options ranging from autism spectrum disorders to aphasia and post-stroke and brain injury rehabilitation. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting. Requirements included a bold, professional layout, clean presentation of company information, as well a blog for updatable content and SEO.</p>
+                    <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting. Requirements included a bold, professional layout, clean presentation of company information, as well a blog for updatable content and SEO.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
-                    <p class="p-big pt-3 m-0">With the need to access to the site for blog writing and image updates, the solution consisted of a Wordpress CMS site design. Beginning with a stock template, customizations were added including custom banner images, overall color scheme, icons and bullets, sub-page header and footer images, and the implementation of a custom logo design.</p>
+                    <p class="p-big pt-3 m-0">With the need to access to the site for blog writing and image updates, the solution consisted of a Wordpress CMS. Beginning with a stock template, customizations were developed including custom banner images, color scheme, icons and bullets, SEO and social media integration, sub-page header and footer images, and a custom logo design.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -76,7 +76,7 @@
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3, and features parallaxing background images, smooth pop-up animations, social media icons, and a blog. It also required copywriting, branding and logo design, color palette development, as well as image sourcing and creation.</p>
+                <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, CSS3, and features parallaxing background images, scroll animations, social media icons, and a blog. It also required copywriting and content creation, branding and logo design, color palette development, as well as image sourcing and creation.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
                     <div class="row d-flex justify-content-center align-items-center text-center">
@@ -84,7 +84,7 @@
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/work/djm.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                            <a href="/work/djm.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>

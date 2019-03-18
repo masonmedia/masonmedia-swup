@@ -83,10 +83,10 @@
                 <div class="container-fluid pt-3">
                     <div class="row d-flex justify-content-center align-items-center text-center">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
-                            <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">Find out more <i class="fa fa-angle-right fa-btn py-0"></i></a>
+                            <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></a>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/work/n2.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                            <a href="/work/n2.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>

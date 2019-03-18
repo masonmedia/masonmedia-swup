@@ -79,15 +79,15 @@
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">A vision</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">The site is built with Woprdpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>
+                <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
-                    <div class="row d-flex justify-content-center align-items-center text-center">
+                    <div class="row d-flex justify-content-center align-items-center text-center mt-3">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
-                        <a class="p-btn text-primary mt-3" href="http://themycorrhiza.tk" target="_blank">Find out more <i class="fa fa-angle-right fa-btn py-0"></i></a>
+                            <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                            <a href="/"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>
@@ -105,6 +105,29 @@
         
     </div>
     <!--end container-->   
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="advanceTherapyModal" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="at-modal">DJ Mycorrhiza</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">X</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img class="img ds mb-5 opacity" src="/assets/img/djm-ss-fullscreen-min.jpg" alt="Dj Mycorrhiza full website">
+                    <a href="http://themycorrhiza.tk" target="_blank">
+                        <h2 class="border-top pt-3 font-weight-bold text-right">themycorrhiza.tk</h2>
+                    </a>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-outline-dark" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+            </div>
+        </div><!--end modal-->
     
 <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
