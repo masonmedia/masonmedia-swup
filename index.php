@@ -20,11 +20,13 @@ include 'includes/header.php';
         Your browser does not support the video tag.
         </video> 
 -->
-        <div class="col-lg-12 d-flex flex-column justify-content-center align-items-center text-center p-5">
-            <h1 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
-                <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span></h1>
+        <div class="col-lg-12 banner-center p-5">
+            <!-- <h1 class="site-title-big knockout-neon knockout-rainbow font-weight-bold">
+                <span class="d-inline-block knockout-rainbow down">mason</span><span class="d-inline-block font-weight-light knockout-rainbow up up-med">media</span>
+            </h1> -->
+            <h1 class="site-title-big stroke-gradient">Mason Media</h1>
             <h2 class="h4 right right-slow">Crafting ideas into reality.</h2>
-            <a href="#sec-1"><i class="fa fa-angle-down knockout-rainbow p-0 up up-slow"></i></a>
+            <a href="#sec-1"><i class="fa fa-angle-down knockout-rainbow px-0 pt-3 up up-slow"></i></a>
         </div>
     </div>
 </div>

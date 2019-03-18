@@ -52,7 +52,7 @@
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Advance Therapy</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a one-page layout with animated dropdown sections that hide and reveal textual content. It features a side-canvas animated menu, smooth-scrolling navigation between sections, a reworked and expanded color palette, updated, modernized branding, and image sourcing based on industry-related themes.</p>
@@ -73,13 +73,13 @@
         
         <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <div class="col-lg-8 banner-center p-5">
                 <h2 class="h4 text-primary">Advance Therapy</h2>
                 <h3 class="section-title text-dark mb-0">Frameworks, libraries, and specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Flexbox, Bootstrap 3, jQuery, and included UI/UX design, copywriting and editing, color palette development, photo sourcing, installation, as well as ongoing maintenance and tech support.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
-                    <div class="row d-flex justify-content-center align-items-center text-center">
+                    <div class="row banner-center">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
