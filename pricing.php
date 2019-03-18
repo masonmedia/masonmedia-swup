@@ -35,7 +35,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
-                        Base rates start at 2000$, with an addional per-page cost of 150$ for a template option, and 300$ for a bespoke design plan*. This includes a mockup of the homepage (which will serve as the design foundation for the rest of the site), responsive design, basic search engine optimization, social media and contact information integration, installation, and a 30-day support and troubleshooting guarantee. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, as well as graphic design and copywriting services (see below for more).</p>
+                        Base rates start at 2000$, with an addional per-page cost of 150$ for a template option, and 300$ for a bespoke design plan*. All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design foundation for the rest of the site), responsive design, basic search engine optimization, social media and contact information integration, installation, and a 30-day support and troubleshooting guarantee. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, as well as photo sourcing, graphic design, and copywriting services (see below for more).</p>
                     <p class="p-big pt-3 m-0">*Inquire for more information.</p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -49,6 +49,75 @@ include 'includes/header.php';
                 </div>
             </div>
         </section>
+
+        <section>
+            <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center">
+                    <h2 class="h4 text-primary">Plug + Play</h2>
+                    <h3 class="section-title text-dark mb-0">Wordpress or HTML5 template</h3>
+                    <p class="p-big pt-3 m-0">
+                        The plug + play plan includes a Wordpress or HTML5 stock template that gets populated with client-sourced content and imagery. Features, colors, and layout are designated by the theme itself. This package is perfect for smaller scale sites, landing pages, or clients who have their content ready or desire to tranfer their existing content to a fresh new layout. Plugins, additional functionality, graphic design or other such elements are available at additional cost. Rate starts at 1000$ plus 300$ per additional page. Please inquire for more information.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/yellow-triangle.jpeg" alt="Mason Media Plug + Play">
+                </div>
+            </div>
+        </section>
+
+        <!-- Custom 1 -->
+
+        <section>
+            <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center">
+                    <h2 class="h4 text-primary">The Fender Strat</h2>
+                    <h3 class="section-title text-dark mb-0">Wordpress or HTML5 theme with customizations.</h3>
+                    <p class="p-big pt-3 m-0">
+                        The first level custom plan includes a Wordpress or HTML5 template that similarly gets populated with client-sourced content and imagery, but which includes more customization. Think of it like an American made Fender Strat with a custom color and higher quality parts. Colors, fonts, layout tweaks, and additional plugins and functionality (carousels, lightbox galleries, etc), are incoporated into the theme. Rate starts at 2500$ plus 300$ per additional page. Please inquire for more information.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/yellow-triangle.jpeg" alt="Mason Media Plug + Play">
+                </div>
+            </div>
+        </section>
+
+        <!-- Custom 2 -->
+
+        <section>
+            <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center">
+                    <h2 class="h4 text-primary">The Coco Chanel</h2>
+                    <h3 class="section-title text-dark mb-0"> Custom Wordpress or HTML5 site.</h3>
+                    <p class="p-big pt-3 m-0">
+                        This simply is a fully custom built website. I prefer to code sites at this level from scratch which allows for maximum flexibilty and originality. I'll work with you to come up with a unique design, plus add functional elements like animation, fast-loading pages, custom colors, fonts, and elements like mailchimp signup forms and more. Rate starts at 3500$ plus 300$ per additional page. Please inquire for more information.</p>
+                </div>
+                <div class="offset-lg-2"></div>
+            </div><!--end row-->  
+        </section>
+        
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/yellow-triangle.jpeg" alt="Mason Media Plug + Play">
+                </div>
+            </div>
+        </section>
+
+        <!-- writing + graphic -->
        
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
