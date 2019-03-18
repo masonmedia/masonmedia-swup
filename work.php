@@ -183,7 +183,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1535219241072-7d3c28a49a5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1648&q=80" alt="">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/copetin-ipad.jpg" alt="Andrew Mason Portfolio: Copetin">
                 </div>
             </div>
         </section>
@@ -194,7 +194,7 @@ include 'includes/header.php';
             <div class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Workshops in Wild Places</h2>
+                    <h2 class="h4 text-primary">Copetin</h2>
                     <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
                     <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
                     <a href="/advancetherapy.php"><p class="p-btn mt-3">Read more &#8594;</p></a>
