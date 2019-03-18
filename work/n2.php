@@ -84,7 +84,7 @@
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/work/djm.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
+                            <a href="/work/bhs.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>

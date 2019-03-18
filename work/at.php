@@ -79,7 +79,7 @@
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Flexbox, Bootstrap 3, jQuery, and included UI/UX design, copywriting and editing, color palette development, photo sourcing, installation, as well as ongoing maintenance and tech support.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
-                    <div class="row banner-center">
+                    <div class="row d-flex justify-content-center align-items-center text-center">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>

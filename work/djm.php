@@ -55,7 +55,7 @@
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Improving the world through sound</h2>
+                    <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a Wordpress theme customized for an original look and feel. It features a fullscreen video banner, bold, oversized typography, tracks embedded using HTML5 audio, a blog, as well as unique imagery and branding. The project also required a Facebook page design.</p>
                 </div>
@@ -67,17 +67,17 @@
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg p-0">
                     <!-- <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/djm-turntable-banner-static.jpg" alt="Andrew Mason Portfolio: DJ Mycorrhiza"> -->
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/djm-music-homepage-ss.png" alt="Andrew Mason Portfolio: DJ Mycorrhiza">
+                    <img class="w-100 up up-med lazy" data-src="/assets/img/djm-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: DJ Mycorrhiza">
                 </div>
             </div><!--end row-->
         </section>
         
         <!--specs-->
         
-        <div class="row d-flex min-500 text-secondary bg-white">
+        <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">A vision</h2>
+                <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>
                 <!--button container-->
@@ -87,7 +87,7 @@
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
+                            <a href="/work/sfs.php"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>

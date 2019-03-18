@@ -86,7 +86,7 @@
                             <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></a>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/work/n2.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
+                            <a href="/work/djm.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,5 @@
 <?php 
-    $title = "Mason Media | Decentral Inc.";
+    $title = "Mason Media | Surefire Sweat";
     $metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
     $path = $_SERVER['DOCUMENT_ROOT'];
     $path .= "/includes/header.php";
@@ -10,18 +10,13 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/jaxx-iphone-X-4-gallery-mobile.jpg" alt="Andrew Mason Portfolio: Decentral inc.">
-            <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left p-5">
-                <h1 class="h4 mt-3">Decentral Inc.</h1>
-                <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="d-table">Canada's</span>
-                    <span class="d-table">leading</span>
-                    <span class="d-table">blockchain</span>
-                    <span class="d-table">company.</span>
-                </h2>
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/sfs-macbook-black-3D-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
+                <h1 class="h4 mt-3 ds-black">Surefire Sweat</h1>
+                <h2 class="site-title font-weight-bold knockout-rainbow">Funk, Jazz, Brass Band and Afrobeat.</h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
-            <div class="offset-lg-7"></div>
+            <div class="offset-lg-6"></div>
         </div>
     </div>
     
@@ -33,9 +28,9 @@
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
-                    <h2 class="h4 text-primary">Decentral</h2>
+                    <h2 class="h4 text-primary">Surefire Sweat</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
-                    <p class="p-big pt-3 m-0">Decentral was founded in 2014 by blockchain and crypto pioneer Anthony Di Iorio. One of Toronto's earliest blockchain startups, Decentral is the maker of two industry-leading digital wallet apps that are changing the way people think about blockchain and cryptocurrency. In my role as Decentral's lead web designer and developer, I was tasked to redesign, maintain, and manage all the company's web properties, in addition to creating visual assets for these sites, as well as the company social media properties. In this process I have revitalized Decentral's branding and web presence over multiple languages and platforms.</p>
+                    <p class="p-big pt-3 m-0">Toronto funk-dance band Surefire Sweat required a complete website workup to represent the band's face for booking, fans, promotion, and marketing. Requirements included the incorporation of a previous logo and existing photography, color palette development, typography, and the inclusion of band media including audio, video, photos, press kit, as well as contact and social media information.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -44,7 +39,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-iphone-here-look.jpg" alt="DJ Mycorrhiza">
+                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/sfs-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div>
         </section>
@@ -55,9 +50,9 @@
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Decentral</h2>
-                    <h3 class="section-title text-dark mb-0">Design solutions.</h3>
-                    <p class="p-big pt-3 m-0">In redesigning the company's previous static HTML, Wordpress, and front-end JS framework websites, I had to bring together numerous elements from multiple stakeholders including: design aesthetic(s), branding, UX, copywriting & message, typography, custom images and photography. I coded the main company and product sites from scratch using PHP to create reusable templates/modules, HTML5, CSS3, a jQuery/AJAX plugin called SWUP to create SPA-style, animated page transitions that do not require reload, and the GSAP animation library.</p>
+                    <h2 class="h4 text-primary">Surefire Sweat</h2>
+                    <h3 class="section-title text-dark mb-0">Design solution.</h3>
+                    <p class="p-big pt-3 m-0">The design solution consisted of a one-page magazine style layout with bold imagery accompanying descriptive text. It features animated dropdown sections that reveal band audio tracks, video (with lazy load, onclick functionality to improve page load time), downloadable images, and press kit. Other features include a calendar plugin by Timely allowing the client to add and edit show dates, a smooth anchor scroll menu, and bold social media integration.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -66,7 +61,7 @@
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg p-0">
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/jaxx-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
+                    <img class="w-100 up up-med lazy" data-src="/assets/img/sfs-3-screens-mockup.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div><!--end row-->
         </section>
@@ -76,17 +71,17 @@
         <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">Decentral</h2>
+                <h2 class="h4 text-primary">Surefire Sweat</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">Decentral's multiple web properties are built with a range of languages: decentral.ca and jaxx.io (HTML5, CSS3, PHP, JS, jQuery, GSAP, SWUP/Ajax, Zendesk help plugin, Cookie Consent plugin by Insites), support.decentral.ca (handlebars.js and curlybars.js, HTML5, CSS3, JS), blog.jaxx.io (Wordpress). All sites include custom images created with photoshop, google gtags for analytics, as well as JSON-LD schema/google structured data for improved SEO and rich-media search results.</p>
+                <p class="p-big pt-3 m-0">The site was coded from scratch using HTML5, CSS3, Bootstrap 4, jQuery and Javascript, and included UI/UX design, copy editing, color palette development, a hosting tutorial, and ongoing tech support.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
-                        <!-- <div class="col-xs-6 pr-3 zoom zoom-slow">
+                        <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
-                        </div> -->
-                        <div class="col-xs-12 zoom zoom-slow">
-                            <a href="/work/n2.php"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
+                        </div>
+                        <div class="col-xs-6 zoom zoom-slow">
+                            <a href="/work/sfs.php"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>
@@ -97,7 +92,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/jaxx-iphone-flying-2-screens.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
+                    <img class="img-full absolute z-0 lazy" src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div>
         </section>
@@ -110,15 +105,15 @@
             <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="at-modal">Decentral Inc.</h5>
+                    <h5 class="modal-title" id="at-modal">Surefire Sweat</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">X</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <img class="img ds mb-5 opacity" src="/assets/img/djm-ss-fullscreen-min.jpg" alt="Dj Mycorrhiza full website">
-                    <a href="http:s//decentral.inc" target="_blank">
-                        <h2 class="border-top pt-3 font-weight-bold text-right">decentral.ca</h2>
+                    <img class="img ds mb-5 opacity" src="/assets/img/sfs-ss-fullscreen-2-min.jpg" alt="Surefire Sweat full website">
+                    <a href="http://surefiresweat.com" target="_blank">
+                        <h2 class="border-top pt-3 font-weight-bold text-right">surefiresweat.com/</h2>
                     </a>
                 </div>
                 <div class="modal-footer">

@@ -17,9 +17,9 @@
                         <ul class="list-unstyled w-100">
                             <li class="h4 font-weight-bold">Work</li>
                             <hr class="hr-big border-0 bg-secondary">
-                            <li><a href="/work/at.php">Advance Therapy</a></li>
-                            <li><a href="/work/bhs.php">Big Horn Sheep</a></li>
+                            <li><a href="/work/decentral.php">Decentral Inc.</a></li>
                             <li><a href="/work/n2.php">N2 Speech Therapy</a></li>
+                            <li><a href="/work/bhs.php">Big Horn Sheep</a></li>
                             <li><a href="/work/djm.php">DJ Mycorrhiza</a></li>
                         </ul>
                     </div>
