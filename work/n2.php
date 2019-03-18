@@ -32,7 +32,7 @@
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
                     <h2 class="h4 text-primary">Approach</h2>
-                    <h3 class="section-title text-dark mb-0">Assessment, therapy, consultation.</h3>
+                    <h3 class="section-title text-dark mb-0">Clean, modern, minimal.</h3>
                     <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options ranging from autism spectrum disorders to aphasia and post-stroke and brain injury rehabilitation. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting. Requirements included a bold, professional layout, clean presentation of company information, as well a blog for updatable content and SEO.</p>
                 </div>
                 <div class="offset-lg-2"></div>
@@ -74,9 +74,9 @@
         <div class="row d-flex min-500 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                <h2 class="h4 text-primary">A vision</h2>
-                <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required copywriting, branding and logo design, color palette development, as well as image sourcing and creation.</p>
+                <h2 class="h4 text-primary">Tech Specs</h2>
+                <h3 class="section-title text-dark mb-0">Wordpress, HTML5, and CSS3.</h3>
+                <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3, and features parallaxing background images, smooth pop-up animations, social media icons, and a blog. It also required copywriting, branding and logo design, color palette development, as well as image sourcing and creation.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3">
                     <div class="row d-flex justify-content-center align-items-center text-center">
