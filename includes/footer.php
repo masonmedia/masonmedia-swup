@@ -65,7 +65,8 @@
     <script src="/assets/js/aos.js"></script>
     <script type="text/javascript" src="/assets/js/TweenMax.min.js"></script>
     <script type="text/javascript" src="/assets/js/TimelineMax.min.js"></script>
-
+    <!-- smooth scroll -->
+    <script src="/assets/js/jquery.malihu.PageScroll2id.min.js"></script>
     <!-- recliner lazy load js-->
     <script src="/assets/js/recliner.js"></script>
     <!--js tilt 404-->

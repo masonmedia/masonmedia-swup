@@ -45,13 +45,14 @@ $(document).ready(function() {
 
 //smooth scroll https://www.taniarascia.com/smooth-scroll-to-id-with-jquery/
 
-    $('a[href*="#"]').on('click', function (e) {
-	   e.preventDefault();
-
-	   $('html, body').animate({
-		  scrollTop: $($(this).attr('href')).offset().top
-	   }, 500, 'linear');
-    });
+    //smooth scroll
+        $('a').click(function(){
+            var top = $('body').find($(this).attr('href')).offset().top;
+            $('html, body').animate({
+                scrollTop: top
+            }, 1200, 'easeInOutExpo');
+            return false;
+        });
 
 //lazy load
 
@@ -175,8 +176,17 @@ document.addEventListener('swup:contentReplaced', function () {
 
 	   $('html, body').animate({
 		  scrollTop: $($(this).attr('href')).offset().top
-	   }, 500, 'linear');
+	   }, 1200, 'easeInOutExpo');
     });
+
+    //smooth scroll
+    // $('a').click(function(){
+    //     var top = $('body').find($(this).attr('href')).offset().top;
+    //     $('html, body').animate({
+    //         scrollTop: top
+    //     }, 1200, 'easeInOutExpo');
+    //     return false;
+    // });
 
 //lazy load
     $(".lazy").recliner({
