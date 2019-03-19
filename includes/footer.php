@@ -54,10 +54,7 @@
         </div><!--end main page-->
 
     <!-- Scripts -->
-    <!--seems to only work with either older jquery or non-slim build-->
-    <!--<script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>-->
-    <!--<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>-->
-    <script src="/assets/js/jquery.js"></script>
+    <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/swup.min.js"></script>
     <script src="/assets/js/popper.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
