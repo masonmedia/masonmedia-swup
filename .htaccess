@@ -27,10 +27,10 @@ ExpiresDefault "access 1 month"
 </IfModule>
 ## EXPIRES CACHING ##
 
-# Redirects contact to my email
-RewriteRule ^contact.php$ andrewmasonmedia@gmail.com [R,L]
+# Redirects contact to my email --> caused 500 error live server
+RewriteRule ^contact.php$ http://andrewmasonmedia.com [R,L]
 # 301 redirect
-Redirect 301 /contact andrewmasonmedia@gmail.com
+Redirect 301 /contact http://andrewmasonmedia.com
 
 # Set custom 404 error page
 ErrorDocument 404 /404.html
