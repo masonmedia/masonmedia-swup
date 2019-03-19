@@ -12,7 +12,6 @@
            echo "Default title tag"; 
         } ?></title>
         <!--core meta data-->
-<!--        <meta name="description" content="Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.">-->
         <meta name="description" content="<?php
 
         if(isset($metaD) && !empty($metaD)) { 
