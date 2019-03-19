@@ -30,7 +30,7 @@ include 'includes/header.php';
     <div class="container-fluid p-0 relative">
 
         <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
-            <div class="col-lg-6 banner-center">
+            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
                 <h2 class="h4 text-primary">Mason Media</h2>
                 <h3 class="section-title text-dark mb-0">Code + design = harmony.</h3>
                 <p class="p-big pt-3 m-0">My coding and design go hand in hand. I love design. I love making things move and seeing a few lines of code turn into magic on the screen. I love modern elegance blended with radical, messy boldness. I code in an effort to execute the designs, functions, and movements I dream.</p>

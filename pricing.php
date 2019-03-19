@@ -12,7 +12,7 @@ include 'includes/header.php';
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" src="/assets/img/jaxx-bike-3.jpeg" alt="Andrew Mason Copywriting">
+            <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" src="https://images.pexels.com/photos/1037999/pexels-photo-1037999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Andrew Mason Copywriting">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
                 <h1 class="h4 mt-3">Pricing</h1>
                 <h2 class="site-title font-weight-bold">
@@ -35,7 +35,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
-                        I have three basic plans that can be tweaked for specific needs. The silver plan is a plug and play website build using a stock wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per-page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
+                        I have three basic plans that can be tweaked for specific needs. The silver plan is a plug and play website build using a stock wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
                         <a href="#sec-2"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
@@ -138,7 +138,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light bg-light p-0">
                 <div class="col-lg-12 d-flex flex-column justify-content-center align-items-start text-left min-700-lg p-0 o-12">
-                    <img class="img-full absolute z-0 up up-med lazy" data-src="/assets/img/mm-bg-design.jpeg" alt="Mason Media website installation and deployment.">
+                    <img class="img-full absolute z-0 up up-med lazy" data-src="https://images.pexels.com/photos/784935/pexels-photo-784935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Mason Media website installation and deployment.">
                 </div>
             </div>
         </section>
