@@ -15,14 +15,14 @@ include 'includes/header.php';
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1541616461010-03ec2728e6a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" alt="Andrew Mason Portfolio">
             <div class="offset-lg-8"></div>
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
-                <h1 class="h4 mt-3">Portfolio</h1>
-                <h2 class="site-title font-weight-bold">
+                <h1 class="h4 mt-3 ds-black">Portfolio</h1>
+                <h2 class="site-title font-weight-bold ds-black">
                     <span class="d-table">Some</span>
                     <span class="d-table">of</span>
                     <span class="d-table">my</span>
                     <span class="d-table">work.</span>
                 </h2>
-                <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
+                <a href="#sec-1"><i class="fa fa-angle-down p-0 ds-black"></i></a>
             </div>
         </div>
     </div>

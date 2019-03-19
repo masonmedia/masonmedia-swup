@@ -11,7 +11,7 @@
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/copetin-macbook-black.jpg" alt="Andrew Mason Portfolio: Copetin">
-            <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left p-5">
+            <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Copetín</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
                     <span class="knockout-rainbow">Inventive,</span><br>
@@ -52,9 +52,9 @@
         <!--solution-->
         
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center p-5">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">Copetín</h2>
                     <h3 class="section-title text-dark mb-0">Design solutions.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a one-page layout with image carousel, full screen background images, complete menu presentation (without having to load secondary pages), Open Table reservation button, social media integration, hours, and contact information. Branding and colour themes were used creatively and extended throughout the site.</p>
@@ -78,15 +78,12 @@
             <div class="col-lg-8 banner-center">
                 <h2 class="h4 text-primary">Decentral</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 3, Flexbox, and Javascript for smooth menu scrolling. It required photo sourcing, graphic design, custom typography, and extended existing color and branding themes. While the project didn't move forward, it was a huge improvement on their existing site, and instructive in designing for the restaurant industry.</p>
+                <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 3, Flexbox, and Javascript for smooth anchor scrolling. It included the Open Table reservation API and a button for guest booking, and required photo sourcing, graphic design, custom typography, and extended the restaurant's existing color and branding themes. While the project didn't move forward, it was a huge improvement on their existing site, and instructive in designing for the restaurant industry.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3 pl-0">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
-                        <div class="col-xs-6 pr-3 zoom zoom-slow">
+                        <div class="col-xs-12 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
-                        </div>
-                        <div class="col-xs-12 zoom zoom-slow">
-                            <a href="/work/n2.php"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>
@@ -110,7 +107,7 @@
             <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="at-modal">Copetin</h5>
+                    <h5 class="modal-title" id="at-modal">Copetín</h5>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">X</span>
                     </button>

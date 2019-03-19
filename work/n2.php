@@ -10,7 +10,7 @@
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 filter-dark up up-med lazy" data-src="/assets/img/n2-macbook-black.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/n2-macbook-black.jpg" alt="Andrew Mason Portfolio: N2 Speech Therapy">
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">N2 Speech Therapy</h1>
                 <h2 class="site-title font-weight-bold">
