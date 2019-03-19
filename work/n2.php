@@ -118,7 +118,7 @@
                 <div class="modal-body">
                     <img class="img ds mb-5 opacity" src="/assets/img/N2-ss-fullscreen.jpg" alt="N2 Speech Therapy full website">
                     <a href="http://www.n2speechtherapy.com" target="_blank">
-                        <h2 class="border-top pt-3 font-weight-bold text-right">n2speechtherapy.ca</h2>
+                        <h5 class="border-top pt-3 font-weight-bold text-right">n2speechtherapy.ca</h5>
                     </a>
                 </div>
                 <div class="modal-footer">

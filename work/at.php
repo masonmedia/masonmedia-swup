@@ -115,7 +115,7 @@
                 <div class="modal-body">
                     <img class="img ds mb-5 opacity" src="/assets/img/atherapy-ss-4.jpg" alt="Advance Therapy full website">
                     <a href="http://www.atherapy.ca" target="_blank">
-                        <h2 class="border-top pt-3 font-weight-bold text-right">atherapy.ca</h2>
+                        <h5 class="border-top pt-3 font-weight-bold text-right">atherapy.ca</h5>
                     </a>
                 </div>
                 <div class="modal-footer">

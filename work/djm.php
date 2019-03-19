@@ -119,7 +119,7 @@
                 <div class="modal-body">
                     <img class="img ds mb-5 opacity" src="/assets/img/djm-ss-fullscreen-min.jpg" alt="Dj Mycorrhiza full website">
                     <a href="http://themycorrhiza.tk" target="_blank">
-                        <h2 class="border-top pt-3 font-weight-bold text-right">themycorrhiza.tk</h2>
+                        <h5 class="border-top pt-3 font-weight-bold text-right">themycorrhiza.tk</h5>
                     </a>
                 </div>
                 <div class="modal-footer">
