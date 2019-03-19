@@ -35,8 +35,8 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
-                        My base rate starts at 2000$ plus 150$ per-page for a template option, and 3000$ plus 300$ per page for a bespoke design plan*. Prices vary depending on functionality needs, customization, and deadline. All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design foundation for the rest of the site), responsive design, basic search engine optimization, social media and contact information integration, installation, and a 30-day support and troubleshooting guarantee. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, as well as photo sourcing, graphic design, and copywriting services (see below for more).</p>
-                    <p class="p-big pt-3 m-0">*Inquire for more information.</p>
+                        I have three basic plans that can be tweaked for specific needs. The silver plan is a plug and play website build using a stock wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per-page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
+                        <a href="#sec-2"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
@@ -50,17 +50,43 @@ include 'includes/header.php';
             </div>
         </section>
 
+       <!-- options and includes -->
+
+        <section>
+            <div id="sec-2" class="row d-flex min-500 text-secondary bg-white">
+                <div class="offset-lg-2"></div>
+                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                    <h2 class="h4 text-primary">Options</h2>
+                    <h3 class="section-title text-dark mb-0">Package includes and extensibility.</h3>
+                    <p class="p-big pt-3 m-0">
+                        All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design base for the rest of the site), mobile responsive design, basic SEO, social media and contact information integration, installation, and a 30-day worksmanship & support guarantee*. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, photo sourcing, graphic design, and copywriting services.
+                    </p>
+                    <a href="#sec-3"><p class="p-btn mt-3 border-0 p-0">Design + copywriting <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                </div>
+                <div class="offset-lg-2"></div>
+            </div>
+        </section>
+
+        <section>
+            <div class="row d-flex bg-light relative">
+                <div class="col-lg-12 min-700-lg">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/mason-media-pricing.jpeg" alt="Mason Media graphic design and copywriting services.">
+                </div>
+            </div>
+        </section>
+
         <!-- writing + graphic -->
        
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div id="sec-3" class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
-                    <h2 class="h4 text-primary">Writing + graphic design</h2>
+                    <h2 class="h4 text-primary">Graphic design + copywriting</h2>
                     <h3 class="section-title text-dark mb-0">Logos, copywriting, and image sourcing/creation.</h3>
                     <p class="p-big pt-3 m-0">
                         Graphic design and copywriting/editing services are available at an hourly rate of 50$ (project-specific estimates available). Get custom logos, favicons, branded imagery, and the perfect images/photos to convey your brand or product's energy. You'll also get SEO prioritized taglines, descriptions, and easy-reading, fast-paced content that's engaging, authentic, and positive. I work with clients to achieve visual and print assets that are unique, bold, and modern. 
                     </p>
+                    <a href="#sec-4"><p class="p-btn mt-3 border-0 p-0">Scope + deadlines <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -69,17 +95,18 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" data-src="https://images.unsplash.com/photo-1519299445535-de14a55f3496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80" alt="Ed Mortenson business card">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/mm-bg-work.jpeg" alt="Mason Media website build schedules and deadlines.">
                 </div>
             </div>
         </section>
         
-        <div class="row d-flex min-500 text-secondary bg-white">
+        <div id="sec-4" class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Project scope</h2>
                 <h3 class="section-title text-dark mb-0">Schedule, deadline, edits, and scope</h3>
                 <p class="p-big pt-3 m-0">All projects begin with a discovery phase which includes goals, taking stock of design influences, an outline of estimated deadline, and establishing a positive expectation of the end result. Together these create a project's scope, which is managed through consistent communication over the course of completion. Time is budgeted for client reviews and edits as work progresses and before final completion. A detailed outline is presented at the commencement of each project. Please <a href="mailto:andrewmasonmedia@gmail.com"><span class="text-primary">inquire for more details.</span></a></p>
+                <a href="#sec-5"><p class="p-btn mt-3 border-0 p-0">Delivery <i class="fa fa-angle-right fa-btn"></i></p></a> 
             </div>
             <div class="offset-lg-2"></div>
         </div><!--end row-->
@@ -87,7 +114,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/EM-businesscard.jpg" alt="Ed Mortenson business card">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/mason-media-oranges.jpg" alt="Mason Media website build schedule, deadline, edits, and scope.">
                 </div>
             </div>
         </section>
@@ -95,26 +122,23 @@ include 'includes/header.php';
         <!--delivery + installation-->
         
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div id="sec-5" class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Delivery</h2>
                     <h3 class="section-title text-dark mb-0">Installation and deployment.</h3>
-                    <p class="p-big pt-3 m-0">For <a href="http://jenmason.ca" target="_blank"><span class="text-primary">Jen Mason</span></a> PhD's dissertation research project, she conducted a joint workshop on the role of mindfulness in promoting dialogue among people with diverse and varied perspectives. The goal was to facilitate and foster an improvement in the ability to communicate in multi-stakeholder situations, specifically with regard to topics including sustainability and the environment. Mrs. Mason required a design workup including a website, poster, and (below) a flyer for advertising.</p>
+                    <p class="p-big pt-3 m-0">
+                        Once your site is complete, I install it on your hosting (support and suggestions for hosting is available), and include a short tutorial on basic access, security, and if a Wordpress CMS, logging in and use.
+                    </p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->
         </section>
-        
-        <!-- jen mason images-->
 
         <section>
             <div class="row d-flex bg-light bg-light p-0">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Big Horn Sheep poster design">
-                </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Big Horn Sheep poster design">
+                <div class="col-lg-12 d-flex flex-column justify-content-center align-items-start text-left min-700-lg p-0 o-12">
+                    <img class="img-full absolute z-0 up up-med lazy" data-src="/assets/img/mm-bg-design.jpeg" alt="Mason Media website installation and deployment.">
                 </div>
             </div>
         </section>

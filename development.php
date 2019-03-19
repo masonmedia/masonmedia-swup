@@ -14,7 +14,6 @@ include 'includes/header.php';
         <div class="row d-flex min-700-lg relative py-5">
             <!-- <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.pexels.com/photos/1925099/pexels-photo-1925099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Mason Media Website Development"> -->
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://media3.giphy.com/media/35AEeub0Guw8w/giphy.gif" alt="Mason Media Website Development">
-            
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Development</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
@@ -31,7 +30,7 @@ include 'includes/header.php';
     <div class="container-fluid p-0 relative">
 
         <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
-            <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left">
+            <div class="col-lg-6 banner-center">
                 <h2 class="h4 text-primary">Mason Media</h2>
                 <h3 class="section-title text-dark mb-0">Code + design = harmony.</h3>
                 <p class="p-big pt-3 m-0">My coding and design go hand in hand. I love design. I love making things move and seeing a few lines of code turn into magic on the screen. I love modern elegance blended with radical, messy boldness. I code in an effort to execute the designs, functions, and movements I dream.</p>
@@ -48,9 +47,9 @@ include 'includes/header.php';
         </div>
        
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">Living by code</h2>
                     <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries.</h3>
                     <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a>, and CSS3 keyframe animations for a combination of timeline and scroll-based animations. I also use schema.org and google structured data json-ld formats for improving SEO and rich-media search capability.</p>
@@ -65,9 +64,9 @@ include 'includes/header.php';
             </div>
         </div><!--end row-->
         
-        <div class="row d-flex min-500 text-secondary bg-white">
+        <div class="row d-flex min-500 p-5 text-secondary bg-white">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <div class="col-lg-8 banner-center">
                 <h2 class="h4 text-primary">Approach</h2>
                 <h3 class="section-title text-dark mb-0">Coding style and approach.</h3>
                 <p class="p-big pt-3 m-0">I use <a href="https://getbootstrap.com/" target="_blank"><span class="text-primary">Bootstrap 4</span></a>, one of the most widely used systems for web development, to quickly scaffold and mockup modular designs that can be easily scaled. While I create wireframes and photoshop/canva mockups, my favourite coding approach is to get my hands dirty designing, experimenting, and playing with animation libraries live in the browser.  I spend a lot of time in the inspector checking out others' code and debugging, and am always researching trends, methods, and best practices in coding and design. I am also currently exploring Angular 7 and Vue.js front-end frameworks for creating websites and PWAs. Please check out my <a href="https://github.com/masonmedia" target="_blank"><span class="text-primary">Github</span></a> for code samples.</p>

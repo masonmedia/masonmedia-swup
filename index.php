@@ -21,10 +21,6 @@ include 'includes/header.php';
         </video> 
 -->
         <div class="col-lg-12 banner-center p-5">
-            <!-- <h3 class="h4 pb-0 mb-0">Design. Develop. Create.</h3>
-            <h1 class="site-title-big stroke-gradient">Mason Media</h1>
-            <h2 class="h4 right right-slow">Crafting ideas into reality.</h2> -->
-
             <h3 class="h4 pb-0 mb-0">Mason Media</h3>
             <h1 class="site-title-big stroke-gradient right right-slow">Design. Develop. Create.</h1>
             <h2 class="h4 right right-med">Crafting ideas into reality.</h2>
@@ -133,40 +129,39 @@ include 'includes/header.php';
    <!--quote-->
     
     <div class="row d-flex p-5 min-500 bg-white">
-        <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left scene_element scene_element--fadeindown">
+        <div class="offset-lg-2"></div>
+        <div class="col-lg-8 banner-center">
             <h2 class="section-title">Get a quote.</h2>
-            <p class="p-big pt-3 m-0">Explore my range of pricing options or get in touch to discuss your project specifics in person.</p>
-            <a href="/contact.php"><p class="p-btn mt-3">Find out more &#8594;</p></a>
-        </div>
-        <div class="col-lg-6 d-flex justify-content-start align-items-center o-12">
-           <div class="container-fluid">
+            <p class="p-big pt-3 m-0">Explore my range of pricing and service options, or drop me a line to discuss your project specifics in person.</p>
+            <a href="/contact.php"><p class="p-btn mt-3 border-0 p-0">Find out more <i class="fa fa-angle-right fa-btn"></i></p></a> 
+           <div class="container-fluid pl-0 pt-0">
                <div class="row">
-                   <div class="col-lg-12 d-flex justify-content-start align-items-start py-2 px-0">
-                       <div class="col-xs-3">
+                   <div class="col-lg-12 py-2 px-0">
+                       <div class="col-xs-3 d-inline-block">
                             <a href="https://www.facebook.com/andrewmasonmedia/" target="_blank">
                             <i class="fa fa-facebook text-primary"></i>
                             </a>
                         </div>
-                        <div class="col-xs-3">
+                        <div class="col-xs-3 d-inline-block">
                             <a href="https://twitter.com/C_AndrewMason" target="_blank">
                             <i class="fa fa-twitter text-primary"></i>
                             </a>
                         </div>
-                        <div class="col-xs-3">
+                        <div class="col-xs-3 d-inline-block">
                             <a href="https://www.instagram.com/jaxx_io/" target="_blank" onclick="googleAnalyticsTrigger('Instagram', 'Community_Page')">
                             <i class="fa fa-instagram text-primary"></i>
                             </a>
                         </div>
-                        <div class="col-xs-3">
+                        <div class="col-xs-3 d-inline-block">
                             <a href="mailto:andrewmasonmedia.com">
                             <i class="fa fa-envelope-o text-primary"></i>
                             </a>
                         </div>
                    </div>
                </div>
-           </div>        
-            
+           </div>  <!--end social buttons-->      
         </div>
+        <div class="offset-lg-2"></div>
     </div><!--end row-->
 
      <div class="row d-flex bg-light">
