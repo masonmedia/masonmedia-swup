@@ -21,9 +21,9 @@ include 'includes/header.php';
         </video> 
 -->
         <div class="col-lg-12 banner-center p-5">
-            <h3 class="h4 pb-0 mb-0">Mason Media</h3>
-            <h1 class="site-title-big stroke-gradient right right-slow">Design. Develop. Create.</h1>
-            <h2 class="h4 right right-med">Crafting ideas into reality.</h2>
+            <h1 class="h4 pb-0 mb-0 up up-med">Mason Media</h1>
+            <h2 class="site-title-big stroke-gradient right right-slow">Design. Develop. Create.</h2>
+            <h3 class="h4 right right-med">Crafting ideas into reality.</h3>
             <a href="#sec-1"><i class="fa fa-angle-down knockout-rainbow px-0 pt-2 up up-slow"></i></a>
         </div>
     </div>
