@@ -35,7 +35,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
-                        I have three basic plans that can be tweaked for specific needs. The silver plan is a plug and play website build using a stock wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
+                        I have three basic packages that can be tweaked for specific needs. Silver is a plug and play website build using a stock wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
                         <a href="#sec-2"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
@@ -128,8 +128,9 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Delivery</h2>
                     <h3 class="section-title text-dark mb-0">Installation and deployment.</h3>
                     <p class="p-big pt-3 m-0">
-                        Once your site is complete, I install it on your hosting (support and suggestions for hosting is available), and include a short tutorial on basic access, security, and if a Wordpress CMS, logging in and use.
+                        Once your site is complete, I install it on your hosting (support and suggestions for hosting providers is available), and include a short tutorial on basic access, security, and if a Wordpress CMS, logging in and use. After the site is deployed, a 30 day guarantee on workmanship provides tech support and troubleshooting (does not include edits, changes, or content additions, and issues such as performance on older devices, browser versions, and slow internet connections are not included). Sites are supported on modern browsers and are tested for backward compatibility, however I do not guarantee that sites will function the same on all browsers, browser versions, operating systems, or devices. Please inquire for more details.
                     </p>
+                    <a href="mailto:andrewmasonmedia@gmail.com"><p class="p-btn mt-3 border-0 p-0">Get in touch <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->

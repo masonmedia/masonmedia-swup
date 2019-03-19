@@ -37,6 +37,7 @@ include 'includes/header.php';
             </div>
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left o-12">
                 <p class="p-big pt-3 m-0">Most of my designing takes place in the browser. Coding things and seeing them instantly come to life is both functional and immediately rewarding. While a tasty photoshop mockup is impressive, it's worthless if it can't be translated into living, breathing code. Knowing what designs will work, on all devices, screens sizes, and browsers, allows me to maximize efficiency and flexibility in creating web experiences. Coding and design work together to create a harmony of form and function.</p>
+                <a href="#sec-2"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
             </div>
         </div><!--end row-->  
         
@@ -47,12 +48,13 @@ include 'includes/header.php';
         </div>
        
         <section>
-            <div class="row d-flex min-500 p-5 text-secondary bg-white">
+            <div id="sec-2" class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">Living by code</h2>
                     <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries.</h3>
                     <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a>, and CSS3 keyframe animations for a combination of timeline and scroll-based animations. I also use schema.org and google structured data json-ld formats for improving SEO and rich-media search capability.</p>
+                    <a href="#sec-3"><p class="p-btn mt-3 border-0 p-0">Style + approach <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -64,7 +66,7 @@ include 'includes/header.php';
             </div>
         </div><!--end row-->
         
-        <div class="row d-flex min-500 p-5 text-secondary bg-white">
+        <div id="sec-3" class="row d-flex min-500 p-5 text-secondary bg-white">
             <div class="offset-lg-2"></div>
             <div class="col-lg-8 banner-center">
                 <h2 class="h4 text-primary">Approach</h2>

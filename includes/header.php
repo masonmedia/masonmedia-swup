@@ -126,6 +126,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                <li class="nav-item">
+                        <a class="nav-link" href="/">home</a>
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/design.php">design</a>
                     </li>
@@ -142,7 +145,7 @@
                         <a class="nav-link" href="/pricing.php">pricing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/contact.php">contact</a>
+                        <a class="nav-link" href="mailto:andrewmasonmedia@gmail.com">contact</a>
                     </li>
                 </ul>
             </div>
