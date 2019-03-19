@@ -57,7 +57,7 @@
                 <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                     <h2 class="h4 text-primary">Surefire Sweat</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
-                    <p class="p-big pt-3 m-0">The design solution consisted of a one-page magazine style layout with bold imagery accompanying descriptive text. It features animated dropdown sections that reveal band audio tracks, video (with lazy load, onclick functionality to improve page load time), downloadable images, and press kit. Other features include a calendar plugin by Timely allowing the client to add and edit show dates, a smooth anchor scroll menu, and bold social media integration.</p>
+                    <p class="p-big pt-3 m-0">The design solution consisted of a one-page magazine style layout with bold imagery accompanying descriptive text. It features animated dropdown sections that reveal band audio tracks, video, downloadable image gallery, and an electronic press kit. Other features include a calendar plugin by Timely allowing the client to add and edit show dates, a smooth anchor scroll menu, and bold social media integration.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -66,7 +66,7 @@
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg p-0">
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                    <img class="img-full min-700-lg absolute z-0 left-0 up up-med lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div><!--end row-->
         </section>
@@ -78,7 +78,7 @@
             <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
                 <h2 class="h4 text-primary">Surefire Sweat</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
-                <p class="p-big pt-3 m-0">The site was coded from scratch using HTML5, CSS3, Bootstrap 4, jQuery and Javascript, and included UI/UX design, copy editing, color palette development, a hosting tutorial, and ongoing tech support.</p>
+                <p class="p-big pt-3 m-0">The site was coded from scratch using HTML5, CSS3, Bootstrap 4, jQuery and Javascript, and included UI/UX design, copy editing, color palette development, a hosting/editing tutorial, and ongoing tech support.</p>
                 <!--button container-->
                 <div class="container-fluid pt-3 pl-0">
                     <div class="row d-flex justify-content-center align-items-center text-center mt-3">
