@@ -51,7 +51,7 @@ include 'includes/header.php';
        
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <div class="col-lg-8 banner-center p-5">
                 <h2 class="h4 text-primary">Wake 'n Bake Coffee Co.</h2>
                 <h3 class="section-title text-dark mb-0">Logo, packaging, business cards.</h3>
                 <p class="p-big pt-3 m-0">Toronto based coffee roaster Wake 'n Bake required a full design workup including logo, color scheme, and packaging mockups for their new coffee company. The design focused on a fresh, 80s-inspired palette of pastels and neon primaries which offer a bright, exciting feel, while hinting at established brands such as David's Tea, rock band The Strokes, Google, Microsoft, and NBC.</p>
@@ -93,7 +93,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Big Horn Sheep</h2>
                     <h3 class="section-title text-dark mb-0">Logo + posters + social media.</h3>
                     <p class="p-big pt-3 m-0"><a href="http://bighornsheepband.com" target="_blank"><span class="text-primary">Big Horn Sheep</span></a> are a Toronto based instrumental trio with an original repertoire that uniquely blends jazz, funk, EDM, and rock-pop. They play regularly throughout Toronto and required a complete design mockup including logo, website, concert posters, album cover art, and social media content. The resulting design incorporates an atari-influenced, 8-bit video game theme including bold neon colors, an atari-inspired take on a ram's head for the logo, simple yet bold sans-serif fonts, and myriad variations on the theme for social media content.</p>
@@ -147,7 +147,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Aimee Claxton</h2>
                     <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
                     <p class="p-big pt-3 m-0">Toronto vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
@@ -175,7 +175,7 @@ include 'includes/header.php';
        
         <div class="row d-flex min-500 text-secondary bg-white">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <div class="col-lg-8 banner-center p-5">
                 <h2 class="h4 text-primary">Ed Mortenson</h2>
                 <h3 class="section-title text-dark mb-0">Business cards.</h3>
                 <p class="p-big pt-3 m-0">Toronto drummer and music instructor Ed Mortenson required business card designs for his performing and teaching businesses, as well as for his services driving for uber. He requested a design that blended part edgy, rock personality, with the clean, trustworthiness of a professional service. I came up with a layout equal parts simple, unique, bold, and rock.</p>
@@ -197,7 +197,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Janice Mason Steeves</h2>
                     <h3 class="section-title text-dark mb-0">Workshops in Wild Places.</h3>
                     <p class="p-big pt-3 m-0">Canadian painter and art educator Janice Mason Steeves developed an innovative platform that blends global travel with art education. Entitled <a href="http://workshopsinwildplaces.com" target="_blank"><span class="text-primary">Workshops in Wild Places</span></a>, Mason Steeves required a full design workup including website, social media banners/covers, and flyers (print and email/web formats) with which to promote and market the project.</p>
@@ -238,7 +238,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Jen Mason, PhD.</h2>
                     <h3 class="section-title text-dark mb-0">Flyers + posters + website.</h3>
                     <p class="p-big pt-3 m-0">For <a href="http://jenmason.ca" target="_blank"><span class="text-primary">Jen Mason</span></a> PhD's dissertation research project, she conducted a joint workshop on the role of mindfulness in promoting dialogue among people with diverse and varied perspectives. The goal was to facilitate and foster an improvement in the ability to communicate in multi-stakeholder situations, specifically with regard to topics including sustainability and the environment. Mrs. Mason required a design workup including a website, poster, and (below) a flyer for advertising.</p>
