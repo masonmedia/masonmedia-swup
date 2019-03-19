@@ -59,7 +59,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Options</h2>
                     <h3 class="section-title text-dark mb-0">Package includes and extensibility.</h3>
                     <p class="p-big pt-3 m-0">
-                        All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design base for the rest of the site), mobile responsive design, basic SEO, social media and contact information integration, installation, and a 30-day worksmanship & support guarantee*. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, photo sourcing, graphic design, and copywriting services.
+                        All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design base for the rest of the site), mobile responsive design, basic SEO, social media and contact information integration, installation, and a 30-day worksmanship & support guarantee*. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, photo sourcing, graphic design, and copywriting services. Hourly rates are available for smaller scale work including website edits, updates, copy formatting, SEO additions, code clean up, and image sourcing.  
                     </p>
                     <a href="#sec-3"><p class="p-btn mt-3 border-0 p-0">Design + copywriting <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>

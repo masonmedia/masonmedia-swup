@@ -172,9 +172,9 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Surefire Sweat</h2>
-                    <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
-                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
-                    <a href="/advancetherapy.php"><p class="p-btn mt-3">Read more &#8594;</p></a>
+                    <h3 class="section-title text-dark mb-0">Original sounds influenced by funk, jazz, brass band and afrobeat.</h3>
+                    <p class="p-big pt-3 m-0">Surefire Sweat is made up of a diverse and multi-generational roster of Toronto-based artists. The music draws on an amalgam of funk, jazz, brass band, blues and afrobeat. The band required a website to showcase their music and act as a portal for marketing, media, band info, show booking, and fan information.</p>
+                    <a href="/work/sfs.php"><p class="p-btn mt-3">Learn more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
@@ -195,9 +195,9 @@ include 'includes/header.php';
                 <div class="offset-lg-2"></div>
                 <div class="col-lg-8 banner-center p-5">
                     <h2 class="h4 text-primary">Copetin</h2>
-                    <h3 class="section-title text-dark mb-0">Business cards + posters.</h3>
-                    <p class="p-big pt-3 m-0">Vocalist, bandleader, and music instructor Aimee Claxton is talented composer and performer on the Toronto jazz music landscape who required a number of designs for her performing and teaching businesses. Designs included business cards, poster + social media designs for her live concerts, as well handbills to market her teaching studio.</p>
-                    <a href="/advancetherapy.php"><p class="p-btn mt-3">Read more &#8594;</p></a>
+                    <h3 class="section-title text-dark mb-0">Haute design for haute cuisine.</h3>
+                    <p class="p-big pt-3 m-0">This project was a website mockup-makeover for Copetín, the acclaimed restaurant of Toronto celebrity Chef Claudio Aprile. The project redesigned their existing minimal website to offer a bold, modern layout and feel, while incorporating their current branding, logo, and color themes. Goals were to take their existing content and elevate it into an elegant, stylish, one-page website that matched the restaurant's cachet and haute cuisine.</p>
+                    <a href="/work/copetin.php"><p class="p-btn mt-3">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a>
                 </div>
                 <div class="offset-lg-2"></div>
             </div><!--end row-->  
@@ -206,7 +206,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex text-secondary bg-white">
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full relative left-0 lazy" data-src="https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Business card design for Aimee Claxton">
+                    <img class="img-full relative left-0 lazy" data-src="/assets/img/mason-media-chips.jpeg" alt="Mason Media">
                 </div>
             </div><!--end row-->
         </section>
