@@ -88,7 +88,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-green-lights.jpg" alt="Big Horn Sheep">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/bhs-green-lights.jpg" alt="Big Horn Sheep">
                 </div>
             </div>
         </section>
@@ -111,7 +111,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
                 </div>
             </div>
         </section>
@@ -135,7 +135,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/djms-ss-iphone.jpg" alt="DJ Mycorrhiza">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/djms-ss-iphone.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
         </section>
@@ -158,7 +158,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Surefire Sweat">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Surefire Sweat">
                 </div>
             </div>
         </section>
@@ -180,7 +180,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/copetin-ipad.jpg" alt="Andrew Mason Portfolio: Copetin">
                 </div>
             </div>
@@ -203,7 +203,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex text-secondary bg-white">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full relative left-0 lazy" data-src="/assets/img/mason-media-chips.jpeg" alt="Mason Media">
                 </div>
             </div><!--end row-->
