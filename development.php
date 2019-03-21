@@ -13,7 +13,7 @@ include 'includes/header.php';
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
             <!-- <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.pexels.com/photos/1925099/pexels-photo-1925099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Mason Media Website Development"> -->
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://media3.giphy.com/media/35AEeub0Guw8w/giphy.gif" alt="Mason Media Website Development">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/code.gif" alt="Mason Media Coding and Development">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Development</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
@@ -42,7 +42,7 @@ include 'includes/header.php';
         </div><!--end row-->  
         
         <div class="row d-flex bg-white relative">
-            <div class="col-lg-12 min-700-lg">                
+            <div class="col-lg-12 min-700-lg down down-med">                
                 <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="assets/img/iphone-macbook-coffee-pink.jpg" alt="Mason Media Coding and Front End Development.">
             </div>
         </div>
@@ -61,8 +61,8 @@ include 'includes/header.php';
         </section>
         
         <div class="row d-flex bg-white relative">
-            <div class="col-lg-12 min-700-lg p-0">
-                <img class="img-full absolute z-0 lazy" data-src="https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="">
+            <div class="col-lg-12 min-700-lg p-0 down down-med">
+                <img class="img-full absolute z-0 lazy" data-src="/assets/img/headphones-pink-turquoise.jpeg" alt="I use a variety of languages and frameworks including HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and Angular 7.">
             </div>
         </div><!--end row-->
         
@@ -78,8 +78,8 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" data-src="https://images.unsplash.com/photo-1508854710579-5cecc3a9ff17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Ed Mortenson business card">
+                <div class="col-lg-12 min-700-lg down down-med">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/headstocks.jpeg" alt="My favourite coding approach is to design and experiment live in the browser.  I spend a lot of time in the inspector checking out others' code and debugging, and am always researching trends, methods, and best practices in coding and design.">
                 </div>
             </div>
         </section>
