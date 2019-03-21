@@ -46,7 +46,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/writing-play.jpeg" alt="I stive to write engaging, fast-paced content that's creative and entertaining, with a focus on humour and originality.">
                 </div>
             </div>
@@ -69,7 +69,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full absolute z-0 lazy" data-src="/assets/img/writing-neon-text.jpeg" alt="I create a range of different content types, from articles, to reviews, blog and social media posts, poster/flyer copy, bios, and album/track descriptions.">
                 </div>
             </div>
@@ -90,7 +90,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full absolute z-0 lazy" data-src="/assets/img/writing-graffiti-bird.jpeg" alt="From corrections to grammar and spelling, to improved style, readability, SEO, and user experience, I specialize in editing, parsing, and revitalizing existing written content.">
                 </div>
             </div>
@@ -113,7 +113,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full absolute z-0 lazy" data-src="/assets/img/writing-take-it-easy.jpeg" alt="I bring SEO awareness to every aspect of content creation from keyword research, to meta descriptions, inclusion of google schema data within HTML code, and maximizing UX with content length, readability, and parsing for web consumption.">
                 </div>
             </div>
@@ -135,7 +135,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <div class="col-lg-12 min-700-lg down down-med">
                     <img class="img-full absolute z-0 lazy" data-src="/assets/img/writing-123-lets-go.jpeg" alt="For samples of work please visit copy.andrewmasonmedia.com">
                 </div>
             </div>
