@@ -54,23 +54,20 @@
               "@type": "Organization",
               "name": "Mason Media",
               "@id":"http://andrewmasonmedia.com",
-              "knowsAbout": "Web Development",
-              "url": "http://andrewmasonmedia.com",
+              "knowsAbout": "Web Development, Graphic design, UX/UI design, Copywriting, Music",
+              "url": "https://andrewmasonmedia.com",
               "sameAs": [
-                "https://www.facebook.com/decentralca/",
-                "https://twitter.com/decentralca",
-                "https://www.youtube.com/channel/UCbRTp8VBYPvNF039IXO2dsg?view_as=subscriber",
-                "https://www.instagram.com/decentralproject/",
-                "https://www.linkedin.com/company/decentral/"
+                "https://www.facebook.com/andrewmasonmedia/",
+                "https://twitter.com/C_AndrewMason",
+                "https://www.instagram.com/jaxx_io/",
+                "http://copy.andrewmasonmedia.com/"
               ],
               "logo": "",
               "image": [
-                "https://decentral.ca/assets/img/jaxx-apple-multi-device-min.jpg",
-                "https://decentral.ca/assets/img/jaxx-iphone-here-look.jpg",
-                "https://decentral.ca/assets/img/jaxx-desk-paraphernalia.jpg",
-                "https://decentral.ca/assets/img/decentral-anthony-1.jpg",
-                "https://decentral.ca/assets/img/jaxx-pc-coffee.png",
-                "https://decentral.ca/assets/img/decentral-toronto-flatiron.jpeg"
+                "https://andrewmasonmedia.com/assets/img/mason-bass.jpeg",
+                "https://andrewmasonmedia.com/assets/img/mason-media-lens.jpg",
+                "https://andrewmasonmedia.com/assets/img/writing-123-lets-go.jpeg",
+                "https://andrewmasonmedia.com/assets/img/mm-bg-work.jpeg"
                ],
               "address":{
                 "@type": "PostalAddress",

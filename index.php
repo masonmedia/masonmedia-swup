@@ -46,7 +46,7 @@ include 'includes/header.php';
      
      <div class="row d-flex bg-white">
         <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-center">
-            <img data-src="https://images.pexels.com/photos/928475/pexels-photo-928475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Decentral is Canada's leading blockchain company." title="Decentral Inc.">
+            <img data-src="/assets/img/donut.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Welcome to Mason Media">
         </div>
     </div>
       
@@ -65,7 +65,7 @@ include 'includes/header.php';
 
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/164880/pexels-photo-164880.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Jaxx Liberty: the leading digital asset wallet by Decentral." title="Jaxx Liberty">
+            <img data-src="/assets/img/blue-guitar.jpeg" class="img-full absolute z-0 left-0 lazy" alt="I collaborate with clients to help communicate their goals, brand identity, and aesthetics, while drawing on broad experience and constant research of current design trends and best practices.">
         </div>
     </div>
     
@@ -84,7 +84,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/265631/pexels-photo-265631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="">
+            <img data-src="/assets/img/blue-keyboard.jpeg" class="img-full absolute z-0 left-0 lazy" alt="From stock themes, to blogs, and fully customized websites, I offer a wide range of creative web solutions.">
         </div>
     </div>
     
@@ -103,7 +103,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/159825/color-pencil-drawing-coloring-colored-pencils-159825.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Andrew Mason copywriting services">
+            <img data-src="/assets/img/blue-pencils.jpeg" class="img-full absolute z-0 left-0 lazy" alt="From food and fashion to music, tech, and the environment, I write, edit, and parse text specifically for web consumption.">
         </div>
     </div>
     
@@ -122,7 +122,7 @@ include 'includes/header.php';
     
     <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img data-src="https://images.pexels.com/photos/1261578/pexels-photo-1261578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Mason Media clients">
+            <img data-src="/assets/img/cassette.jpeg" class="img-full absolute z-0 left-0 lazy" alt="I offer ongoing website mainenance and support, site redesigns, content additions, and improvements to layout, copy, SEO, and imagery to keep websites fresh and consistently improving.">
         </div>
     </div>  
     
@@ -166,7 +166,7 @@ include 'includes/header.php';
 
      <div class="row d-flex bg-light">
         <div class="col-lg-12 min-700-lg">
-            <img src="https://images.pexels.com/photos/1266105/pexels-photo-1266105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" class="img-full absolute z-0 left-0 lazy" alt="Andrew Mason Media">
+            <img src="/assets/img/pink-lollipop.jpeg" class="img-full absolute z-0 left-0 lazy" alt="Explore my range of pricing and service options, or drop me a line to discuss your project specifics in person.">
         </div>
     </div>
      
