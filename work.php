@@ -10,7 +10,7 @@ include 'includes/header.php';
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1541616461010-03ec2728e6a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80" alt="Andrew Mason Portfolio">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/more-awesome-now.jpeg" alt="Andrew Mason Portfolio">
             <div class="offset-lg-8"></div>
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
                 <h1 class="h4 mt-3 ds-black">Portfolio</h1>
@@ -43,7 +43,7 @@ include 'includes/header.php';
 
          <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-macbook-coffee-notebook.jpg" alt="Blockchain software company Decentral Inc.">
                 </div>
             </div>
@@ -66,7 +66,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/atherapy-banner.jpg" alt="Healthcare services provider Advance Therapy">
                 </div>
             </div>
@@ -87,7 +87,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/bhs-green-lights.jpg" alt="Big Horn Sheep">
                 </div>
             </div>
@@ -110,7 +110,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full absolute z-0 left-0 lazy" src="assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
                 </div>
             </div>
@@ -134,7 +134,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/djms-ss-iphone.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
@@ -157,7 +157,7 @@ include 'includes/header.php';
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full absolute z-0 left-0 lazy" src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Surefire Sweat">
                 </div>
             </div>
