@@ -2,8 +2,6 @@
 
 $title = "Mason Media | Design";
 
-$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media.";
-
 include 'includes/header.php';
 
 ?>
@@ -12,7 +10,7 @@ include 'includes/header.php';
     
     <div role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.unsplash.com/photo-1494253109108-2e30c049369b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
+            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/blue-orange.jpeg" alt="Mason Media Design">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Design</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
@@ -41,7 +39,7 @@ include 'includes/header.php';
         
         <div class="row d-flex bg-light relative">
             <div class="col-lg-12 min-700-lg">
-                <img class="img-full absolute z-0 left-0 lazy" data-src="https://images.unsplash.com/photo-1501856777435-29877ed80a3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="About Decentral">
+                <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/colored-brick.jpeg" alt="I use photoshop, canva, crello, wireframe.cc, mockflow and other tools to craft designs for web and print media, websites and user interfaces, user experience design, social media content, logos, posters, and album/track artwork for bands.">
             </div>
         </div>
                
@@ -64,26 +62,26 @@ include 'includes/header.php';
                 
                 <!--coffee bags-->
                 <div class="col-lg-12 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-yellow.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-bag-yellow.jpg" alt="">
                 </div>
                 <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-green.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-bag-green.jpg" alt="">
                 </div>
                 <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-pink.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-bag-pink.jpg" alt="">
                 </div>
                 <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-bag-turq.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-bag-turq.jpg" alt="">
                 </div>
                 <!--business cards-->
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-buiness-card-mockup-turq.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-buiness-card-mockup-turq.jpg" alt="">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" src="/assets/img/wake-n-bake-buiness-card-mockup-green.jpg" alt="">
+                    <img class="w-100 lazy" data-data-src="/assets/img/wake-n-bake-buiness-card-mockup-green.jpg" alt="">
                 </div>
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/wake-n-bake-box-mockup-pink.jpg" alt="">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/wake-n-bake-box-mockup-pink.jpg" alt="">
                 </div>
             </div>
         </section>
@@ -130,16 +128,16 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light bg-light p-0">
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
                 </div>
             </div>
         </section>
@@ -252,10 +250,10 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light bg-light p-0">
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Designs for Jen Mason PhD.">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Big Horn Sheep poster design">
+                    <img class="img-full lazy" data-src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Designs for Jen Mason PhD.">
                 </div>
             </div>
         </section>

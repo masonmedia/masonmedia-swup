@@ -2,8 +2,6 @@
 
 $title = "Mason Media | Work";
 
-$metaD = "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media..";
-
 include 'includes/header.php';
 
 ?>     
