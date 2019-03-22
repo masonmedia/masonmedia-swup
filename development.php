@@ -43,14 +43,14 @@ include 'includes/header.php';
         
         <div class="row d-flex bg-white relative">
             <div class="col-lg-12 min-700-lg down down-med">                
-                <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="assets/img/iphone-macbook-coffee-pink.jpg" alt="Mason Media Coding and Front End Development.">
+                <img class="img-full absolute z-0 left-0 lazy" data-src="assets/img/iphone-macbook-coffee-pink.jpg" alt="Mason Media Coding and Front End Development.">
             </div>
         </div>
        
         <section>
             <div id="sec-2" class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Living by code</h2>
                     <h3 class="section-title text-dark mb-0">Languages, frameworks, and libraries.</h3>
                     <p class="p-big pt-3 m-0">I work with HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and am currently developing skill with Angular and Vue.js front end frameworks. I use Brackets and Visual Studio Code for text editors, as well as Github and Bitbucket for version control. I am heavily interested in web animation and currently use <a href="https://greensock.com/gsap" target="_blank"><span class="text-primary">GSAP</span></a>, <a href="https://animejs.com/" target=""><span class="text-primary">anime.js</span></a>, <a href="http://scrollmagic.io/" target="_blank"><span class="text-primary">Scroll Magic</span></a>, <a href="https://michalsnik.github.io/aos/" target="_blank"><span class="text-primary">AOS</span></a> (Animate on Scroll), <a href="http://anijs.github.io/" target="_blank"><span class="text-primary">AniJS</span></a>, <a href="https://daneden.github.io/animate.css/" target="_blank"><span class="text-primary">animate.css</span></a>, and CSS3 keyframe animations for a combination of timeline and scroll-based animations. I also use schema.org and google structured data json-ld formats for improving SEO and rich-media search capability.</p>
@@ -62,13 +62,13 @@ include 'includes/header.php';
         
         <div class="row d-flex bg-white relative">
             <div class="col-lg-12 min-700-lg p-0 down down-med">
-                <img class="img-full absolute z-0 lazy" data-src="/assets/img/headphones-pink-turquoise.jpeg" alt="I use a variety of languages and frameworks including HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and Angular 7.">
+                <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/headphones-pink-turquoise.jpeg" alt="I use a variety of languages and frameworks including HTML5, CSS3, Bootstrap 4, jQuery, Javascript, PHP, Wordpress, and Angular 7.">
             </div>
         </div><!--end row-->
         
         <div id="sec-3" class="row d-flex min-500 p-5 text-secondary bg-white">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center">
+            <div class="col-lg-8 banner-center py-3">
                 <h2 class="h4 text-primary">Approach</h2>
                 <h3 class="section-title text-dark mb-0">Coding style and approach.</h3>
                 <p class="p-big pt-3 m-0">I use <a href="https://getbootstrap.com/" target="_blank"><span class="text-primary">Bootstrap 4</span></a>, one of the most widely used systems for web development, to quickly scaffold and mockup modular designs that can be easily scaled. While I create wireframes and photoshop/canva mockups, my favourite coding approach is to get my hands dirty designing, experimenting, and playing with animation libraries live in the browser.  I spend a lot of time in the inspector checking out others' code and debugging, and am always researching trends, methods, and best practices in coding and design. I am also currently exploring Angular 7 and Vue.js front-end frameworks for creating websites and PWAs. Please check out my <a href="https://github.com/masonmedia" target="_blank"><span class="text-primary">Github</span></a> for code samples.</p>

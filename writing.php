@@ -33,7 +33,7 @@ include 'includes/header.php';
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Copywriting</h2>
                     <h3 class="section-title text-dark mb-0">Entertaining, easy-reading copy for all occasions. Almost.</h3>
                     <!--<p class="p-big pt-3 m-0">I believe in the power of design to inspire, shift mindsets, create positivity, and unleash joy. Every day, I work to improve, grow, take risks, and outdo what I did the day before.</p>-->
@@ -57,7 +57,7 @@ include 'includes/header.php';
         <section>
             <div id="sec-2" class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Content</h2>
                     <h3 class="section-title text-dark mb-0">Taglines, blogs, reviews, and bios.</h3>
                     <p class="p-big pt-3 m-0">I create a range of different content types, from articles, to reviews, blog and social media posts, poster/flyer copy, bios, and album/track descriptions. Most important in all my writing is an effort to be genuine and authentic, be it about a product, service, concert, or app. I try to make reading fluid, fast, and fun, with a constant focus on SEO, grammar, and relatability.</p>
@@ -79,7 +79,7 @@ include 'includes/header.php';
         
         <div id="sec-3" class="row d-flex min-500 p-5 text-secondary bg-white">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center">
+            <div class="col-lg-8 banner-center py-3">
                 <h2 class="h4 text-primary">Editing</h2>
                 <h3 class="section-title text-dark mb-0">Cats. dogs, and babies: its Tuesday!</h3>
                 <p class="p-big pt-3 m-0">From corrections to grammar and spelling, to improved style, readability, SEO, and user experience, I specialize in editing, parsing, and revitalizing existing written content. I aim for text that's fast-moving, easy to read and grammatically correct. I also focus on packaging and preparing copy for online/web presentation.</p>
@@ -101,7 +101,7 @@ include 'includes/header.php';
         <section>
             <div id="sec-4" class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">SEO</h2>
                     <h3 class="section-title text-dark mb-0">Optimized copy, meta, images, and schema data.</h3>
                     <p class="p-big pt-3 m-0">SEO is an essential component for web traction and success. I bring SEO awareness to every aspect of content creation from keyword research, to meta descriptions, inclusion of google schema data within HTML code, and maximizing UX with content length, readability, and parsing for web consumption. Whether for a website, bio, or social media, SEO is always part of the equation.</p>
@@ -124,7 +124,7 @@ include 'includes/header.php';
         <section>
             <div id="sec-5" class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Work</h2>
                     <h3 class="section-title text-dark mb-0">Writing samples + portfolio.</h3>
                     <p class="p-big pt-3 m-0">For samples of work please visit my copywriting website <a class="text-primary font-weight-bold" href="http://copy.andrewmasonmedia.com" target="_blank">here.</a></p>

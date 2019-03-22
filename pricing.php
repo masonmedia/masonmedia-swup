@@ -31,7 +31,7 @@ include 'includes/header.php';
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
