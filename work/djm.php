@@ -43,8 +43,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/djm-3-iphones-black.jpg" alt="DJ Mycorrhiza">
+                <div class="col-lg-12 min-700-lg down down-med">                
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/djm-3-iphones-black.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
         </section>
@@ -65,9 +65,9 @@
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg p-0">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
                     <!-- <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/djm-turntable-banner-static.jpg" alt="Andrew Mason Portfolio: DJ Mycorrhiza"> -->
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/djm-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: DJ Mycorrhiza">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/djm-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: DJ Mycorrhiza">
                 </div>
             </div><!--end row-->
         </section>
@@ -97,8 +97,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/djm-colored-cube-bg.png" alt="Andrew Mason Portfolio: The Mycorrhiza">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/djm-colored-cube-bg.png" alt="Andrew Mason Portfolio: The Mycorrhiza">
                 </div>
             </div>
         </section>

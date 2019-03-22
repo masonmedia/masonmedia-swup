@@ -43,7 +43,7 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg p-0 down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-iphone-here-look.jpg" alt="DJ Mycorrhiza">
                 </div>
             </div>
@@ -65,8 +65,8 @@
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg p-0">
-                    <img class="w-100 up up-med lazy" data-src="/assets/img/jaxx-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/jaxx-ipad-iphone-X-closeup.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
                 </div>
             </div><!--end row-->
         </section>
@@ -96,8 +96,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/jaxx-iphone-flying-2-screens.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute z-0 lazy" data-src="/assets/img/jaxx-iphone-flying-2-screens.jpg" alt="Andrew Mason Portfolio: Decentral Inc.">
                 </div>
             </div>
         </section>
