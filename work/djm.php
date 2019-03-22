@@ -32,7 +32,7 @@
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center o-12">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">A website for Toronto/Lisbon DJ Mycorrhiza, this project required an innovative design to match the client's inimitable style and personality. Requirements included bold graphics, colors, and imagery, a showcase of audio tracks, a blog updatable by the artist, and contact information. It also needed complete content creation and editing with a focus on abstract, artistic language.</p>
@@ -52,9 +52,9 @@
         <!--solution-->
         
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a Wordpress theme customized for an original look and feel. It features a fullscreen video banner, bold, oversized typography, tracks embedded using HTML5 audio, a blog, as well as unique imagery and branding. The project also required a Facebook page design.</p>
@@ -74,9 +74,9 @@
         
         <!--specs-->
         
-        <div class="row d-flex min-500 text-secondary bg-white down">
+        <div class="row d-flex min-500 p-5 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 d-flex flex-column justify-content-center align-items-center text-center p-5">
+            <div class="col-lg-8 banner-center">
                 <h2 class="h4 text-primary">DJ Mycorrhiza</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>

@@ -32,7 +32,7 @@
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center o-12">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">Surefire Sweat</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">Toronto funk-dance band Surefire Sweat required a complete website workup to represent the band's face for booking, fans, promotion, and marketing. Requirements included the incorporation of a previous logo and existing photography, color palette development, typography, and the inclusion of band media including audio, video, photos, press kit, as well as contact and social media information.</p>
@@ -43,8 +43,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/sfs-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                <div class="col-lg-12 min-700-lg down down-med">                
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/sfs-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div>
         </section>
@@ -52,9 +52,9 @@
         <!--solution-->
         
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center p-5">
+                <div class="col-lg-8 banner-center">
                     <h2 class="h4 text-primary">Surefire Sweat</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a one-page magazine style layout with bold imagery accompanying descriptive text. It features animated dropdown sections that reveal band audio tracks, video, downloadable image gallery, and an electronic press kit. Other features include a calendar plugin by Timely allowing the client to add and edit show dates, a smooth anchor scroll menu, and bold social media integration.</p>
@@ -65,17 +65,17 @@
         
         <section>
             <div class="row d-flex bg-light relative">
-                <div class="col-lg-12 min-700-lg p-0">
-                    <img class="img-full min-700-lg absolute z-0 left-0 up up-med lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/sfs-macbook-gradient-angle.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div><!--end row-->
         </section>
         
         <!--specs-->
         
-        <div class="row d-flex min-500 text-secondary bg-white down">
+        <div class="row d-flex min-500 p-5 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center p-5">
+            <div class="col-lg-8 banner-center">
                 <h2 class="h4 text-primary">Surefire Sweat</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site was coded from scratch using HTML5, CSS3, Bootstrap 4, jQuery and Javascript, and included UI/UX design, copy editing, color palette development, a hosting/editing tutorial, and ongoing tech support.</p>
@@ -96,8 +96,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/sfs-3-screens-mockup.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/sfs-3-screens-mockup.jpg" alt="Andrew Mason Portfolio: Surefire Sweat">
                 </div>
             </div>
         </section>
