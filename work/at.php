@@ -41,7 +41,7 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/atherapy-banner.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
                 </div>
             </div>
@@ -63,7 +63,7 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg p-0">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/at-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
                 </div>
             </div><!--end row-->
@@ -94,8 +94,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/at-iphone.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
+                <div class="col-lg-12 min-700-lg down down-med">
+                    <img class="img-full absolute left-0 z-0 lazy" data-src="/assets/img/at-iphone.jpg" alt="Andrew Mason Portfolio: Advance Therapy">
                 </div>
             </div>
         </section>

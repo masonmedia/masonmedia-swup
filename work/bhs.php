@@ -13,7 +13,6 @@
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/bhs-macbook-3D-angle.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Big Horn Sheep</h1>
-                <!-- <h2 class="site-title font-weight-bold ds-black break-word">Music made by humans.</h2> -->
                 <h2 class="site-title font-weight-bold ds-black">
                     <span class="knockout-rainbow">Music</span><br> 
                     <span class="knockout-rainbow">made</span><br>
@@ -44,7 +43,7 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg">                
+                <div class="col-lg-12 min-700-lg p-0 down down-med">                
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/bhs-ss-multi-device.jpg" alt="Big Horn Sheep">
                 </div>
             </div>
@@ -66,7 +65,7 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg p-0">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
                     <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/bhs-3-iphones-black.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
                 </div>
             </div><!--end row-->
@@ -97,8 +96,8 @@
         
         <section>
             <div class="row d-flex bg-white relative">
-                <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full absolute z-0 lazy" src="/assets/img/bhs-logo-green.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
+                <div class="col-lg-12 min-700-lg p-0 down down-med">
+                    <img class="img-full absolute left-0 z-0 lazy" data-src="/assets/img/bhs-logo-green.jpg" alt="Andrew Mason Portfolio: Big Horn Sheep">
                 </div>
             </div>
         </section>
