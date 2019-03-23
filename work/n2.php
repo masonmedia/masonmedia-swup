@@ -32,7 +32,7 @@
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">N2 Speech Therapy is a Toronto Speech-Language Pathology services provider offering a broad range of one-on-one treatment options. N2 required a complete brand design including website, logo, custom imagery, photo sourcing, and copywriting. Requirements included a bold, professional layout, clean presentation of company information, as well a blog for updatable content and SEO.</p>
@@ -54,7 +54,7 @@
         <section>
             <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">With the need to access to the site for blog writing and image updates, the solution consisted of a Wordpress CMS. Beginning with a stock template, customizations were developed including custom banner images, color scheme, icons and bullets, SEO and social media integration, sub-page header and footer images, and a custom logo design.</p>
@@ -75,7 +75,7 @@
         
         <div class="row d-flex min-500 p-5 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center">
+            <div class="col-lg-8 banner-center py-3">
                 <h2 class="h4 text-primary">N2 Speech Therapy</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, CSS3, and features parallaxing background images, scroll animations, social media icons, and a blog. It also required copywriting and content creation, branding and logo design, color palette development, as well as image sourcing and creation.</p>

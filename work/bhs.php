@@ -32,7 +32,7 @@
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center o-12">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Big Horn Sheep</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">A website for Toronto instrumental trio Big Horn Sheep, this project required bold imagery and graphic design, unique typography, showcasing of band audio tracks and images, as well as performance dates and contact information.</p>
@@ -52,9 +52,9 @@
         <!--solution-->
         
         <section>
-            <div class="row d-flex min-500 text-secondary bg-white">
+            <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center p-5">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Big Horn Sheep</h2>
                     <h3 class="section-title text-dark mb-0">Design solution.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a Single Page Application (SPA) approach using AngularJS and Bootstrap 4. It features animated page transitions, embedded soundcloud audio tracks, a pinterest-style image lightbox gallery, Bootstrap modals to showcase performance dates and band posters (also Mason Media design), with unique banner images and branding. The site was also an exercise in Atomic CSS, with an effort to limit styles to native Bootstrap 4 classes.</p>
@@ -73,9 +73,9 @@
         
         <!--specs-->
         
-        <div class="row d-flex min-500 text-secondary bg-white down">
+        <div class="row d-flex min-500 p-5 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center p-5">
+            <div class="col-lg-8 banner-center py-3">
                 <h2 class="h4 text-primary">Big Horn Sheep</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 4, and AngularJS. It also required UX/UI design, copywriting, graphic design, color palette development, image/logo creation, and a Facebook band page design.</p>

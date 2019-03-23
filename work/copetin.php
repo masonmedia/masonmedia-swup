@@ -32,7 +32,7 @@
         <section>
             <div id="sec-1" class="row d-flex p-5 min-500 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center o-12">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Copetín</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
                     <p class="p-big pt-3 m-0">A design mockup for Toronto restaurant Copetín, this project fully revamped their existing minimal website. It aimed to give the restaurant a modern layout to match their haute cuisine, present their content in a more easily digestible format, make their menu items cleaner and easier to navigate, develop and extend their typeface, color scheme, and branding, and give the site a more complex, elegant design more fitting of chef Claudio Aprile.</p>
@@ -44,7 +44,7 @@
         <section>
             <div class="row d-flex bg-white relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full min-700-lg absolute z-0 left-0 lazy" data-src="/assets/img/copetin-laptop.jpg" alt="Andrew Mason Portfolio: Copetin">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/copetin-laptop.jpg" alt="Andrew Mason Portfolio: Copetin">
                 </div>
             </div>
         </section>
@@ -54,7 +54,7 @@
         <section>
             <div class="row d-flex min-500 p-5 text-secondary bg-white">
                 <div class="offset-lg-2"></div>
-                <div class="col-lg-8 banner-center">
+                <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Copetín</h2>
                     <h3 class="section-title text-dark mb-0">Design solutions.</h3>
                     <p class="p-big pt-3 m-0">The design solution consisted of a one-page layout with image carousel, full screen background images, complete menu presentation (without having to load secondary pages), Open Table reservation button, social media integration, hours, and contact information. Branding and colour themes were used creatively and extended throughout the site.</p>
@@ -75,7 +75,7 @@
         
         <div class="row d-flex min-500 p-5 text-secondary bg-white down">
             <div class="offset-lg-2"></div>
-            <div class="col-lg-8 banner-center">
+            <div class="col-lg-8 banner-center py-3">
                 <h2 class="h4 text-primary">Decentral</h2>
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 3, Flexbox, and Javascript for smooth anchor scrolling. It included the Open Table reservation API and a button for guest booking, and required photo sourcing, graphic design, custom typography, and extended the restaurant's existing color and branding themes. While the project didn't move forward, it was a huge improvement on their existing site, and instructive in designing for the restaurant industry.</p>
