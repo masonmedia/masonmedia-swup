@@ -35,7 +35,7 @@ include 'includes/header.php';
                     <h2 class="h4 text-primary">Base plans</h2>
                     <h3 class="section-title text-dark mb-0">Template, custom, HTML5, wordpress: I've got you covered.</h3>
                     <p class="p-big pt-3 m-0">
-                        I have three basic packages that can be tweaked for specific needs. The first is my most basic, a plug and play website build using a stock Wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The gold option starts at 2000$ plus 150$ per page which includes more customization, and the platinum plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
+                        I have three basic packages that can be tweaked for specific needs. The first is my most basic, a plug and play website build using a stock Wordpress, HTML5, or other prebuilt theme (Wix, Weebly, Godaddy, etc.) with minimal modification, starting at 1000$ plus 150$ per additional page. The middle tier plan starts at 2000$ plus 150$ per page which includes more customization, and the custom plan starts at 3000$ plus 300$ per page which is a bespoke package. Prices will vary depending on functionality needs, customization, SEO, additional services, and deadline.</p>
                         <a href="#sec-2"><p class="p-btn mt-3 border-0 p-0">Learn more <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
