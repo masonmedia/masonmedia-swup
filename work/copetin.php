@@ -114,7 +114,7 @@
                 </div>
                 <div class="modal-body">
                     <img class="img ds mb-5 opacity" src="/assets/img/copetin-ss-fullscreen-min.jpg" alt="Copetin full website mockup">
-                    <a href="http:s//decentral.inc" target="_blank">
+                    <a href="https://copetin.andrewmasonmedia.com" target="_blank">
                         <h5 class="border-top pt-3 font-weight-bold text-right">copetin.andrewmasonmedia.com</h5>
                     </a>
                 </div>
