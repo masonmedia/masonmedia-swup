@@ -61,7 +61,7 @@ include 'includes/header.php';
                     <p class="p-big pt-3 m-0">
                         All sites include a 1hr discovery and strategy session, a mockup of the homepage (which will serve as the design base for the rest of the site), mobile responsive design, basic SEO, social media and contact information integration, installation, and a 30-day worksmanship & support guarantee*. Other optional features include blog integration, google maps, animation, contact forms, mailchimp newsletter sign up, API consumption, in-depth SEO structured data, photo sourcing, graphic design, and copywriting services. Hourly rates are available for smaller scale work including website edits, updates, copy formatting, SEO additions, code clean up, and image sourcing.  
                     </p>
-                    <a href="#sec-3"><p class="p-btn mt-3 border-0 p-0">Design + copywriting <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                    <a href="#sec-3"><p class="p-btn mt-3 border-0 p-0">Design + writing <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -86,7 +86,7 @@ include 'includes/header.php';
                     <p class="p-big pt-3 m-0">
                         Graphic design and copywriting/editing services are available at an hourly rate of 50$ (project-specific estimates available). Get custom logos, favicons, branded imagery, and the perfect images/photos to convey your brand or product's energy. You'll also get SEO prioritized taglines, descriptions, and easy-reading, fast-paced content that's engaging, authentic, and positive. I work with clients to achieve visual and print assets that are unique, bold, and modern. 
                     </p>
-                    <a href="#sec-4"><p class="p-btn mt-3 border-0 p-0">Scope + deadlines <i class="fa fa-angle-right fa-btn"></i></p></a> 
+                    <a href="#sec-4"><p class="p-btn mt-3 border-0 p-0">Scope <i class="fa fa-angle-right fa-btn"></i></p></a> 
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
