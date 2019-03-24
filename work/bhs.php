@@ -14,9 +14,9 @@
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Big Horn Sheep</h1>
                 <h2 class="site-title font-weight-bold ds-black">
-                    <span class="d-block knockout-rainbow">Music</span><br> 
-                    <span class="d-block knockout-rainbow">made</span><br>
-                    <span class="d-block knockout-rainbow">by</span><br>
+                    <span class="d-block knockout-rainbow">Music</span> 
+                    <span class="d-block knockout-rainbow">made</span>
+                    <span class="d-block knockout-rainbow">by</span>
                     <span class="d-block knockout-rainbow">humans.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
