@@ -117,7 +117,7 @@
                 </div>
                 <div class="modal-body">
                     <img class="img ds mb-5 opacity" src="/assets/img/djm-ss-fullscreen-min.jpg" alt="Dj Mycorrhiza full website">
-                    <a href="http:s//decentral.inc" target="_blank">
+                    <a href="https://decentral.ca" target="_blank">
                         <h2 class="border-top pt-3 font-weight-bold text-right">decentral.ca</h2>
                     </a>
                 </div>
