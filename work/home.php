@@ -12,13 +12,13 @@ include 'includes/header.php';
         <div class="row d-flex min-700-lg relative py-5">
             <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/more-awesome-now.jpeg" alt="Andrew Mason Portfolio">
             <div class="offset-lg-8"></div>
-            <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
+            <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Portfolio</h1>
                 <h2 class="site-title font-weight-bold ds-black">
-                    <span class="d-block knockout-rainbow">Some</span>
-                    <span class="d-block knockout-rainbow">of</span>
-                    <span class="d-block knockout-rainbow">my</span>
-                    <span class="d-block knockout-rainbow">work.</span>
+                    <span class="d-block">Some</span>
+                    <span class="d-block">of</span>
+                    <span class="d-block">my</span>
+                    <span class="d-block">work.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0 ds-black"></i></a>
             </div>
@@ -111,7 +111,7 @@ include 'includes/header.php';
         <section>
             <div class="row d-flex bg-light relative">
                 <div class="col-lg-12 min-700-lg down down-med">                
-                    <img class="img-full absolute z-0 left-0 lazy" data-src="assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
+                    <img class="img-full absolute z-0 left-0 lazy" data-src="/assets/img/n2-banner.jpg" alt="N2 Speech Therapy">
                 </div>
             </div>
         </section>

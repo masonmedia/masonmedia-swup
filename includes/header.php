@@ -135,7 +135,7 @@
                         <a class="nav-link" href="/writing.php">writing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/work.php">work</a>
+                        <a class="nav-link" href="/work/home.php">work</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/pricing.php">pricing</a>

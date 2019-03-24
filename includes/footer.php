@@ -9,7 +9,7 @@
                             <li><a href="/design.php">Design</a></li>
                             <li><a href="/development.php">Development</a></li>
                             <li><a href="/writing.php">Writing</a></li>
-                            <li><a href="/work.php">Work</a></li>
+                            <li><a href="/work/home.php">Work</a></li>
                         </ul>
                     </div>
                     
