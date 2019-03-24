@@ -81,8 +81,8 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, and CSS3. It also required content creation & copywriting, UX/UI/graphic design, color palette development, and image sourcing.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3 pl-0">
-                    <div class="row d-flex justify-content-center align-items-center text-center mt-3">
+                <div class="container-fluid pt-3">
+                    <div class="row banner-center-row">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>

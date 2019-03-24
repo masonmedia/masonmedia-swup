@@ -808,9 +808,9 @@ img.lazy-loaded {
 .banner-center-row {
     display: flex;
     flex-flow: row;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
-    text-align: left;
+    text-align: center;
 }
 
 .bg--home-banner {
@@ -1637,6 +1637,7 @@ footer li a {
     .banner-center, 
     .banner-center-row {
         display: flex;
+        flex-flow: column;
         justify-content: center;
         align-items: flex-start;
         text-align: left;

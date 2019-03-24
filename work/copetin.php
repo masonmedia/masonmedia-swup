@@ -80,8 +80,8 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 3, Flexbox, and Javascript for smooth anchor scrolling. It included the Open Table reservation API and a button for guest booking, and required photo sourcing, graphic design, custom typography, and extended the restaurant's existing color and branding themes. While the project didn't move forward, it was a huge improvement on their existing site, and instructive in designing for the restaurant industry.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3 pl-0">
-                    <div class="row d-flex justify-content-center align-items-center text-center mt-3">
+                <div class="container-fluid pt-3">
+                    <div class="row banner-center-row">
                         <div class="col-xs-12 pr-3 zoom zoom-slow">
                             <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>

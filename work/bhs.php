@@ -80,8 +80,8 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with HTML5, CSS3, Bootstrap 4, and AngularJS. It also required UX/UI design, copywriting, graphic design, color palette development, image/logo creation, and a Facebook band page design.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3 pl-0">
-                    <div class="row d-flex justify-content-center align-items-center text-center">
+                <div class="container-fluid pt-3">
+                    <div class="row banner-center-row">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
                             <a class="p-btn text-primary mt-3" href="http://bighornsheepband.com" target="_blank">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></a>
                         </div>

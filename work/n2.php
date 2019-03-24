@@ -80,13 +80,13 @@
                 <h3 class="section-title text-dark mb-0">Tech Specs.</h3>
                 <p class="p-big pt-3 m-0">The site is built with Wordpress, HTML5, CSS3, and features parallaxing background images, scroll animations, social media icons, and a blog. It also required copywriting and content creation, branding and logo design, color palette development, as well as image sourcing and creation.</p>
                 <!--button container-->
-                <div class="container-fluid pt-3 pl-0">
-                    <div class="row d-flex justify-content-center align-items-center">
+                <div class="container-fluid pt-3">
+                    <div class="row banner-center-row">
                         <div class="col-xs-6 pr-3 zoom zoom-slow">
-                            <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn mt-3 slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
+                            <button class="bg-trans border-0 p-0 down down-slow" data-toggle="modal" data-target="#modal"><p class="p-btn slide-down">See more <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></button>
                         </div>
                         <div class="col-xs-6 zoom zoom-slow">
-                            <a href="/work/bhs.php"><p class="p-btn mt-3 border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
+                            <a href="/work/bhs.php"><p class="p-btn border-0 p-0">Next project <i class="fa fa-angle-right fa-btn p-0 pl-2"></i></p></a> 
                         </div>
                     </div>
                 </div>
