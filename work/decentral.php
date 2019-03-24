@@ -35,7 +35,7 @@
                 <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Decentral</h2>
                     <h3 class="section-title text-dark mb-0">Approach.</h3>
-                    <p class="p-big pt-3 m-0">Decentral was founded in 2014 by blockchain and crypto pioneer Anthony Di Iorio. One of Toronto's earliest blockchain startups, Decentral is the maker of two industry-leading digital wallet apps. In my role as Decentral's lead web designer and developer, I have redesigned the main company website, remade its main app/product website twice with varying iterations of images, copy, and animation, overhauled its support website, redesigned the company blog, significantly improved SEO, and have created over 100 image assets. I continue to maintain, update, improve, and manage these properties, and have revitalized Decentral's branding and web presence over multiple languages and platforms.</p>
+                    <p class="p-big pt-3 m-0">Decentral was founded in 2014 by blockchain and crypto pioneer Anthony Di Iorio. One of Toronto's earliest blockchain startups, Decentral is the maker of two industry-leading digital wallet apps. In my role as Decentral's lead web designer and developer, I have redesigned the main company website, remade its main app/product website twice with varying iterations of images, copy, and animation, overhauled its support website, redesigned the company blog, significantly improved SEO, and have created over 100 image assets. In this process, I have revitalized Decentral's branding, design aesthetic, and web presence. I continue to maintain, manage, update, and improve, these properties on a daily basis.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
@@ -57,7 +57,7 @@
                 <div class="col-lg-8 banner-center py-3">
                     <h2 class="h4 text-primary">Decentral</h2>
                     <h3 class="section-title text-dark mb-0">Design solutions.</h3>
-                    <p class="p-big pt-3 m-0">In redesigning the company's previous static HTML, Wordpress, and front-end JS framework websites, I had to bring together numerous elements from multiple stakeholders including: design aesthetic(s), branding, UX, copywriting & message, typography, custom images and photography. I coded the main company and product sites from scratch using PHP to create reusable templates/modules, HTML5, CSS3, a jQuery/AJAX plugin called SWUP to create SPA-style, animated page transitions that do not require reload, and the GSAP animation library.</p>
+                    <p class="p-big pt-3 m-0">In redesigning the company's previous static HTML, Wordpress, and front-end JS framework websites, I had to bring together numerous elements from multiple stakeholders including: design aesthetic(s), branding, UX, copywriting & message, typography, custom images and photographyl as well as legal concerns with regard to copy and images. I coded the main company and product sites from scratch using PHP to create reusable templates/modules, HTML5, CSS3, a jQuery/AJAX plugin called SWUP to create SPA-style, animated page transitions that do not require reload, and the GSAP animation library.</p>
                 </div>
                 <div class="offset-lg-2"></div>
             </div>
