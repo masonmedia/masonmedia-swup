@@ -77,7 +77,7 @@ include 'includes/header.php';
                     <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-buiness-card-mockup-turq.jpg" alt="">
                 </div>
                 <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="w-100 lazy" data-data-src="/assets/img/wake-n-bake-buiness-card-mockup-green.jpg" alt="">
+                    <img class="w-100 lazy" data-src="/assets/img/wake-n-bake-buiness-card-mockup-green.jpg" alt="">
                 </div>
                 <div class="col-lg-12 min-700-lg d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
                     <img class="img-full absolute z-0 lazy" data-src="/assets/img/wake-n-bake-box-mockup-pink.jpg" alt="">
