@@ -17,9 +17,9 @@ include 'includes/header.php';
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Development</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
-                    <span class="d-table">Live</span>
-                    <span class="d-table">by</span>
-                    <span class="d-table">a code.</span>
+                    <span class="d-block knockout-rainbow">Live</span>
+                    <span class="d-block knockout-rainbow">by</span>
+                    <span class="d-block knockout-rainbow">a code.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

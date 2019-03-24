@@ -14,10 +14,10 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Copetín</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="knockout-rainbow">Inventive,</span><br>
-                    <span class="knockout-rainbow">elevated</span><br>
-                    <span class="knockout-rainbow">Canadian</span><br>
-                    <span class="knockout-rainbow">cuisine.</span>
+                    <span class="d-block knockout-rainbow">Inventive,</span><br>
+                    <span class="d-block knockout-rainbow">elevated</span><br>
+                    <span class="d-block knockout-rainbow">Canadian</span><br>
+                    <span class="d-block knockout-rainbow">cuisine.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

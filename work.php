@@ -15,10 +15,10 @@ include 'includes/header.php';
             <div class="col-lg-4 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
                 <h1 class="h4 mt-3 ds-black">Portfolio</h1>
                 <h2 class="site-title font-weight-bold ds-black">
-                    <span class="d-table">Some</span>
-                    <span class="d-table">of</span>
-                    <span class="d-table">my</span>
-                    <span class="d-table">work.</span>
+                    <span class="d-block knockout-rainbow">Some</span>
+                    <span class="d-block knockout-rainbow">of</span>
+                    <span class="d-block knockout-rainbow">my</span>
+                    <span class="d-block knockout-rainbow">work.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0 ds-black"></i></a>
             </div>

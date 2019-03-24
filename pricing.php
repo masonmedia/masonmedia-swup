@@ -13,12 +13,12 @@ include 'includes/header.php';
     <div id="banner" role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
             <img class="img-full absolute z-0 left-0 top-0 up up-med lazy" data-src="/assets/img/headphones-pink.jpeg" alt="Andrew Mason Copywriting">
-            <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light ts p-5">
+            <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Pricing</h1>
                 <h2 class="site-title font-weight-bold">
-                    <span class="d-table">Plans</span>
-                    <span class="d-table">and</span>
-                    <span class="d-table">options.</span>
+                    <span class="d-block knockout-rainbow">Plans</span>
+                    <span class="d-block knockout-rainbow">and</span>
+                    <span class="d-block knockout-rainbow">options.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

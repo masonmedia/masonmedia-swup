@@ -14,10 +14,10 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">The Mycorrhiza</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="knockout-rainbow">DJ.</span><br>
-                    <span class="knockout-rainbow">Producer.</span><br>
-                    <span class="knockout-rainbow">Composer.</span><br>
-                    <span class="knockout-rainbow">The Mycorrhiza.</span>
+                    <span class="d-block knockout-rainbow">DJ.</span><br>
+                    <span class="d-block knockout-rainbow">Producer.</span><br>
+                    <span class="d-block knockout-rainbow">Composer.</span><br>
+                    <span class="d-block knockout-rainbow">The Mycorrhiza.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

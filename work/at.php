@@ -14,8 +14,8 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left p-5">
                 <h1 class="h4 mt-3">Portfolio</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="d-table">Advance</span>
-                    <span class="d-table">Therapy.</span>
+                    <span class="d-block knockout-rainbow">Advance</span>
+                    <span class="d-block knockout-rainbow">Therapy.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

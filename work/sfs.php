@@ -14,10 +14,10 @@
             <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">Surefire Sweat</h1>
                 <h2 class="site-title font-weight-bold knockout-rainbow">
-                    <span class="knockout-rainbow">Funk</span><br> 
-                    <span class="knockout-rainbow">Jazz</span><br>
-                    <span class="knockout-rainbow">Brass Band</span><br>
-                    <span class="knockout-rainbow">and Afrobeat.</span>
+                    <span class="d-block knockout-rainbow">Funk</span><br> 
+                    <span class="d-block knockout-rainbow">Jazz</span><br>
+                    <span class="d-block knockout-rainbow">Brass Band</span><br>
+                    <span class="d-block knockout-rainbow">and Afrobeat.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>

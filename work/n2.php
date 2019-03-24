@@ -14,10 +14,10 @@
             <div class="col-lg-5 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3 ds-black">N2 Speech Therapy</h1>
                 <h2 class="site-title font-weight-bold">
-                    <span class="knockout-rainbow">Assessment,</span><br>
-                    <span class="knockout-rainbow">therapy,</span><br>
-                    <span class="knockout-rainbow">strategies,</span><br>
-                    <span class="knockout-rainbow">and consultation.</span>
+                    <span class="d-block knockout-rainbow">Assessment,</span><br>
+                    <span class="d-block knockout-rainbow">therapy,</span><br>
+                    <span class="d-block knockout-rainbow">strategies,</span><br>
+                    <span class="d-block knockout-rainbow">and consultation.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down ds-black p-0"></i></a>
             </div>

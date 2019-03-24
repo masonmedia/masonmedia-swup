@@ -14,9 +14,9 @@ include 'includes/header.php';
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Design</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">
-                    <span class="d-table">Bold.</span>
-                    <span class="d-table">Graphic.</span>
-                    <span class="d-table">Daring.</span>
+                    <span class="d-block knockout-rainbow">Bold.</span>
+                    <span class="d-block knockout-rainbow">Graphic.</span>
+                    <span class="d-block knockout-rainbow">Daring.</span>
                 </h2>
                 <a href="#sec-1"><i class="fa fa-angle-down p-0"></i></a>
             </div>
