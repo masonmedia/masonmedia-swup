@@ -10,10 +10,10 @@ include 'includes/header.php';
 
     <!--jumbotron-->
     
-    <div role="banner" class="container-fluid bg-black p-0">
+    <div id="banner" role="banner" class="container-fluid bg-black p-0">
         <div class="row d-flex min-700-lg relative py-5">
             <!-- <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="https://images.pexels.com/photos/1925099/pexels-photo-1925099.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="Mason Media Website Development"> -->
-            <img class="img-full absolute z-0 left-0 up up-med lazy" data-src="/assets/img/code.gif" alt="Mason Media Coding and Development">
+            <img class="img-full opacity absolute z-0 left-0 up up-med" src="/assets/img/code.gif" alt="Mason Media Coding and Development">
             <div class="col-lg-9 d-flex flex-column justify-content-center align-items-start text-left text-light p-5">
                 <h1 class="h4 mt-3">Development</h1>
                 <h2 class="site-title knockout-rainbow font-weight-bold">

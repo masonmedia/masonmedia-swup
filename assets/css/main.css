@@ -757,6 +757,11 @@ img.lazy-loaded {
 .opacity {
     opacity: 1;
 }
+/*remove lazy class treatment from home page banner, features phones, and modal imgs*/
+
+#banner img {
+    opacity: 1;
+}
 
 
 /* decentral logo ======================*/
