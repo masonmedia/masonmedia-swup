@@ -10,7 +10,7 @@ include 'includes/header.php';
 
 <div id="home" role="banner" class="container-fluid p-0">
    
-    <div class="row d-flex min-100 min--100 bg-black text-light py-5">
+    <div class="row d-flex min-100 bg-black text-light py-5">
        <!--
         <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
