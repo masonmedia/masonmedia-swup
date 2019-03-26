@@ -9,7 +9,7 @@
            echo $title; 
         } 
         else { 
-           echo "Default title tag"; 
+           echo "Mason Media | Design. Develop. Create."; 
         } ?></title>
         <!--core meta data-->
         <meta name="description" content="<?php
@@ -18,9 +18,9 @@
            echo $metaD; 
         } 
         else { 
-           echo "Andrew Mason founded Mason Media to create inspiring, risk-taking designs for web and print media."; 
+           echo "Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function."; 
         } ?>" />
-        <meta name="keywords" content="Decentral,Jaxx Liberty,Blockchain,Cryptocurrency,Decentral Inc.,Anthony Di Iorio">
+        <meta name="keywords" content="Andrew Mason Mason Media, Web Design, Websites, Web development, Toronto">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="manifest" href="site.webmanifest">
         <!--icons-->
@@ -28,19 +28,19 @@
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
         <!-- Place favicon.ico in the root directory -->
         <!-- Open Graph Meta Data -->
-        <meta property="og:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">
-        <meta property="og:image" content="https://www.jaxx.io/img/jaxx-banner-ss.jpg">
-        <meta property="og:site_name" content="jaxx.io">
-        <meta property="og:title" content="Jaxx Liberty: Your trusted all-in-one multi-asset digital wallet.">
+        <meta property="og:description" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta property="og:image" content="https://www.andrewmasonmedia.com/assets/img/blue-orange.jpeg">
+        <meta property="og:site_name" content="andrewmasonmedia.com">
+        <meta property="og:title" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://jaxx.io">
+        <meta property="og:url" content="https://andrewmasonmedia.com">
         <!-- Twitter Card Meta Data -->
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:site" content="https://jaxx.io">
+        <meta name="twitter:site" content="https://andrewmasonmedia.com">
         <meta name="twitter:creator" content="Decentral">
-        <meta name="twitter:title" content="Jaxx Liberty: Your trusted all-in-one multi-asset digital wallet.">
-        <meta name="twitter:description" content="Jaxx Liberty is a digital wallet that supports over 85 assets and is available on iOS, Android, Desktop, and for Google Chrome.">
-        <meta name="twitter:image" content="https://www.jaxx.io/img/jaxx-banner-ss.jpg">
+        <meta name="twitter:title" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta name="twitter:description" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta name="twitter:image" content="https://www.andrewmasonmedia.com/assets/img/blue-orange.jpeg">
         <!-- Styles -->
         <!--<link rel="stylesheet" href="/assets/css/aos.css">-->
         <link rel="stylesheet" href="/assets/css/normalize.css">
@@ -54,7 +54,7 @@
               "@type": "Organization",
               "name": "Mason Media",
               "@id":"http://andrewmasonmedia.com",
-              "knowsAbout": "Web Development, Graphic design, UX/UI design, Copywriting, Music",
+              "knowsAbout": "Web design, Web Development, Graphic design, UX/UI design, Copywriting, Music",
               "url": "https://andrewmasonmedia.com",
               "sameAs": [
                 "https://www.facebook.com/andrewmasonmedia/",
