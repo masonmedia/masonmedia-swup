@@ -11,8 +11,8 @@ include 'includes/header.php';
 <div id="home" role="banner" class="container-fluid p-0">
    
     <div class="row d-flex min-100 bg-black text-light py-5">
-        <img class="img-full banner-mobile absolute z-0 lazy" data-src="/assets/img/mason-banner-pink-wall.jpg" alt="Andrew Mason: Designer, Developer, Copywriter.">
-        <video class="absolute banner-desktop z-0 img-full" width="100%" height="100vh" autoplay loop>
+        <img class="img-full left-0 top-0 banner-mobile absolute z-0 opacity-full" src="/assets/img/mason-banner-pink-wall.jpg" alt="Andrew Mason: Designer, Developer, Copywriter.">
+        <video class="absolute banner-desktop z-0 img-full top-0 left-0" width="100vw" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
           <source src="movie.ogg" type="video/ogg">
         Your browser does not support the video tag.
