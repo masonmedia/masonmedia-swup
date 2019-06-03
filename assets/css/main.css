@@ -818,6 +818,11 @@ img.lazy-loaded {
     text-align: center;
 }
 
+/* bg images */
+
+.banner-mobile {
+    display: none;
+}
 .bg--home-banner {
     background: url(https://images.pexels.com/photos/1449082/pexels-photo-1449082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) center;
     background-size: cover;
@@ -964,6 +969,13 @@ img.lazy-loaded {
 }
 
 @media (max-width: 768px) {
+
+.banner-desktop {
+    display: none;
+    }
+.banner-mobile {
+    display: block;
+}
 .card-deck {
     -ms-flex-flow: column;
     flex-flow: column;
