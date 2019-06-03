@@ -22,7 +22,7 @@
         } ?>" />
         <meta name="keywords" content="Andrew Mason Mason Media, Web Design, Websites, Web development, Toronto">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="manifest" href="site.webmanifest">
+        <!-- <link rel="manifest" href="site.webmanifest"> -->
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
