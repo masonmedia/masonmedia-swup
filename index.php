@@ -11,6 +11,7 @@ include 'includes/header.php';
 <div id="home" role="banner" class="container-fluid p-0">
    
     <div class="row d-flex min-100 bg-black text-light py-5">
+        <img class="img-full absolute z-0 lazy" data-src="https://images.unsplash.com/photo-1555972694-13c981cd550c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80" alt="Andrew Mason: Designer, Developer, Copywriter.">
        <!--
         <video class="absolute z-0 img-full" width="100%" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
@@ -19,10 +20,10 @@ include 'includes/header.php';
         </video> 
 -->
         <div class="col-lg-12 banner-center p-5">
-            <h1 class="h4 pb-0 mb-0 up up-med">Mason Media</h1>
-            <h2 class="site-title-big stroke-gradient right right-slow">Design. Develop. Create.</h2>
-            <h3 class="h4 right right-med">Crafting ideas into reality.</h3>
-            <a href="#sec-1"><i class="fa fa-angle-down knockout-rainbow px-0 pt-2 up up-slow"></i></a>
+            <h1 class="h4 font-weight-bold ts pb-0 mb-0 up up-med">Andrew Mason</h1>
+            <h2 class="site-title-big stroke-gradient right right-slow">Designer. Developer. Writer.</h2>
+            <h3 class="h4 font-weight-bold ts right right-med">Crafting ideas into reality.</h3>
+            <a href="#sec-1"><i class="fa fa-angle-down text-light px-0 pt-2 up up-slow"></i></a>
         </div>
     </div>
 </div>

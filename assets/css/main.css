@@ -839,10 +839,6 @@ img.lazy-loaded {
     background-size: cover;
 }
 
-.bg--home-anthony {
-	background: url(https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAYI6oSYfeEE/v0/-1x-1.jpg) center;
-	background-size: cover;
-}
 .bg--home-skyline {
 	background: url(https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) center;
 	background-size: cover;
@@ -930,12 +926,24 @@ img.lazy-loaded {
 	background-size: cover;
 }
 .bg--home-download {
-	background: url(/assets/img/jaxx-couple-fireworks.jpg) center;
+	background: url(/assets/img/aimee-teaching-card-closeup.jpg) center;
 	background-size: cover;
 }
 .bg--home-laptop-hands {
 	background: url(/assets/img/jaxx-laptop-hands.jpg) center;
 	background-size: cover;
+}
+
+/* design page */
+
+.bg--img-aimee-teaching-card {
+    background: url(/assets/img/aimee-teaching-card-closeup.jpg) center;
+    background-size: cover;
+}
+
+.bg--img-aimee-performance-card {
+    background: url(/assets/img/aimee-performance-card.jpg) center;
+    background-size: cover;
 }
 
 /* home styles */

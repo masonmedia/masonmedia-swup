@@ -102,41 +102,41 @@ include 'includes/header.php';
         <!-- bhs images-->
         
         <section>
-            <div class="row d-flex min-400 text-secondary bg-white">
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-blue.jpg" alt="Big Horn Sheep Facebook cover design">
+            <div class="row d-flex text-secondary bg-white">
+                <div class="col-lg-4 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-logo-blue.jpg" alt="Big Horn Sheep Facebook cover design">
                 </div>
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-green.jpg" alt="Big Horn Sheep Facebook cover design">
+                <div class="col-lg-4 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-logo-green.jpg" alt="Big Horn Sheep Facebook cover design">
                 </div>
-                <div class="col-lg-4 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-logo-red.jpg" alt="Big Horn Sheep Facebook cover design">
+                <div class="col-lg-4 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-logo-red.jpg" alt="Big Horn Sheep Facebook cover design">
                 </div>
             </div>
         </section>
-        
+<!--         
         <section>
-            <div class="row d-flex min-400 bg-white relative">
-                <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <!--<img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">-->
+            <div class="row d-flex bg-white relative">
+                <div class="col-lg-12 min-400 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup.jpg" alt="Big Horn Sheep Facebook cover design">
                     <img class="img-full lazy" data-src="/assets/img/bhs-facebook-cover-mockup-black.jpg" alt="Big Horn Sheep Facebook cover design">
                 </div>
             </div>
-        </section>
+        </section> -->
         
         <section>
             <div class="row d-flex bg-light bg-light p-0">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
+                <div class="col-lg-6 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-poster-mockup-atari.jpg" alt="Big Horn Sheep poster design">
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
+                <div class="col-lg-6 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-poster-mockup-synthwave.jpg" alt="Big Horn Sheep poster design">
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
+                <div class="col-lg-6 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-poster-mockup-record.jpg" alt="Big Horn Sheep poster design">
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
+                <div class="col-lg-6 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/bhs-poster-mockup-nyc.jpg" alt="Big Horn Sheep poster design">
                 </div>
             </div>
         </section>
@@ -154,17 +154,17 @@ include 'includes/header.php';
         </section>
         
         <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-teaching-card-closeup.jpg" alt="Business card design for Aimee Claxton">
+            <div class="col-lg-6 bg--img-aimee-teaching-card min-400 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <!-- <img class="img relative left-0 lazy" data-src="/assets/img/aimee-teaching-card-closeup.jpg" alt="Business card design for Aimee Claxton"> -->
             </div>
-            <div class="col-lg-6 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-performance-card.jpg" alt="Business card design for Aimee Claxton">
+            <div class="col-lg-6 min-400 bg--img-aimee-performance-card d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <!-- <img class="img relative left-0 lazy" data-src="/assets/img/aimee-performance-card.jpg" alt="Business card design for Aimee Claxton"> -->
             </div>
         </div><!--end row-->
-        <div class="row d-flex min-400 text-secondary bg-white">
-            <div class="col-lg-12 min-500 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                <!--<img class="img-full relative left-0 lazy" src="/assets/img/aimee-joni-poster.jpg" alt="Business card design for Aimee Claxton">-->
-                <img class="img-full relative left-0 lazy" data-src="/assets/img/aimee-joni-poster-2.jpg" alt="Business card design for Aimee Claxton">
+        <div class="row d-flex text-secondary bg-white">
+            <div class="col-lg-12 min-300 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                <!--<img class="img relative left-0 lazy" src="/assets/img/aimee-joni-poster.jpg" alt="Business card design for Aimee Claxton">-->
+                <img class="img relative left-0 lazy" data-src="/assets/img/aimee-joni-poster-2.jpg" alt="Business card design for Aimee Claxton">
             </div>
         </div><!--end row-->
         
@@ -248,11 +248,11 @@ include 'includes/header.php';
 
         <section>
             <div class="row d-flex bg-light bg-light p-0">
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Designs for Jen Mason PhD.">
+                <div class="col-lg-6 min-400 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/jm-mindfulness-flyer-front.jpg" alt="Designs for Jen Mason PhD.">
                 </div>
-                <div class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
-                    <img class="img-full lazy" data-src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Designs for Jen Mason PhD.">
+                <div class="col-lg-6 min-400 d-flex flex-column justify-content-center align-items-start text-left p-0 o-12">
+                    <img class="img lazy" data-src="/assets/img/jm-mindfulness-flyer-back.jpg" alt="Designs for Jen Mason PhD.">
                 </div>
             </div>
         </section>
