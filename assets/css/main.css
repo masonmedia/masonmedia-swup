@@ -420,10 +420,11 @@ p {
 }
 /* from https://codepen.io/sethjenks/pen/KpNJZp */
 .stroke-gradient {
-    background: -webkit-linear-gradient(-86deg, #FF0080 5%, #FF8C00 53%, #40E0D0 91%);
+    /* background: -webkit-linear-gradient(-86deg, #FF0080 5%, #FF8C00 53%, #40E0D0 91%); */
   -webkit-background-clip: text;
-  -webkit-text-stroke: 4px transparent;
+  -webkit-text-stroke: 8px transparent;
   color: #000;
+  background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
 }
 
 .hr-big {

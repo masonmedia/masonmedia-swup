@@ -30,7 +30,6 @@
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
-        <!-- Place favicon.ico in the root directory -->
         <!-- Open Graph Meta Data -->
         <meta property="og:description" content="Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta property="og:image" content="https://www.andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg">
