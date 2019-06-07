@@ -10,13 +10,15 @@ include 'includes/header.php';
 
 <div id="home" role="banner" class="container-fluid p-0">
    
-    <div class="row d-flex min-100 bg-black text-light py-5">
-        <img class="img-full left-0 top-0 banner-mobile absolute z-0 opacity-full min-100" src="/assets/img/mason-banner-pink-wall.jpg" alt="Andrew Mason: Designer, Developer, Copywriter.">
-        <video class="absolute banner-desktop z-0 img-full top-0 left-0" width="100vw" height="100vh" autoplay loop>
+    <div class="row relative d-flex min-100 bg-black text-light py-5">
+        <img class="img-full left-0 top-0 absolute z-0 opacity-full lazy" data-src="/assets/img/mason-media-lens.jpg" alt="">
+        <!-- assets/img/mason-media-yellow-coffee.jpg -->
+        <!-- <img class="img-full left-0 top-0 banner-mobile absolute z-0 opacity-full min-100" src="/assets/img/mason-banner-pink-wall.jpg" alt="Andrew Mason: Designer, Developer, Copywriter."> -->
+        <!-- <video class="absolute banner-desktop z-0 img-full top-0 left-0" width="100vw" height="100vh" autoplay loop>
           <source src="/assets/img/video-paint-white.mp4" type="video/mp4">
           <source src="movie.ogg" type="video/ogg">
         Your browser does not support the video tag.
-        </video> 
+        </video>  -->
         <div class="col-lg-12 banner-center p-5">
             <h1 class="h4 font-weight-bold ts pb-0 mb-0 up up-med">Andrew Mason</h1>
             <h2 class="site-title-big stroke-gradient mb-0 right right-slow">Designer. Developer. Writer.</h2>

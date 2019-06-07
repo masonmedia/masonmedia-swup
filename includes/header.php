@@ -1,6 +1,10 @@
 
 <!doctype html>
 <html class="no-js" lang="">
+    <!--[if lte IE 6]><html class="preIE7 preIE8 preIE9"><![endif]-->
+    <!--[if IE 7]><html class="preIE8 preIE9"><![endif]-->
+    <!--[if IE 8]><html class="preIE9"><![endif]-->
+    <!--[if gte IE 9]><!--><html><!--<![endif]-->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -9,7 +13,7 @@
            echo $title; 
         } 
         else { 
-           echo "Mason Media | Design. Develop. Create."; 
+           echo "Mason Media: Toronto web development, graphic design, and copywriting services."; 
         } ?></title>
         <!--core meta data-->
         <meta name="description" content="<?php
@@ -18,35 +22,35 @@
            echo $metaD; 
         } 
         else { 
-           echo "Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function."; 
+           echo "Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function."; 
         } ?>" />
         <meta name="keywords" content="Andrew Mason Mason Media, Web Design, Websites, Web development, Toronto">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <!-- <link rel="manifest" href="site.webmanifest"> -->
+        <!--<link rel="manifest" href="site.webmanifest">-->
         <!--icons-->
         <link rel="apple-touch-icon" href="icon.png">
         <link rel="shortcut icon" href="/mm-favicon-pink.png">
         <!-- Place favicon.ico in the root directory -->
         <!-- Open Graph Meta Data -->
-        <meta property="og:description" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
-        <meta property="og:image" content="https://www.andrewmasonmedia.com/assets/img/blue-orange.jpeg">
+        <meta property="og:description" content="Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta property="og:image" content="https://www.andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg">
         <meta property="og:site_name" content="andrewmasonmedia.com">
-        <meta property="og:title" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta property="og:title" content="Andrew Mason is a Toronto designer, web developer, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://andrewmasonmedia.com">
         <!-- Twitter Card Meta Data -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="https://andrewmasonmedia.com">
         <meta name="twitter:creator" content="Decentral">
-        <meta name="twitter:title" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta name="twitter:title" content="Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta name="twitter:description" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
-        <meta name="twitter:image" content="https://www.andrewmasonmedia.com/assets/img/blue-orange.jpeg">
+        <meta name="twitter:image" content="https://www.andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg">
         <!-- Styles -->
         <!--<link rel="stylesheet" href="/assets/css/aos.css">-->
         <link rel="stylesheet" href="/assets/css/normalize.css">
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="stylesheet" href="/assets/css/main.css?=01">
         <!--schema structural data-->
         <script type="application/ld+json">
             {
@@ -66,6 +70,7 @@
               "image": [
                 "https://andrewmasonmedia.com/assets/img/mason-bass.jpeg",
                 "https://andrewmasonmedia.com/assets/img/mason-media-lens.jpg",
+                "https://andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg",
                 "https://andrewmasonmedia.com/assets/img/writing-123-lets-go.jpeg",
                 "https://andrewmasonmedia.com/assets/img/mm-bg-work.jpeg"
                ],
@@ -126,19 +131,19 @@
                         <a class="nav-link" href="/">home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/design.php">design</a>
+                        <a class="nav-link" href="/design">design</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/development.php">development</a>
+                        <a class="nav-link" href="/development">development</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/writing.php">writing</a>
+                        <a class="nav-link" href="/writing">writing</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/work/home.php">work</a>
+                        <a class="nav-link" href="/work/home">work</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/pricing.php">pricing</a>
+                        <a class="nav-link" href="/pricing">pricing</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="mailto:andrewmasonmedia@gmail.com">contact</a>
