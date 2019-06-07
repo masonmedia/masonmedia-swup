@@ -1,9 +1,5 @@
 <?php
-
-$title = "Mason Media | Home";
-
 include 'includes/header.php';
-
 ?>
 
 <!--banner-->

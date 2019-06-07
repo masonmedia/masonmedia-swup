@@ -13,7 +13,7 @@
            echo $title; 
         } 
         else { 
-           echo "Mason Media: Toronto web development, graphic design, and copywriting services."; 
+           echo "Andrew Mason: Toronto Web Developer, Graphic Designer, and Copywriter."; 
         } ?></title>
         <!--core meta data-->
         <meta name="description" content="<?php
@@ -34,7 +34,7 @@
         <!-- Open Graph Meta Data -->
         <meta property="og:description" content="Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta property="og:image" content="https://www.andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg">
-        <meta property="og:site_name" content="andrewmasonmedia.com">
+        <meta property="og:site_name" content="Andrew Mason: Toronto Web Developer, Graphic Designer, and Copywriter.">
         <meta property="og:title" content="Andrew Mason is a Toronto designer, web developer, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://andrewmasonmedia.com">
@@ -42,7 +42,7 @@
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:site" content="https://andrewmasonmedia.com">
         <meta name="twitter:creator" content="Decentral">
-        <meta name="twitter:title" content="Andrew Mason is a Toronto web developer, designer, and writer who creates modern, risk-taking web experiences that blend form and function.">
+        <meta name="twitter:title" content="Andrew Mason: Toronto Web Developer, Graphic Designer, and Copywriter.">
         <meta name="twitter:description" content="Andrew Mason is a Toronto designer, coder, and writer who creates modern, risk-taking web experiences that blend form and function.">
         <meta name="twitter:image" content="https://www.andrewmasonmedia.com/assets/img/mason-media-home-ss.jpg">
         <!-- Styles -->
