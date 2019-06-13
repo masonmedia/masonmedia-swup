@@ -49,7 +49,7 @@
         <link rel="stylesheet" href="/assets/css/normalize.css">
         <link rel="stylesheet" href="/assets/css/font-awesome-4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="/assets/css/main.css?=01">
+        <link rel="stylesheet" href="/assets/css/main.css?=11">
         <!--schema structural data-->
         <script type="application/ld+json">
             {
@@ -62,8 +62,8 @@
               "sameAs": [
                 "https://www.facebook.com/andrewmasonmedia/",
                 "https://twitter.com/C_AndrewMason",
-                "https://www.instagram.com/jaxx_io/",
-                "http://copy.andrewmasonmedia.com/"
+                "http://copy.andrewmasonmedia.com/",
+                "https://github.com/masonmedia"
               ],
               "logo": "",
               "image": [
