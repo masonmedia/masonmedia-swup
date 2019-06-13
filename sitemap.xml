@@ -7,67 +7,73 @@
 
     <url>
       <loc>http://andrewmasonmedia.com/</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <lastmod>2019-06-13</lastmod>
       <priority>1.00</priority>
     </url>
 
    <url>
       <loc>http://andrewmasonmedia.com/design</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
     
     <url>
       <loc>http://andrewmasonmedia.com/development</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
     
     <url>
       <loc>http://andrewmasonmedia.com/writing</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
     
     <url>
-      <loc>http://andrewmasonmedia.com/work</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/home</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
-      <loc>http://andrewmasonmedia.com/decentral</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/decentral</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
-      <loc>http://andrewmasonmedia.com/n2</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/n2</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
-      <loc>http://andrewmasonmedia.com/djm</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/djm</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
-      <loc>http://andrewmasonmedia.com/sfs</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/sfs</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
-      <loc>http://andrewmasonmedia.com/at</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <loc>http://andrewmasonmedia.com/work/at</loc>
+      <lastmod>2019-06-13</lastmod>
+      <priority>0.80</priority>
+    </url>
+
+    <url>
+      <loc>http://andrewmasonmedia.com/work/copetin</loc>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
     <url>
       <loc>http://andrewmasonmedia.com/contact</loc>
-      <lastmod>2017-11-30T23:59:59+00:00</lastmod>
+      <lastmod>2019-06-13</lastmod>
       <priority>0.80</priority>
     </url>
 
