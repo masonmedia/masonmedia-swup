@@ -70,6 +70,17 @@
     <script src="/assets/js/tilt.jquery.min.js"></script>
     <script src="/assets/js/cookieconsent.min.js"></script>
     <script src="/assets/js/main.js"></script>
+    <!-- Default Statcounter code for Mason Media
+        http://www.andrewmasonmedia.com -->
+        <script type="text/javascript">
+        var sc_project=11730072; 
+        var sc_invisible=1; 
+        var sc_security="26b82af7"; 
+        </script>
+        <script type="text/javascript"
+        src="https://www.statcounter.com/counter/counter.js"
+        async></script>
+        <!-- End of Statcounter Code -->
     <!-- Global site tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85893600-1"></script>
     <script>
